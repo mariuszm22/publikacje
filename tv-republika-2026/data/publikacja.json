@@ -57,7 +57,33 @@
       "estimatedNet2026": null,
       "estimateMethod": "Nie wyliczano bez indywidualnego mediaplanu, rabatów i okresu usług.",
       "ownerShort": "Auto Fus Group; łańcuch kapitałowy nieustalony",
-      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców."
+      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców.",
+      "officialContacts": {
+        "checkedAt": "2026-11-09",
+        "address": {
+          "legalName": "AFG ELECTRIC MOTORS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "value": "ul. Ostrobramska 73, 04-175 Warszawa, Polska",
+          "country": "Polska",
+          "sourceUrl": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0001083458?rejestr=P&format=json",
+          "sourceTitle": "Ministerstwo Sprawiedliwości — odpis aktualny KRS 0001083458",
+          "evidence": "OSTROBRAMSKA, 73, 04-175, WARSZAWA",
+          "checkedAt": "2026-11-09",
+          "notes": "Odczytano bezpośrednio publiczne API KRS; Dział 1, siedziba i adres podmiotu.",
+          "registryId": "0001083458",
+          "sourceId": "CT001"
+        },
+        "x": null,
+        "facebook": null,
+        "additionalAddresses": [],
+        "missingNotes": [
+          "Nie potwierdzono profilu X ani Facebook AFG Electric Motors. Wzmianki o profilu importowanej marki Dongfeng Polska nie są automatycznie profilem samej spółki AFG."
+        ],
+        "attemptedSources": [
+          "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0001083458?rejestr=P&format=json",
+          "https://dongfengmotor.com.pl/",
+          "https://dongfengmotor.com.pl/polityka-prywatnosci"
+        ]
+      }
     },
     {
       "id": "R007",
@@ -110,7 +136,44 @@
       "estimatedNet2026": null,
       "estimateMethod": "Nie wyliczano bez indywidualnego mediaplanu, rabatów i okresu usług.",
       "ownerShort": "Rodzina Furmanów",
-      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców."
+      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców.",
+      "officialContacts": {
+        "checkedAt": "2026-11-09",
+        "address": {
+          "legalName": "Aflofarm Farmacja Polska sp. z o.o.",
+          "value": "ul. Partyzancka 133/151, 95-200 Pabianice, Polska",
+          "country": "Polska",
+          "sourceUrl": "https://www.aflofarm.com.pl/pl/kontakt/",
+          "sourceTitle": "Skontaktuj się z nami — Aflofarm",
+          "evidence": "Siedziba firmy Aflofarm Farmacja Polska Sp. z o.o. — ul. Partyzancka 133/151, 95-200 Pabianice",
+          "checkedAt": "2026-11-09",
+          "notes": "Oficjalna strona firmy wprost oznacza adres jako siedzibę; administrator danych w tej samej treści ma tę samą siedzibę.",
+          "sourceId": "CT002"
+        },
+        "x": null,
+        "facebook": {
+          "url": "https://www.facebook.com/postroniezdrowia/",
+          "label": "Aflofarm — Po Stronie Zdrowia",
+          "scope": "operator",
+          "sourceUrl": "https://www.aflofarm.com.pl/pl/kontakt/",
+          "sourceTitle": "Aflofarm — Kontakt i odnośnik społecznościowy",
+          "evidence": "href=\"https://www.facebook.com/postroniezdrowia/\"",
+          "checkedAt": "2026-11-09",
+          "activityStatus": "Nie ustalono",
+          "lastActivityDate": null,
+          "notes": "Oficjalność potwierdzona wskazanym źródłem; nie uzyskano dostępnego odczytu daty ostatniego wpisu, więc nie przypisano statusu aktywności.",
+          "verificationMethod": "Odnośnik opublikowany przez właściciela oficjalnej witryny lub aplikacji.",
+          "sourceId": "CT002"
+        },
+        "additionalAddresses": [],
+        "missingNotes": [
+          "Brak potwierdzonego profilu X w sprawdzonych źródłach; nie jest to dowód nieistnienia konta."
+        ],
+        "attemptedSources": [
+          "https://www.aflofarm.com.pl/pl/kontakt/",
+          "https://www.facebook.com/postroniezdrowia/"
+        ]
+      }
     },
     {
       "id": "R039",
@@ -167,7 +230,46 @@
       "estimatedNet2026": null,
       "estimateMethod": "Nie wyliczano bez indywidualnego mediaplanu, rabatów i okresu usług.",
       "ownerShort": "Asahi Europe & International",
-      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców."
+      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców.",
+      "officialContacts": {
+        "checkedAt": "2026-11-09",
+        "address": {
+          "legalName": "KOMPANIA PIWOWARSKA SPÓŁKA AKCYJNA",
+          "value": "ul. Emilii Plater 53, 00-113 Warszawa, Polska",
+          "country": "Polska",
+          "sourceUrl": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000086269?rejestr=P&format=json",
+          "sourceTitle": "Ministerstwo Sprawiedliwości — odpis aktualny KRS 0000086269",
+          "evidence": "UL. EMILII PLATER, 53, 00-113, WARSZAWA",
+          "checkedAt": "2026-11-09",
+          "notes": "Odczytano bezpośrednio publiczne API KRS; Dział 1, siedziba i adres podmiotu. Aktualna siedziba jest w Warszawie. Poznań, ul. Szwajcarska 11, występuje w starszych dokumentach i jako adres korespondencyjny; nie zastępuje aktualnego adresu rejestrowego.",
+          "registryId": "0000086269",
+          "sourceId": "CT003"
+        },
+        "x": null,
+        "facebook": {
+          "url": "https://www.facebook.com/CaptainJackbeer",
+          "label": "Captain Jack — polska marka",
+          "scope": "brand",
+          "sourceUrl": "https://kp.pl/nasze-piwa/captain-jack/",
+          "sourceTitle": "Captain Jack — oficjalna karta marki Kompanii Piwowarskiej",
+          "evidence": "Facebook: https://www.facebook.com/CaptainJackbeer",
+          "checkedAt": "2026-11-09",
+          "activityStatus": "Nie ustalono",
+          "lastActivityDate": null,
+          "notes": "Oficjalność potwierdzona wskazanym źródłem; nie uzyskano dostępnego odczytu daty ostatniego wpisu, więc nie przypisano statusu aktywności.",
+          "verificationMethod": "Odnośnik opublikowany przez właściciela oficjalnej witryny lub aplikacji.",
+          "sourceId": "CT004"
+        },
+        "additionalAddresses": [],
+        "missingNotes": [
+          "Brak potwierdzonego profilu X w sprawdzonych źródłach; nie jest to dowód nieistnienia konta."
+        ],
+        "attemptedSources": [
+          "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000086269?rejestr=P&format=json",
+          "https://kp.pl/nasze-piwa/captain-jack/",
+          "https://www.facebook.com/CaptainJackbeer"
+        ]
+      }
     },
     {
       "id": "R022",
@@ -217,7 +319,46 @@
       "estimatedNet2026": null,
       "estimateMethod": "Nie wyliczano bez indywidualnego mediaplanu, rabatów i okresu usług.",
       "ownerShort": "Nieustalony",
-      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców."
+      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców.",
+      "officialContacts": {
+        "checkedAt": "2026-11-09",
+        "address": {
+          "legalName": "NOX2 SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "value": "ul. Sarmacka 5G, 02-972 Warszawa, Polska",
+          "country": "Polska",
+          "sourceUrl": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0001126653?rejestr=P&format=json",
+          "sourceTitle": "Ministerstwo Sprawiedliwości — odpis aktualny KRS 0001126653",
+          "evidence": "UL. SARMACKA, 5G, 02-972, WARSZAWA",
+          "checkedAt": "2026-11-09",
+          "notes": "Odczytano bezpośrednio publiczne API KRS; Dział 1, siedziba i adres podmiotu. KRS wskazuje kod 02-972; regulamin CarFix podaje 00-972. Rozstrzygnięto według aktualnego odpisu, bez kopiowania błędnego kodu z regulaminu.",
+          "registryId": "0001126653",
+          "sourceId": "CT005"
+        },
+        "x": null,
+        "facebook": {
+          "url": "https://www.facebook.com/carfix.ac.eu/",
+          "label": "CarFix",
+          "scope": "brand",
+          "sourceUrl": "https://carfix.ac/",
+          "sourceTitle": "CarFix — oficjalna strona",
+          "evidence": "href=\"https://www.facebook.com/carfix.ac.eu/\"",
+          "checkedAt": "2026-11-09",
+          "activityStatus": "Nie ustalono",
+          "lastActivityDate": null,
+          "notes": "Oficjalność potwierdzona wskazanym źródłem; nie uzyskano dostępnego odczytu daty ostatniego wpisu, więc nie przypisano statusu aktywności.",
+          "verificationMethod": "Odnośnik opublikowany przez właściciela oficjalnej witryny lub aplikacji.",
+          "sourceId": "CT006"
+        },
+        "additionalAddresses": [],
+        "missingNotes": [
+          "Brak potwierdzonego profilu X w sprawdzonych źródłach; nie jest to dowód nieistnienia konta."
+        ],
+        "attemptedSources": [
+          "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0001126653?rejestr=P&format=json",
+          "https://carfix.ac/",
+          "https://www.facebook.com/carfix.ac.eu/"
+        ]
+      }
     },
     {
       "id": "R003",
@@ -275,7 +416,46 @@
       "estimatedNet2026": null,
       "estimateMethod": "Nie wyliczano bez indywidualnego mediaplanu, rabatów i okresu usług.",
       "ownerShort": "Kingfisher plc",
-      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców."
+      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców.",
+      "officialContacts": {
+        "checkedAt": "2026-11-09",
+        "address": {
+          "legalName": "CASTORAMA POLSKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "value": "ul. Krakowiaków 78, 02-255 Warszawa, Polska",
+          "country": "Polska",
+          "sourceUrl": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000024785?rejestr=P&format=json",
+          "sourceTitle": "Ministerstwo Sprawiedliwości — odpis aktualny KRS 0000024785",
+          "evidence": "KRAKOWIAKÓW, 78, 02-255, WARSZAWA",
+          "checkedAt": "2026-11-09",
+          "notes": "Odczytano bezpośrednio publiczne API KRS; Dział 1, siedziba i adres podmiotu.",
+          "registryId": "0000024785",
+          "sourceId": "CT007"
+        },
+        "x": null,
+        "facebook": {
+          "url": "https://www.facebook.com/CastoramaPolska",
+          "label": "Castorama Polska",
+          "scope": "brand",
+          "sourceUrl": "https://media.castorama.pl/media/wysiwyg/regulaminy/Regulamin_konkursu-Kwiaty_za_elektrograty_FB_IG.pdf",
+          "sourceTitle": "Regulamin konkursu Kwiaty za elektrograty — Castorama",
+          "evidence": "profilu Castorama Polska na portalu Facebook.com pod adresem: www.facebook.com/CastoramaPolska",
+          "checkedAt": "2026-11-09",
+          "activityStatus": "Nie ustalono",
+          "lastActivityDate": null,
+          "notes": "Odczytano pierwszą stronę PDF na oficjalnej domenie. Dokument wskazuje nazwę i URL profilu marki, nie profil organizatora konkursu FAB Group. Aktualności profilu nie ustalono; Facebook ograniczył odczyt.",
+          "verificationMethod": "Odnośnik opublikowany przez właściciela oficjalnej witryny lub aplikacji.",
+          "sourceId": "CT008"
+        },
+        "additionalAddresses": [],
+        "missingNotes": [
+          "Brak potwierdzonego profilu X w sprawdzonych źródłach; nie jest to dowód nieistnienia konta."
+        ],
+        "attemptedSources": [
+          "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000024785?rejestr=P&format=json",
+          "https://media.castorama.pl/media/wysiwyg/regulaminy/Regulamin_konkursu-Kwiaty_za_elektrograty_FB_IG.pdf",
+          "https://www.facebook.com/CastoramaPolska"
+        ]
+      }
     },
     {
       "id": "R025",
@@ -325,7 +505,37 @@
       "estimatedNet2026": null,
       "estimateMethod": "Nie wyliczano bez indywidualnego mediaplanu, rabatów i okresu usług.",
       "ownerShort": "Stowarzyszenie Apostolstwa Katolickiego — Pallotyni",
-      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców."
+      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców.",
+      "officialContacts": {
+        "checkedAt": "2026-11-09",
+        "address": null,
+        "x": null,
+        "facebook": {
+          "url": "https://www.facebook.com/CentrumAnimacjiMisyjnej",
+          "label": "Centrum Animacji Misyjnej — Konstancin-Jeziorna",
+          "scope": "brand",
+          "sourceUrl": "https://cam.pallotyni.pl/",
+          "sourceTitle": "Pallotyńskie Centrum Animacji Misyjnej — oficjalna strona",
+          "evidence": "href=\"http://www.facebook.com/CentrumAnimacjiMisyjnej\"",
+          "checkedAt": "2026-11-09",
+          "activityStatus": "Nie ustalono",
+          "lastActivityDate": null,
+          "notes": "Oficjalność potwierdzona wskazanym źródłem; nie uzyskano dostępnego odczytu daty ostatniego wpisu, więc nie przypisano statusu aktywności.",
+          "verificationMethod": "Odnośnik opublikowany przez właściciela oficjalnej witryny lub aplikacji.",
+          "sourceId": "CT009"
+        },
+        "additionalAddresses": [],
+        "missingNotes": [
+          "Adres siedziby prawnej pozostawiono nieustalony: oficjalne strony CAM i archidiecezji potwierdzają lokalizację centrum ul. Leśna15/17,05-510Konstancin-Jeziorna, ale nie rozstrzygają pełnej cywilnoprawnej nazwy osoby prawnej i jej adresu rejestrowego. NGO.pl oznacza tę lokalizację jako adres rejestrowy Domu zakonnego Stowarzyszenia Apostolstwa Katolickiego (Pallotyni) Centrum Animacji Misyjnej w Konstancinie-Jeziornie, NIP1230879290, REGON040001215; nie uzyskano bezpośredniego odpisu urzędowego, więc nie zamieniono adresu ośrodka na pewny adres siedziby prawnej.",
+          "Brak potwierdzonego profilu X w sprawdzonych źródłach; nie jest to dowód nieistnienia konta."
+        ],
+        "attemptedSources": [
+          "https://cam.pallotyni.pl/",
+          "https://www.facebook.com/CentrumAnimacjiMisyjnej",
+          "https://archwwa.pl/miejsca/centrum-animacji-misyjnej-stowarzyszenia-apostolstwa-katolickiego/",
+          "https://spis.ngo.pl/170447-dom-zakonny-stowarzyszenia-apostolstwa-katolickiego-pallotyni-centrum-animacji-misyjnej-w-konstancinie-jeziornie"
+        ]
+      }
     },
     {
       "id": "R032",
@@ -382,7 +592,66 @@
       "estimatedNet2026": null,
       "estimateMethod": "Nie wyliczano bez indywidualnego mediaplanu, rabatów i okresu usług.",
       "ownerShort": "CVC Capital Partners",
-      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców."
+      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców.",
+      "officialContacts": {
+        "checkedAt": "2026-11-09",
+        "address": {
+          "legalName": "COMARCH SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "value": "ul. prof. Michała Życzkowskiego 33, 31-864 Kraków, Polska",
+          "country": "Polska",
+          "sourceUrl": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0001273837?rejestr=P&format=json",
+          "sourceTitle": "Ministerstwo Sprawiedliwości — odpis aktualny KRS 0001273837",
+          "evidence": "UL. PROF. MICHAŁA ŻYCZKOWSKIEGO, 33, 31-864, KRAKÓW",
+          "checkedAt": "2026-11-09",
+          "notes": "Odczytano bezpośrednio publiczne API KRS; Dział 1, siedziba i adres podmiotu. Odróżniono aktualną spółkę z o.o. KRS 0001273837 od historycznej S.A. KRS 0000057567 i jej dawnego adresu Jana Pawła II 39A. Oficjalna strona nowej spółki potwierdza ten adres.",
+          "registryId": "0001273837",
+          "additionalSources": [
+            {
+              "url": "https://www.comarch.pl/o-firmie/grupa-kapitalowa-i-spolki-stowarzyszone/comarch-sp-z-oo/",
+              "title": "COMARCH sp. z o.o. — oficjalne dane rejestrowe",
+              "evidence": "KRS: 0001273837; Adres: ul. Prof. Michała Życzkowskiego 33, 31-864 Kraków",
+              "checkedAt": "2026-11-09"
+            }
+          ],
+          "sourceId": "CT010"
+        },
+        "x": {
+          "url": "https://x.com/comarchgroup",
+          "label": "Comarch — profil globalny operatora",
+          "scope": "operator",
+          "sourceUrl": "https://www.comarch.pl/",
+          "sourceTitle": "Comarch — oficjalna strona polska",
+          "evidence": "href=\"https://twitter.com/comarchgroup\"",
+          "checkedAt": "2026-11-09",
+          "activityStatus": "Nie ustalono",
+          "lastActivityDate": null,
+          "notes": "Oficjalna witryna odsyła do konta comarchgroup w historycznej domenie twitter.com; URL publikacji używa równoważnej domeny x.com. Nie ustalono ostatniej aktywności; X nie udostępnił treści wpisów.",
+          "verificationMethod": "Odnośnik opublikowany przez właściciela oficjalnej witryny lub aplikacji.",
+          "sourceId": "CT011"
+        },
+        "facebook": {
+          "url": "https://pl-pl.facebook.com/pages/Comarch-Poland/137434822955198",
+          "label": "Comarch Polska — operator",
+          "scope": "operator",
+          "sourceUrl": "https://www.comarch.pl/",
+          "sourceTitle": "Comarch — oficjalna strona polska",
+          "evidence": "href=\"https://pl-pl.facebook.com/pages/Comarch-Poland/137434822955198\"",
+          "checkedAt": "2026-11-09",
+          "activityStatus": "Nie ustalono",
+          "lastActivityDate": null,
+          "notes": "Oficjalność potwierdzona wskazanym źródłem; nie uzyskano dostępnego odczytu daty ostatniego wpisu, więc nie przypisano statusu aktywności.",
+          "verificationMethod": "Odnośnik opublikowany przez właściciela oficjalnej witryny lub aplikacji.",
+          "sourceId": "CT011"
+        },
+        "additionalAddresses": [],
+        "missingNotes": [],
+        "attemptedSources": [
+          "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0001273837?rejestr=P&format=json",
+          "https://www.comarch.pl/",
+          "https://x.com/comarchgroup",
+          "https://pl-pl.facebook.com/pages/Comarch-Poland/137434822955198"
+        ]
+      }
     },
     {
       "id": "R016",
@@ -448,7 +717,46 @@
       "estimatedNet2026": null,
       "estimateMethod": "Nie wyliczano bez indywidualnego mediaplanu, rabatów i okresu usług.",
       "ownerShort": "EkaMedica sp. z o.o.",
-      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców."
+      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców.",
+      "officialContacts": {
+        "checkedAt": "2026-11-09",
+        "address": {
+          "legalName": "EKAMEDICA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SPÓŁKA KOMANDYTOWA",
+          "value": "ul. Bielska 78A, 43-340 Kozy, Polska",
+          "country": "Polska",
+          "sourceUrl": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000599856?rejestr=P&format=json",
+          "sourceTitle": "Ministerstwo Sprawiedliwości — odpis aktualny KRS 0000599856",
+          "evidence": "UL. BIELSKA, 78A, 43-340, KOZY",
+          "checkedAt": "2026-11-09",
+          "notes": "Odczytano bezpośrednio publiczne API KRS; Dział 1, siedziba i adres podmiotu.",
+          "registryId": "0000599856",
+          "sourceId": "CT012"
+        },
+        "x": null,
+        "facebook": {
+          "url": "https://www.facebook.com/EkaMedica/",
+          "label": "EkaMedica",
+          "scope": "brand",
+          "sourceUrl": "https://ekamedica24.pl/",
+          "sourceTitle": "EkaMedica24 — oficjalny sklep wskazany przez EkaMedica",
+          "evidence": "href=\"https://www.facebook.com/EkaMedica/\"",
+          "checkedAt": "2026-11-09",
+          "activityStatus": "Nie ustalono",
+          "lastActivityDate": null,
+          "notes": "Oficjalna witryna ekamedica.pl/kontakt odsyła do sklepu ekamedica24.pl; w źródle HTML tego sklepu jest odnośnik do profilu EkaMedica. Facebook nie udostępnił aktualności.",
+          "verificationMethod": "Odnośnik opublikowany przez właściciela oficjalnej witryny lub aplikacji.",
+          "sourceId": "CT013"
+        },
+        "additionalAddresses": [],
+        "missingNotes": [
+          "Brak potwierdzonego profilu X w sprawdzonych źródłach; nie jest to dowód nieistnienia konta."
+        ],
+        "attemptedSources": [
+          "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000599856?rejestr=P&format=json",
+          "https://ekamedica24.pl/",
+          "https://www.facebook.com/EkaMedica/"
+        ]
+      }
     },
     {
       "id": "R010",
@@ -505,7 +813,58 @@
       "estimatedNet2026": null,
       "estimateMethod": "Nie wyliczano bez indywidualnego mediaplanu, rabatów i okresu usług.",
       "ownerShort": "Tomasz Sakiewicz — część udziałów",
-      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców."
+      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców.",
+      "officialContacts": {
+        "checkedAt": "2026-11-09",
+        "address": {
+          "legalName": "\"NIEZALEŻNE WYDAWNICTWO POLSKIE\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "value": "ul. Filtrowa 63/43, 02-056 Warszawa, Polska",
+          "country": "Polska",
+          "sourceUrl": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000220368?rejestr=P&format=json",
+          "sourceTitle": "Ministerstwo Sprawiedliwości — odpis aktualny KRS 0000220368",
+          "evidence": "FILTROWA, 63, 43, 02-056, WARSZAWA",
+          "checkedAt": "2026-11-09",
+          "notes": "Odczytano bezpośrednio publiczne API KRS; Dział 1, siedziba i adres podmiotu.",
+          "registryId": "0000220368",
+          "sourceId": "CT014"
+        },
+        "x": {
+          "url": "https://x.com/GPtygodnik",
+          "label": "Gazeta Polska — tygodnik",
+          "scope": "brand",
+          "sourceUrl": "https://www.gazetapolska.pl/",
+          "sourceTitle": "Gazeta Polska — oficjalny serwis tygodnika",
+          "evidence": "href=\"https://twitter.com/GPtygodnik\"",
+          "checkedAt": "2026-11-09",
+          "activityStatus": "Nie ustalono",
+          "lastActivityDate": null,
+          "notes": "Oficjalny serwis odsyła do GPtygodnik w historycznej domenie Twitter; podano równoważny adres x.com. Nie utożsamiono tygodnika z Gazetą Polską Codziennie. Odczyt X:403, aktywności nie ustalono.",
+          "verificationMethod": "Odnośnik opublikowany przez właściciela oficjalnej witryny lub aplikacji.",
+          "sourceId": "CT015"
+        },
+        "facebook": {
+          "url": "https://www.facebook.com/GazetaPolskaPL",
+          "label": "Gazeta Polska — tygodnik",
+          "scope": "brand",
+          "sourceUrl": "https://www.gazetapolska.pl/",
+          "sourceTitle": "Gazeta Polska — oficjalny serwis tygodnika",
+          "evidence": "href=\"https://www.facebook.com/GazetaPolskaPL\"",
+          "checkedAt": "2026-11-09",
+          "activityStatus": "Nie ustalono",
+          "lastActivityDate": null,
+          "notes": "Oficjalność potwierdzona wskazanym źródłem; nie uzyskano dostępnego odczytu daty ostatniego wpisu, więc nie przypisano statusu aktywności.",
+          "verificationMethod": "Odnośnik opublikowany przez właściciela oficjalnej witryny lub aplikacji.",
+          "sourceId": "CT015"
+        },
+        "additionalAddresses": [],
+        "missingNotes": [],
+        "attemptedSources": [
+          "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000220368?rejestr=P&format=json",
+          "https://www.gazetapolska.pl/",
+          "https://x.com/GPtygodnik",
+          "https://www.facebook.com/GazetaPolskaPL"
+        ]
+      }
     },
     {
       "id": "R029",
@@ -560,7 +919,58 @@
       "estimatedNet2026": null,
       "estimateMethod": "Nie wyliczano bez indywidualnego mediaplanu, rabatów i okresu usług.",
       "ownerShort": "Glovo / Delivery Hero SE",
-      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców."
+      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców.",
+      "officialContacts": {
+        "checkedAt": "2026-11-09",
+        "address": {
+          "legalName": "\"RESTAURANT PARTNER POLSKA\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "value": "ul. Gdańska 130/B7, 90-520 Łódź, Polska",
+          "country": "Polska",
+          "sourceUrl": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000340368?rejestr=P&format=json",
+          "sourceTitle": "Ministerstwo Sprawiedliwości — odpis aktualny KRS 0000340368",
+          "evidence": "UL. GDAŃSKA, 130, B7, 90-520, ŁÓDŹ",
+          "checkedAt": "2026-11-09",
+          "notes": "Odczytano bezpośrednio publiczne API KRS; Dział 1, siedziba i adres podmiotu. Firmowa polityka prywatności (marzec 2026) nadal wskazuje dawny adres Piotrkowska 276. Aktualny urzędowy odpis podaje Gdańska 130/B7. To adres polskiego operatora wymienionego w rejestrze publikacji, a nie zagranicznej spółki dominującej Glovo.",
+          "registryId": "0000340368",
+          "sourceId": "CT016"
+        },
+        "x": {
+          "url": "https://x.com/Glovo_PL",
+          "label": "Glovo Polska",
+          "scope": "brand",
+          "sourceUrl": "https://play.google.com/store/apps/details?hl=pl&id=com.glovo",
+          "sourceTitle": "Glovo — polski opis aplikacji opublikowany przez dewelopera w Google Play",
+          "evidence": "Twitter: https://twitter.com/Glovo_PL",
+          "checkedAt": "2026-11-09",
+          "activityStatus": "Nie ustalono",
+          "lastActivityDate": null,
+          "notes": "Opis aplikacji Glovoapp 23SL w polskiej wersji językowej, aktualizacja19.10.2026, wskazuje polskie konto. Profil globalny pracodawcy LifeAtGlovo pozostawiono poza tym polem. Odczyt X:403; daty ostatniego wpisu nie ustalono.",
+          "verificationMethod": "Odnośnik opublikowany przez właściciela oficjalnej witryny lub aplikacji.",
+          "sourceId": "CT017"
+        },
+        "facebook": {
+          "url": "https://www.facebook.com/GlovoPolska",
+          "label": "Glovo Polska",
+          "scope": "brand",
+          "sourceUrl": "https://play.google.com/store/apps/details?hl=pl&id=com.glovo",
+          "sourceTitle": "Glovo — polski opis aplikacji opublikowany przez dewelopera w Google Play",
+          "evidence": "Facebook: https://www.facebook.com/GlovoPolska",
+          "checkedAt": "2026-11-09",
+          "activityStatus": "Nie ustalono",
+          "lastActivityDate": null,
+          "notes": "Oficjalność potwierdzona wskazanym źródłem; nie uzyskano dostępnego odczytu daty ostatniego wpisu, więc nie przypisano statusu aktywności.",
+          "verificationMethod": "Odnośnik opublikowany przez właściciela oficjalnej witryny lub aplikacji.",
+          "sourceId": "CT017"
+        },
+        "additionalAddresses": [],
+        "missingNotes": [],
+        "attemptedSources": [
+          "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000340368?rejestr=P&format=json",
+          "https://play.google.com/store/apps/details?hl=pl&id=com.glovo",
+          "https://x.com/Glovo_PL",
+          "https://www.facebook.com/GlovoPolska"
+        ]
+      }
     },
     {
       "id": "R011",
@@ -617,7 +1027,48 @@
       "estimatedNet2026": null,
       "estimateMethod": "Nie wyliczano bez indywidualnego mediaplanu, rabatów i okresu usług.",
       "ownerShort": "Invicti / TV Republika",
-      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców."
+      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców.",
+      "officialContacts": {
+        "checkedAt": "2026-11-09",
+        "address": {
+          "legalName": "GORYLA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "value": "ul. Filtrowa 63/43, 02-056 Warszawa, Polska",
+          "country": "Polska",
+          "sourceUrl": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0001199353?rejestr=P&format=json",
+          "sourceTitle": "Ministerstwo Sprawiedliwości — odpis aktualny KRS 0001199353",
+          "evidence": "UL. FILTROWA, 63, 43, 02-056, WARSZAWA",
+          "checkedAt": "2026-11-09",
+          "notes": "Odczytano bezpośrednio publiczne API KRS; Dział 1, siedziba i adres podmiotu.",
+          "registryId": "0001199353",
+          "sourceId": "CT018"
+        },
+        "x": null,
+        "facebook": {
+          "url": "https://www.facebook.com/profile.php?id=61583333112933",
+          "label": "Goryla.pl",
+          "scope": "brand",
+          "sourceUrl": "https://goryla.pl/",
+          "sourceTitle": "Goryla.pl — oficjalny sklep",
+          "evidence": "href=\"https://www.facebook.com/profile.php?id=61583333112933\"",
+          "checkedAt": "2026-11-09",
+          "activityStatus": "Nie ustalono",
+          "lastActivityDate": null,
+          "notes": "Oficjalność potwierdzona wskazanym źródłem; nie uzyskano dostępnego odczytu daty ostatniego wpisu, więc nie przypisano statusu aktywności.",
+          "verificationMethod": "Odnośnik opublikowany przez właściciela oficjalnej witryny lub aplikacji.",
+          "sourceId": "CT019"
+        },
+        "additionalAddresses": [],
+        "missingNotes": [
+          "Kandydata X @gorylprzyjaciol znaleziono w oznaczonym jako reklama poście Michała Rachonia przytoczonym przez Niezalezna.pl28.05.2026, lecz nie znaleziono aktualnego odnośnika właścicielskiego z goryla.pl ani dostępnego profilu rozstrzygającego oficjalność. Nie dopisano konta na podstawie wzmianki i podobieństwa nazwy."
+        ],
+        "attemptedSources": [
+          "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0001199353?rejestr=P&format=json",
+          "https://goryla.pl/",
+          "https://www.facebook.com/profile.php?id=61583333112933",
+          "https://niezalezna.pl/media/nowa-oferta-na-goryla-pl-do-sprzedazy-weszly-produkty-wyjatkowej-marki/571451",
+          "https://x.com/gorylprzyjaciol"
+        ]
+      }
     },
     {
       "id": "R033",
@@ -675,7 +1126,36 @@
       "estimatedNet2026": null,
       "estimateMethod": "Nie wyliczano bez indywidualnego mediaplanu, rabatów i okresu usług.",
       "ownerShort": "Carlsberg A/S",
-      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców."
+      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców.",
+      "officialContacts": {
+        "checkedAt": "2026-11-09",
+        "address": {
+          "legalName": "Carlsberg Polska spółka z ograniczoną odpowiedzialnością",
+          "value": "ul. Krakowiaków 34, 02-255 Warszawa, Polska",
+          "country": "Polska",
+          "sourceUrl": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000043669?rejestr=P&format=json",
+          "sourceTitle": "Ministerstwo Sprawiedliwości — odpis aktualny KRS 0000043669",
+          "evidence": "UL. KRAKOWIAKÓW; 34; 02-255; WARSZAWA",
+          "checkedAt": "2026-11-09",
+          "notes": "Siedziba prawna potwierdzona w dziale 1 odpisu aktualnego KRS; nie użyto samego opisu biura.",
+          "additionalSourceUrls": [
+            "https://www.carlsbergpolska.pl/o-nas/carlsberg-polska/carlsberg-polska-sp-z-oo/"
+          ],
+          "sourceId": "CT020"
+        },
+        "x": null,
+        "facebook": null,
+        "additionalAddresses": [],
+        "missingNotes": [
+          "X: nie uzyskano potwierdzonego profilu marki ani operatora.",
+          "Facebook: nie uzyskano dostatecznego potwierdzenia aktualnego profilu marki ani operatora; konto CarlsbergPL promuje inną markę piwa i nie zostało podstawione."
+        ],
+        "attemptedSources": [
+          "https://www.piwoharnas.pl/",
+          "https://www.carlsbergpolska.pl/",
+          "https://www.carlsbergpolska.pl/o-nas/regulaminy/regulamin-konkursu-jubileuszowego-okocim/"
+        ]
+      }
     },
     {
       "id": "R027",
@@ -725,7 +1205,47 @@
       "estimatedNet2026": null,
       "estimateMethod": "Nie wyliczano bez indywidualnego mediaplanu, rabatów i okresu usług.",
       "ownerShort": "Nieustalony",
-      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców."
+      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców.",
+      "officialContacts": {
+        "checkedAt": "2026-11-09",
+        "address": {
+          "legalName": "Ikony Moto spółka z ograniczoną odpowiedzialnością",
+          "value": "ul. Zielna 39, 00-108 Warszawa, Polska",
+          "country": "Polska",
+          "sourceUrl": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000997176?rejestr=P&format=json",
+          "sourceTitle": "Ministerstwo Sprawiedliwości — odpis aktualny KRS 0000997176",
+          "evidence": "UL. ZIELNA; 39; 00-108; WARSZAWA",
+          "checkedAt": "2026-11-09",
+          "notes": "",
+          "additionalSourceUrls": [
+            "https://bilety.ikonymotoryzacji.com/index/regulamin.html"
+          ],
+          "sourceId": "CT021"
+        },
+        "x": null,
+        "facebook": {
+          "url": "https://www.facebook.com/ikonymotoryzacji",
+          "label": "Ikony Motoryzacji — marka / wystawa",
+          "scope": "brand",
+          "sourceUrl": "https://ikonymotoryzacji.com/",
+          "sourceTitle": "Ikony Motoryzacji — oficjalna strona wystawy",
+          "evidence": "href=\"https://www.facebook.com/ikonymotoryzacji\"",
+          "checkedAt": "2026-11-09",
+          "activityStatus": "Nie ustalono",
+          "lastActivityDate": null,
+          "notes": "Bezpośredni odnośnik w firmowym HTML. Odrzucono niepowiązane odnośniki szablonu AncoraThemes i themes_ancora. Nie ustalono daty ostatniego wpisu.",
+          "sourceDate": null,
+          "sourceId": "CT022"
+        },
+        "additionalAddresses": [],
+        "missingNotes": [
+          "X: odnośnik twitter.com/themes_ancora w HTML dotyczy autora szablonu strony, nie wystawy; nie użyto go. Nie potwierdzono innego konta."
+        ],
+        "attemptedSources": [
+          "https://ikonymotoryzacji.com/",
+          "https://bilety.ikonymotoryzacji.com/index/regulamin.html"
+        ]
+      }
     },
     {
       "id": "R040",
@@ -776,7 +1296,36 @@
       "estimatedNet2026": null,
       "estimateMethod": "Nie wyliczano bez indywidualnego mediaplanu, rabatów i okresu usług.",
       "ownerShort": "Carlsberg A/S",
-      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców."
+      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców.",
+      "officialContacts": {
+        "checkedAt": "2026-11-09",
+        "address": {
+          "legalName": "Carlsberg Polska spółka z ograniczoną odpowiedzialnością",
+          "value": "ul. Krakowiaków 34, 02-255 Warszawa, Polska",
+          "country": "Polska",
+          "sourceUrl": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000043669?rejestr=P&format=json",
+          "sourceTitle": "Ministerstwo Sprawiedliwości — odpis aktualny KRS 0000043669",
+          "evidence": "UL. KRAKOWIAKÓW; 34; 02-255; WARSZAWA",
+          "checkedAt": "2026-11-09",
+          "notes": "Siedziba prawna potwierdzona w dziale 1 odpisu aktualnego KRS; nie użyto samego opisu biura.",
+          "additionalSourceUrls": [
+            "https://www.carlsbergpolska.pl/o-nas/carlsberg-polska/carlsberg-polska-sp-z-oo/"
+          ],
+          "sourceId": "CT020"
+        },
+        "x": null,
+        "facebook": null,
+        "additionalAddresses": [],
+        "missingNotes": [
+          "X: nie uzyskano potwierdzonego profilu marki ani operatora.",
+          "Facebook: nie uzyskano dostatecznego potwierdzenia aktualnego profilu marki ani operatora; witryna marki zwracała 503, wskazany historyczny regulamin operatora 404. Nie podstawiono konta CarlsbergPL."
+        ],
+        "attemptedSources": [
+          "https://www.kasztelan.pl/",
+          "https://www.carlsbergpolska.pl/products/kasztelan/kasztelan-jasne-pelne/?Ckey=37948",
+          "https://www.carlsbergpolska.pl/o-nas/regulaminy/regulamin-konkursu-jubileuszowego-okocim/"
+        ]
+      }
     },
     {
       "id": "R034",
@@ -835,7 +1384,38 @@
       "estimatedNet2026": null,
       "estimateMethod": "Nie wyliczano bez indywidualnego mediaplanu, rabatów i okresu usług.",
       "ownerShort": "Morliny Foods / WH Group (raport2025)",
-      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców."
+      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców.",
+      "officialContacts": {
+        "checkedAt": "2026-11-09",
+        "address": {
+          "legalName": "Animex Foods spółka z ograniczoną odpowiedzialnością",
+          "value": "ul. Tytusa Chałubińskiego 8, 00-613 Warszawa, Polska",
+          "country": "Polska",
+          "sourceUrl": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000018550?rejestr=P&format=json",
+          "sourceTitle": "Ministerstwo Sprawiedliwości — odpis aktualny KRS 0000018550",
+          "evidence": "TYTUSA CHAŁUBIŃSKIEGO; 8; 00-613; WARSZAWA",
+          "checkedAt": "2026-11-09",
+          "notes": "Podmiot grupy Animex prowadzącej portfolio wędliniarskiej marki Krakus. Aktualny KRS 0000018550; dział 6 potwierdza przejęcie wcześniejszej Animex Foods KRS 0000471961 i zmianę nazwy spółki przejmującej. Oficjalna strona lokalizacji zachowała stare NIP/REGON; nie wykorzystano ich do określenia aktualnej tożsamości. Nie ustala to strony umowy reklamy.",
+          "additionalSourceUrls": [
+            "https://www.animex.pl/nasze-marki/krakus/",
+            "https://www.animex.pl/kontakt/lokalizacje/",
+            "https://krakus.com/"
+          ],
+          "sourceId": "CT023"
+        },
+        "x": null,
+        "facebook": null,
+        "additionalAddresses": [],
+        "missingNotes": [
+          "X: nie potwierdzono profilu wędliniarskiej marki Krakus ani operatora.",
+          "Facebook: nie potwierdzono profilu wędliniarskiej marki Krakus ani operatora. Witryna krakus.pl dotyczy innej kategorii produktów (zupy, koncentraty); nie przeniesiono jej profili."
+        ],
+        "attemptedSources": [
+          "https://www.animex.pl/nasze-marki/krakus/",
+          "https://krakus.com/",
+          "https://www.animex.pl/kontakt/"
+        ]
+      }
     },
     {
       "id": "R005",
@@ -889,7 +1469,47 @@
       "estimatedNet2026": null,
       "estimateMethod": "Nie wyliczano bez indywidualnego mediaplanu, rabatów i okresu usług.",
       "ownerShort": "Dawidziuk / Fiedoruk",
-      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców."
+      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców.",
+      "officialContacts": {
+        "checkedAt": "2026-11-09",
+        "address": {
+          "legalName": "Grupa Vikinga spółka z ograniczoną odpowiedzialnością",
+          "value": "ul. Handlowa 5, 15-399 Białystok, Polska",
+          "country": "Polska",
+          "sourceUrl": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000970748?rejestr=P&format=json",
+          "sourceTitle": "Ministerstwo Sprawiedliwości — odpis aktualny KRS 0000970748",
+          "evidence": "UL. HANDLOWA; 5; 15-399; BIAŁYSTOK",
+          "checkedAt": "2026-11-09",
+          "notes": "",
+          "additionalSourceUrls": [
+            "https://kuchniavikinga.pl/polityka-prywatnosci/"
+          ],
+          "sourceId": "CT024"
+        },
+        "x": null,
+        "facebook": {
+          "url": "https://www.facebook.com/Kuchniavikinga",
+          "label": "Kuchnia Vikinga — polska marka",
+          "scope": "brand",
+          "sourceUrl": "https://kuchniavikinga.pl/",
+          "sourceTitle": "Kuchnia Vikinga — oficjalna strona",
+          "evidence": "href=\"https://www.facebook.com/Kuchniavikinga\"",
+          "checkedAt": "2026-11-09",
+          "activityStatus": "Nie ustalono",
+          "lastActivityDate": null,
+          "notes": "",
+          "sourceDate": null,
+          "sourceId": "CT025"
+        },
+        "additionalAddresses": [],
+        "missingNotes": [
+          "X: nie uzyskano potwierdzonego profilu marki ani operatora."
+        ],
+        "attemptedSources": [
+          "https://kuchniavikinga.pl/",
+          "https://kuchniavikinga.pl/polityka-prywatnosci/"
+        ]
+      }
     },
     {
       "id": "R041",
@@ -945,7 +1565,37 @@
       "estimatedNet2026": null,
       "estimateMethod": "Nie wyliczano bez indywidualnego mediaplanu, rabatów i okresu usług.",
       "ownerShort": "Opella",
-      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców."
+      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców.",
+      "officialContacts": {
+        "checkedAt": "2026-11-09",
+        "address": {
+          "legalName": "Opella Healthcare Poland spółka z ograniczoną odpowiedzialnością",
+          "value": "ul. Marcina Kasprzaka 6, 01-211 Warszawa, Polska",
+          "country": "Polska",
+          "sourceUrl": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000859915?rejestr=P&format=json",
+          "sourceTitle": "Ministerstwo Sprawiedliwości — odpis aktualny KRS 0000859915",
+          "evidence": "UL. MARCINA KASPRZAKA; 6; 01-211; WARSZAWA",
+          "checkedAt": "2026-11-09",
+          "notes": "",
+          "additionalSourceUrls": [
+            "https://pl.academy.opella.com/83/OWSUM",
+            "https://www.magneb6.com/pl-pl/nasze-wartosci/zrownowazony-rozwoj"
+          ],
+          "sourceId": "CT026"
+        },
+        "x": null,
+        "facebook": null,
+        "additionalAddresses": [],
+        "missingNotes": [
+          "X: nie potwierdzono konta polskiej marki Magne B6 ani polskiego operatora. Globalnego konta grupy Opella nie podstawiono pod polską markę.",
+          "Facebook: nie potwierdzono konta polskiej marki Magne B6 ani polskiego operatora. Globalnego konta grupy Opella nie podstawiono pod polską markę."
+        ],
+        "attemptedSources": [
+          "https://www.magneb6.com/pl-pl/nasze-wartosci/zrownowazony-rozwoj",
+          "https://www.opella.com/our-countries/pl-pl",
+          "https://www.magneb6.com/sk-sk/pravne-ustanovenia"
+        ]
+      }
     },
     {
       "id": "R006",
@@ -1008,7 +1658,47 @@
       "estimatedNet2026": null,
       "estimateMethod": "Nie wyliczano bez indywidualnego mediaplanu, rabatów i okresu usług.",
       "ownerShort": "Polsat Investments Ltd.",
-      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców."
+      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców.",
+      "officialContacts": {
+        "checkedAt": "2026-11-09",
+        "address": {
+          "legalName": "TVO spółka z ograniczoną odpowiedzialnością",
+          "value": "ul. Kielecka 2, 81-303 Gdynia, Polska",
+          "country": "Polska",
+          "sourceUrl": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000508462?rejestr=P&format=json",
+          "sourceTitle": "Ministerstwo Sprawiedliwości — odpis aktualny KRS 0000508462",
+          "evidence": "UL. KIELECKA; 2; 81-303; GDYNIA",
+          "checkedAt": "2026-11-09",
+          "notes": "",
+          "additionalSourceUrls": [
+            "https://www.mango.pl/info/9-regulamin-sklepu-mango"
+          ],
+          "sourceId": "CT027"
+        },
+        "x": null,
+        "facebook": {
+          "url": "https://www.facebook.com/MangoPolska",
+          "label": "Mango — polska marka telezakupowa",
+          "scope": "brand",
+          "sourceUrl": "https://www.mango.pl/",
+          "sourceTitle": "Mango — oficjalny sklep",
+          "evidence": "href=\"https://www.facebook.com/MangoPolska\"",
+          "checkedAt": "2026-11-09",
+          "activityStatus": "Nie ustalono",
+          "lastActivityDate": null,
+          "notes": "Odróżniono od odnośnika do innej marki operatora TV Okazje oraz od odzieżowej marki Mango.",
+          "sourceDate": null,
+          "sourceId": "CT028"
+        },
+        "additionalAddresses": [],
+        "missingNotes": [
+          "X: nie potwierdzono konta marki Mango / TVO. Nie podstawiono konta odzieżowej marki MANGO."
+        ],
+        "attemptedSources": [
+          "https://www.mango.pl/",
+          "https://www.mango.pl/info/9-regulamin-sklepu-mango"
+        ]
+      }
     },
     {
       "id": "R002",
@@ -1068,7 +1758,49 @@
       "estimatedNet2026": null,
       "estimateMethod": "Nie wyliczano bez indywidualnego mediaplanu, rabatów i okresu usług.",
       "ownerShort": "Aktualny akcjonariat nieustalony",
-      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców."
+      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców.",
+      "officialContacts": {
+        "checkedAt": "2026-11-09",
+        "address": {
+          "legalName": "TERG spółka akcyjna",
+          "value": "ul. Za Dworcem 1D, 77-400 Złotów, Polska",
+          "country": "Polska",
+          "sourceUrl": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000427063?rejestr=P&format=json",
+          "sourceTitle": "Ministerstwo Sprawiedliwości — odpis aktualny KRS 0000427063",
+          "evidence": "ZA DWORCEM; 1D; 77-400; ZŁOTÓW",
+          "checkedAt": "2026-11-09",
+          "notes": "",
+          "additionalSourceUrls": [
+            "https://www.mediaexpert.pl/s,zasady-przetwarzania-danych-new"
+          ],
+          "sourceId": "CT029"
+        },
+        "x": null,
+        "facebook": {
+          "url": "https://www.facebook.com/Mediaexpert",
+          "label": "Media Expert — polska marka",
+          "scope": "brand",
+          "sourceUrl": "https://demagog.org.pl/fake_news/media-expert-oferuje-laptopy-za-dziewiec-zlotych-proba-oszustwa/",
+          "sourceTitle": "Demagog — Media Expert oferuje laptopy za dziewięć złotych? Próba oszustwa",
+          "evidence": "oficjalnym facebookowym kontem […] sklepów Media Expert",
+          "checkedAt": "2026-11-09",
+          "activityStatus": "Nie ustalono",
+          "lastActivityDate": null,
+          "notes": "Wiarygodna analiza fact-checkingowa z 4.07.2023, z odpowiedzią rzecznika firmy, bezpośrednio odsyła do tego profilu i identyfikuje go jako autentyczny. Odczyt profilu Facebook był ograniczony; aktywności na 9.11.2026 nie ustalono.",
+          "sourceDate": "2023-07-04",
+          "sourceId": "CT030"
+        },
+        "additionalAddresses": [],
+        "missingNotes": [
+          "X: znaleziono MediaExpert_PL z deklaracją oficjalności, ale nie uzyskano dostatecznego bezpośredniego potwierdzenia firmowego. Nie podano tego konta w danych."
+        ],
+        "attemptedSources": [
+          "https://www.mediaexpert.pl/",
+          "https://www.mediaexpert.pl/s,zasady-przetwarzania-danych-new",
+          "https://x.com/MediaExpert_PL/with_replies",
+          "https://demagog.org.pl/fake_news/media-expert-oferuje-laptopy-za-dziewiec-zlotych-proba-oszustwa/"
+        ]
+      }
     },
     {
       "id": "R054",
@@ -1119,7 +1851,55 @@
       "estimatedNet2026": null,
       "estimateMethod": "Nie wyliczano bez indywidualnego mediaplanu, rabatów i okresu usług.",
       "ownerShort": "Jednostka samorządu terytorialnego",
-      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców."
+      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców.",
+      "officialContacts": {
+        "checkedAt": "2026-11-09",
+        "address": {
+          "legalName": "Miasto Chełm — Urząd Miasta Chełm",
+          "value": "ul. Lubelska 65, 22-100 Chełm, Polska",
+          "country": "Polska",
+          "sourceUrl": "https://samorzad.gov.pl/web/miasto-chelm",
+          "sourceTitle": "Miasto Chełm — oficjalny portal samorządowy",
+          "evidence": "Urząd Miasta Chełm […] ul. Lubelska 65 […] 22-100 Chełm",
+          "checkedAt": "2026-11-09",
+          "notes": "Adres urzędu obsługującego miejską JST. Nie jest to adres miejsca koncertu ani odrębnego Chełmskiego Domu Kultury.",
+          "additionalSourceUrls": [],
+          "sourceId": "CT031"
+        },
+        "x": {
+          "url": "https://x.com/MiastoChelm",
+          "label": "Miasto Chełm — instytucja publiczna",
+          "scope": "operator",
+          "sourceUrl": "https://samorzad.gov.pl/web/miasto-chelm",
+          "sourceTitle": "Miasto Chełm — oficjalny portal samorządowy",
+          "evidence": "twitter.com/MiastoChelm",
+          "checkedAt": "2026-11-09",
+          "activityStatus": "Nie ustalono",
+          "lastActivityDate": null,
+          "notes": "Witryna miejska wskazuje Twitter/MiastoChelm; w rejestrze użyto aktualnej domeny x.com z tym samym identyfikatorem. To konto miasta, nie konto prezydenta.",
+          "sourceDate": null,
+          "sourceId": "CT031"
+        },
+        "facebook": {
+          "url": "https://www.facebook.com/chelmpl",
+          "label": "Miasto Chełm — instytucja publiczna",
+          "scope": "operator",
+          "sourceUrl": "https://samorzad.gov.pl/web/miasto-chelm",
+          "sourceTitle": "Miasto Chełm — oficjalny portal samorządowy",
+          "evidence": "facebook.com/chelmpl",
+          "checkedAt": "2026-11-09",
+          "activityStatus": "Nie ustalono",
+          "lastActivityDate": null,
+          "notes": "Bezpośredni odnośnik w sekcji media społecznościowe urzędu; nie profil odrębnego RetroFestu.",
+          "sourceDate": null,
+          "sourceId": "CT031"
+        },
+        "additionalAddresses": [],
+        "missingNotes": [],
+        "attemptedSources": [
+          "https://samorzad.gov.pl/web/miasto-chelm"
+        ]
+      }
     },
     {
       "id": "R023",
@@ -1173,7 +1953,35 @@
       "estimatedNet2026": null,
       "estimateMethod": "Nie wyliczano bez indywidualnego mediaplanu, rabatów i okresu usług.",
       "ownerShort": "Właściciele nieustaleni",
-      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców."
+      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców.",
+      "officialContacts": {
+        "checkedAt": "2026-11-09",
+        "address": {
+          "legalName": "Motolia spółka z ograniczoną odpowiedzialnością",
+          "value": "ul. Alternatywy 7/135, 02-775 Warszawa, Polska",
+          "country": "Polska",
+          "sourceUrl": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0001061451?rejestr=P&format=json",
+          "sourceTitle": "Ministerstwo Sprawiedliwości — odpis aktualny KRS 0001061451",
+          "evidence": "UL. ALTERNATYWY; 7; 135; 02-775; WARSZAWA",
+          "checkedAt": "2026-11-09",
+          "notes": "Potwierdzony adres rejestrowy. Oficjalna strona oddziela go od biura przy ul. Jagiellońskiej 88, którego nie użyto.",
+          "additionalSourceUrls": [
+            "https://motolia.pl/o-nas"
+          ],
+          "sourceId": "CT032"
+        },
+        "x": null,
+        "facebook": null,
+        "additionalAddresses": [],
+        "missingNotes": [
+          "X: nie uzyskano potwierdzonego profilu marki ani operatora.",
+          "Facebook: nie uzyskano potwierdzonego profilu marki ani operatora."
+        ],
+        "attemptedSources": [
+          "https://motolia.pl/",
+          "https://motolia.pl/o-nas"
+        ]
+      }
     },
     {
       "id": "R017",
@@ -1225,7 +2033,49 @@
       "estimatedNet2026": null,
       "estimateMethod": "Nie wyliczano bez indywidualnego mediaplanu, rabatów i okresu usług.",
       "ownerShort": "Bank centralny RP",
-      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców."
+      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców.",
+      "officialContacts": {
+        "checkedAt": "2026-11-09",
+        "address": {
+          "legalName": "Narodowy Bank Polski",
+          "value": "ul. Świętokrzyska 11/21, 00-919 Warszawa, Polska",
+          "country": "Polska",
+          "sourceUrl": "https://eli.gov.pl/api/acts/MP/2026/401/text.pdf",
+          "sourceTitle": "Monitor Polski 2026 poz. 401 — uchwała nr 7/2026 Zarządu NBP",
+          "evidence": "Narodowy Bank Polski z siedzibą w Warszawie, ul. Świętokrzyska 11/21, 00-919 Warszawa",
+          "checkedAt": "2026-11-09",
+          "notes": "Urzędowy akt z 30.03.2026, ogłoszony 21.04.2026. Załącznik 1 s.5 i załącznik 2 s.8 określają siedzibę NBP; nie jest to adres oddziału.",
+          "additionalSourceUrls": [],
+          "sourceId": "CT033"
+        },
+        "x": {
+          "url": "https://x.com/nbppl",
+          "label": "Narodowy Bank Polski — instytucja publiczna",
+          "scope": "operator",
+          "sourceUrl": "https://proto.pl/aktualnosci/nbp-na-twitterze-ranking-prezesow-bankow-centralnych-profil-biura-prasowego/",
+          "sourceTitle": "PRoto — Kontrowersje wokół komunikacji NBP na Twitterze. Profil biura prasowego ma bardziej ludzkie oblicze",
+          "evidence": "Do oficjalnej komunikacji banku pozostaje profil @nbppl",
+          "checkedAt": "2026-11-09",
+          "activityStatus": "Nie ustalono",
+          "lastActivityDate": null,
+          "notes": "Odpowiedź Piotra Turka z NBP przytoczona przez PRoto 3.11.2021 rozróżnia @nbppl od @BiuroNbp. Artykuł odczytano bezpośrednio; dostęp do osi czasu X 9.11.2026 ograniczony. Nie przypisano aktualnej aktywności ani daty ostatniego wpisu.",
+          "sourceDate": "2021-11-03",
+          "sourceId": "CT034"
+        },
+        "facebook": null,
+        "additionalAddresses": [],
+        "missingNotes": [
+          "Facebook: nie uzyskano bieżącego odczytu oficjalnej strony ani dokumentu potwierdzającego profil; historyczne ulotki wskazane przez wyszukiwarkę były niedostępne. Nie wpisano konta na podstawie samej nazwy."
+        ],
+        "attemptedSources": [
+          "https://nbp.pl/",
+          "https://bip.nbp.pl/",
+          "https://nbp.pl/o-nbp/kontakt/",
+          "https://nbp.pl/wp-content/uploads/2022/11/2018_10___my_polacy_pl.pdf",
+          "https://x.com/nbppl",
+          "https://eli.gov.pl/api/acts/MP/2026/401/text.pdf"
+        ]
+      }
     },
     {
       "id": "R056",
@@ -1281,7 +2131,44 @@
       "estimatedNet2026": null,
       "estimateMethod": "Nie wyliczano bez indywidualnego mediaplanu, rabatów i okresu usług.",
       "ownerShort": "Operator: Maciej Bartasun",
-      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców."
+      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców.",
+      "officialContacts": {
+        "checkedAt": "2026-11-09",
+        "address": {
+          "legalName": "NOWROCKY spółka z ograniczoną odpowiedzialnością",
+          "value": "ul. Jana Heweliusza 11/811, 80-890 Gdańsk, Polska",
+          "country": "Polska",
+          "sourceUrl": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0001206332?rejestr=P&format=json",
+          "sourceTitle": "Ministerstwo Sprawiedliwości — odpis aktualny KRS 0001206332",
+          "evidence": "UL. JANA HEWELIUSZA; 11; 811; GDAŃSK; 80-890",
+          "checkedAt": "2026-11-09",
+          "notes": "Odczyt publicznego API KRS, dział 1: siedziba i adres. Odpis z 9.11.2026, stan z 2.12.2025. Regulamin sklepu podaje ten sam adres, ale jego data aktualizacji poprzedza rejestrację spółki; dlatego podstawą jest KRS.",
+          "sourceId": "CT035"
+        },
+        "x": null,
+        "facebook": {
+          "url": "https://www.facebook.com/people/Nowrocky/61583980511977/",
+          "label": "NOWROCKY — profil marki",
+          "scope": "brand",
+          "sourceUrl": "https://nowrocky.pl/",
+          "sourceTitle": "NOWROCKY — oficjalny sklep, odnośnik społecznościowy w HTML",
+          "evidence": "href=\"https://www.facebook.com/people/Nowrocky/61583980511977/\"",
+          "checkedAt": "2026-11-09",
+          "activityStatus": "Nie ustalono — profil wskazany z oficjalnej witryny; Facebook ograniczył automatyczny odczyt, bez weryfikacji daty ostatniego wpisu.",
+          "lastActivityDate": null,
+          "sourceId": "CT036"
+        },
+        "additionalAddresses": [],
+        "missingNotes": [
+          "Nie znaleziono potwierdzonego profilu X marki ani operatora."
+        ],
+        "attemptedSources": [
+          "https://nowrocky.pl/",
+          "https://nowrocky.pl/regulamin-sklepu/",
+          "https://rejestr.io/krs/1206332/nowrocky",
+          "https://www.facebook.com/people/Nowrocky/61583980511977/"
+        ]
+      }
     },
     {
       "id": "R021",
@@ -1333,7 +2220,36 @@
       "estimatedNet2026": null,
       "estimateMethod": "Nie wyliczano bez indywidualnego mediaplanu, rabatów i okresu usług.",
       "ownerShort": "Carlsberg A/S",
-      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców."
+      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców.",
+      "officialContacts": {
+        "checkedAt": "2026-11-09",
+        "address": {
+          "legalName": "Carlsberg Polska spółka z ograniczoną odpowiedzialnością",
+          "value": "ul. Krakowiaków 34, 02-255 Warszawa, Polska",
+          "country": "Polska",
+          "sourceUrl": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000043669?rejestr=P&format=json",
+          "sourceTitle": "Ministerstwo Sprawiedliwości — odpis aktualny KRS 0000043669",
+          "evidence": "UL. KRAKOWIAKÓW; 34; WARSZAWA; 02-255",
+          "checkedAt": "2026-11-09",
+          "notes": "Wspólny odczyt urzędowy dla Carlsberg Polska został wykonany w kontroli Harnaś/Kasztelan; adres zgodny z bieżącą oficjalną stroną spółki. Nie jest to adres browaru ani Carlsberg Supply Company Polska S.A.",
+          "sourceId": "CT020"
+        },
+        "x": null,
+        "facebook": null,
+        "additionalAddresses": [],
+        "missingNotes": [
+          "Nie potwierdzono aktualnego profilu X Okocimia ani operatora.",
+          "OkocimPL występuje we wtórnych katalogach, ale oficjalna witryna okocim.pl ma błąd wygasłego certyfikatu. Nie obchodzono zabezpieczenia.",
+          "W indeksie oficjalnej domeny znaleziono regulamin z 2025 wskazujący facebook.com/CarlsbergPolska, lecz bezpośredni odczyt tego dokumentu zwraca 404. Nie użyto go jako aktualnego potwierdzenia. facebook.com/CarlsbergPL z głównej strony firmy dotyczy innej marki piwa i nie został automatycznie przypisany Okocimiowi."
+        ],
+        "attemptedSources": [
+          "https://www.carlsbergpolska.pl/",
+          "https://www.carlsbergpolska.pl/o-nas/carlsberg-polska/carlsberg-polska-sp-z-oo/",
+          "https://www.carlsbergpolska.pl/kontakt/kontakt/",
+          "https://www.okocim.pl/",
+          "https://www.carlsbergpolska.pl/o-nas/regulaminy/regulamin-konkursu-jubileuszowego-okocim/"
+        ]
+      }
     },
     {
       "id": "R024",
@@ -1393,7 +2309,42 @@
       "estimatedNet2026": null,
       "estimateMethod": "Nie wyliczano bez indywidualnego mediaplanu, rabatów i okresu usług.",
       "ownerShort": "Chrzanowski / Stanecki",
-      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców."
+      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców.",
+      "officialContacts": {
+        "checkedAt": "2026-11-09",
+        "address": {
+          "legalName": "„OLEOFARM” spółka z ograniczoną odpowiedzialnością",
+          "value": "ul. Mokronoska 8, 52-407 Wrocław, Polska",
+          "country": "Polska",
+          "sourceUrl": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000475366?rejestr=P&format=json",
+          "sourceTitle": "Ministerstwo Sprawiedliwości — odpis aktualny KRS 0000475366",
+          "evidence": "MOKRONOSKA; 8; WROCŁAW; 52-407",
+          "checkedAt": "2026-11-09",
+          "notes": "Odpis z 9.11.2026, stan z 8.07.2026. Oficjalna strona kontaktowa również nazywa to siedzibą spółki; nie oparto ustalenia wyłącznie na znajdującym się pod tym adresem sklepie.",
+          "sourceId": "CT037"
+        },
+        "x": null,
+        "facebook": {
+          "url": "https://www.facebook.com/Oleofarm24",
+          "label": "Oleofarm — profil marki/operatora",
+          "scope": "operator",
+          "sourceUrl": "https://oleofarm.pl/kontakt/",
+          "sourceTitle": "Oleofarm — dane firmy i odnośnik Facebook w HTML",
+          "evidence": "href=\"https://www.facebook.com/Oleofarm24\"",
+          "checkedAt": "2026-11-09",
+          "activityStatus": "Nie ustalono — autentyczność potwierdza odnośnik z witryny producenta; Facebook ograniczył odczyt.",
+          "lastActivityDate": null,
+          "sourceId": "CT038"
+        },
+        "additionalAddresses": [],
+        "missingNotes": [
+          "Nie znaleziono potwierdzonego profilu X marki ani operatora."
+        ],
+        "attemptedSources": [
+          "https://oleofarm.pl/kontakt/",
+          "https://www.facebook.com/Oleofarm24"
+        ]
+      }
     },
     {
       "id": "R004",
@@ -1456,7 +2407,54 @@
       "estimatedNet2026": null,
       "estimateMethod": "Nie wyliczano bez indywidualnego mediaplanu, rabatów i okresu usług.",
       "ownerShort": "International Personal Finance — IPF",
-      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców."
+      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców.",
+      "officialContacts": {
+        "checkedAt": "2026-11-09",
+        "address": {
+          "legalName": "Provident Polska spółka akcyjna",
+          "value": "ul. Inflancka 4A, 00-189 Warszawa, Polska",
+          "country": "Polska",
+          "sourceUrl": "https://www.provident.pl/regulamin",
+          "sourceTitle": "Provident Polska — regulamin świadczenia usług drogą elektroniczną",
+          "evidence": "Provident Polska S.A. z siedzibą w Warszawie, ul. Inflancka 4A, 00-189 Warszawa",
+          "checkedAt": "2026-11-09",
+          "notes": "§1 wskazuje siedzibę oraz KRS 0000009389. Regulamin obowiązuje od 7.08.2025 i pozostaje dostępny jako aktualny dokument w witrynie spółki; ten sam adres podaje stopka biura prasowego.",
+          "sourceId": "CT039"
+        },
+        "x": {
+          "url": "https://x.com/Provident_PL",
+          "label": "Provident Polska — profil marki/operatora",
+          "scope": "operator",
+          "sourceUrl": "https://media-provident.pl/file/2923682",
+          "sourceTitle": "Biuro prasowe Provident Polska — oficjalne kanały w opisie materiału",
+          "evidence": "X ➛https://x.com/Provident_PL",
+          "checkedAt": "2026-11-09",
+          "activityStatus": "Nie ustalono — autentyczność potwierdzona w oficjalnym biurze prasowym; platforma nie udostępniła czytelnej osi wpisów.",
+          "lastActivityDate": null,
+          "sourceId": "CT040"
+        },
+        "facebook": {
+          "url": "https://www.facebook.com/providentpolska",
+          "label": "Provident Polska — profil marki/operatora",
+          "scope": "operator",
+          "sourceUrl": "https://media-provident.pl/file/2923682",
+          "sourceTitle": "Biuro prasowe Provident Polska — oficjalne kanały w opisie materiału",
+          "evidence": "Facebook ➛ https://www.facebook.com/providentpolska",
+          "checkedAt": "2026-11-09",
+          "activityStatus": "Nie ustalono — oficjalny odnośnik potwierdzony; Facebook wyświetlił ograniczenie dostępu.",
+          "lastActivityDate": null,
+          "sourceId": "CT040"
+        },
+        "additionalAddresses": [],
+        "missingNotes": [],
+        "attemptedSources": [
+          "https://www.provident.pl/o-nas",
+          "https://www.provident.pl/regulamin",
+          "https://media-provident.pl/file/2923682",
+          "https://www.facebook.com/providentpolska",
+          "https://twitter.com/provident_PL"
+        ]
+      }
     },
     {
       "id": "R012",
@@ -1512,7 +2510,34 @@
       "estimatedNet2026": null,
       "estimateMethod": "Nie wyliczano bez indywidualnego mediaplanu, rabatów i okresu usług.",
       "ownerShort": "Kisielewicz / Rachoń",
-      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców."
+      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców.",
+      "officialContacts": {
+        "checkedAt": "2026-11-09",
+        "address": {
+          "legalName": "Republika Energetyczna spółka z ograniczoną odpowiedzialnością",
+          "value": "ul. Marszałkowska 115, 00-102 Warszawa, Polska",
+          "country": "Polska",
+          "sourceUrl": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0001229018?rejestr=P&format=json",
+          "sourceTitle": "Ministerstwo Sprawiedliwości — odpis aktualny KRS 0001229018",
+          "evidence": "UL. MARSZAŁKOWSKA; 115; WARSZAWA; 00-102",
+          "checkedAt": "2026-11-09",
+          "notes": "Odpis z 9.11.2026, stan z 29.06.2026. Zgodność z regulaminem promocji i polityką prywatności operatora.",
+          "sourceId": "CT041"
+        },
+        "x": null,
+        "facebook": null,
+        "additionalAddresses": [],
+        "missingNotes": [
+          "Nie potwierdzono bezpośrednich adresów X i Facebook marki/operatora. Polityka deklaruje prowadzenie profili, lecz nie podaje nazw użytkowników. W odczytanym HTML i publicznym pliku aplikacji nie znaleziono bezpośrednich adresów tych profili. Nie podstawiono kont Telewizji Republika."
+        ],
+        "attemptedSources": [
+          "https://republikaenergetyczna.pl/",
+          "https://republikaenergetyczna.pl/polityka-prywatnosci",
+          "https://republikaenergetyczna.pl/regulamin-promocji",
+          "https://republikaenergetyczna.pl/assets/index-DH1xswg4.js",
+          "https://rejestr.io/krs/1229018/republika-energetyczna"
+        ]
+      }
     },
     {
       "id": "R013",
@@ -1565,7 +2590,31 @@
       "estimatedNet2026": null,
       "estimateMethod": "Nie wyliczano bez indywidualnego mediaplanu, rabatów i okresu usług.",
       "ownerShort": "Enter T&T: Paweł Gacka",
-      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców."
+      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców.",
+      "officialContacts": {
+        "checkedAt": "2026-11-09",
+        "address": {
+          "legalName": "Enter T&T spółka z ograniczoną odpowiedzialnością",
+          "value": "ul. Grunwaldzka 104, 60-307 Poznań, Polska",
+          "country": "Polska",
+          "sourceUrl": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000482496?rejestr=P&format=json",
+          "sourceTitle": "Ministerstwo Sprawiedliwości — odpis aktualny KRS 0000482496",
+          "evidence": "UL. GRUNWALDZKA; 104; POZNAŃ; 60-307",
+          "checkedAt": "2026-11-09",
+          "notes": "Adres usługodawcy telekomunikacyjnego, zgodny ze stopką republikamobile.pl. Odpis z 9.11.2026, stan z 4.12.2025. Nie jest to siedziba podobnie nazwanej Republika Mobile sp. z o.o. z Gdyni.",
+          "sourceId": "CT042"
+        },
+        "x": null,
+        "facebook": null,
+        "additionalAddresses": [],
+        "missingNotes": [
+          "Nie potwierdzono odrębnych oficjalnych kont X i Facebook projektu ani usługodawcy Enter T&T. Nie zastąpiono ich kontami nadawcy lub Orange."
+        ],
+        "attemptedSources": [
+          "https://republikamobile.pl/",
+          "https://rejestr.io/krs/482496/enter-t-t"
+        ]
+      }
     },
     {
       "id": "R031",
@@ -1619,7 +2668,54 @@
       "estimatedNet2026": null,
       "estimateMethod": "Nie wyliczano bez indywidualnego mediaplanu, rabatów i okresu usług.",
       "ownerShort": "Trzech ujawnionych wspólników",
-      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców."
+      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców.",
+      "officialContacts": {
+        "checkedAt": "2026-11-09",
+        "address": {
+          "legalName": "„EURO - NET” spółka z ograniczoną odpowiedzialnością",
+          "value": "ul. Muszkieterów 15, 02-273 Warszawa, Polska",
+          "country": "Polska",
+          "sourceUrl": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000117710?rejestr=P&format=json",
+          "sourceTitle": "Ministerstwo Sprawiedliwości — odpis aktualny KRS 0000117710",
+          "evidence": "MUSZKIETERÓW; 15; WARSZAWA; 02-273",
+          "checkedAt": "2026-11-09",
+          "notes": "Odpis z 9.11.2026, stan z 13.07.2026. Regulamin euro.com.pl wskazuje tę samą siedzibę. Adres zwrotów w Pruszkowie i adres biura rekrutacji Krakowiaków 42 nie zostały użyte jako siedziba prawna.",
+          "sourceId": "CT043"
+        },
+        "x": {
+          "url": "https://x.com/EuroPromocje",
+          "label": "RTV Euro AGD — profil marki",
+          "scope": "brand",
+          "sourceUrl": "https://www.euro.com.pl/cms/polityka-prywatnosci.bhtml?link=stopka",
+          "sourceTitle": "RTV Euro AGD — polityka prywatności, sekcja Media społecznościowe",
+          "evidence": "X (Twitter): https://x.com/EuroPromocje",
+          "checkedAt": "2026-11-09",
+          "activityStatus": "Nie ustalono — profil wyraźnie wymieniony w oficjalnej polityce; platforma X nie zwróciła czytelnych wpisów.",
+          "lastActivityDate": null,
+          "sourceId": "CT044"
+        },
+        "facebook": {
+          "url": "https://www.facebook.com/rtveuroagd/",
+          "label": "RTV Euro AGD — profil marki",
+          "scope": "brand",
+          "sourceUrl": "https://www.euro.com.pl/cms/polityka-prywatnosci.bhtml?link=stopka",
+          "sourceTitle": "RTV Euro AGD — polityka prywatności, sekcja Media społecznościowe",
+          "evidence": "Facebook: https://www.facebook.com/rtveuroagd/?locale=pl_PL",
+          "checkedAt": "2026-11-09",
+          "activityStatus": "Nie ustalono — profil wyraźnie wymieniony w oficjalnej polityce; Facebook wyświetlił ograniczenie dostępu.",
+          "lastActivityDate": null,
+          "sourceId": "CT044"
+        },
+        "additionalAddresses": [],
+        "missingNotes": [],
+        "attemptedSources": [
+          "https://www.euro.com.pl/cms/regulamin.bhtml",
+          "https://www.euro.com.pl/cms/o-firmie.bhtml",
+          "https://www.euro.com.pl/cms/polityka-prywatnosci.bhtml?link=stopka",
+          "https://www.facebook.com/rtveuroagd/?locale=pl_PL",
+          "https://x.com/EuroPromocje"
+        ]
+      }
     },
     {
       "id": "R009",
@@ -1679,7 +2775,58 @@
       "estimatedNet2026": null,
       "estimateMethod": "Nie wyliczano bez indywidualnego mediaplanu, rabatów i okresu usług.",
       "ownerShort": "Sanofi",
-      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców."
+      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców.",
+      "officialContacts": {
+        "checkedAt": "2026-11-09",
+        "address": {
+          "legalName": "Sanofi spółka z ograniczoną odpowiedzialnością",
+          "value": "ul. Marcina Kasprzaka 6, 01-211 Warszawa, Polska",
+          "country": "Polska",
+          "sourceUrl": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000036286?rejestr=P&format=json",
+          "sourceTitle": "Ministerstwo Sprawiedliwości — odpis aktualny KRS 0000036286",
+          "evidence": "UL. MARCINA KASPRZAKA; 6; WARSZAWA; 01-211",
+          "checkedAt": "2026-11-09",
+          "notes": "Odpis z 9.11.2026, stan z 17.09.2026. To prawna siedziba polskiego operatora wskazanego w dotychczasowym rekordzie, potwierdzona także w jego strategii podatkowej, a nie adres francuskiej grupy.",
+          "sourceId": "CT045"
+        },
+        "x": {
+          "url": "https://x.com/sanofipolska",
+          "label": "Sanofi Polska — profil operatora w Polsce",
+          "scope": "operator",
+          "sourceUrl": "https://www.sanofi.com/pl/polska",
+          "sourceTitle": "Sanofi Polska — oficjalny odnośnik Twitter/X w HTML",
+          "evidence": "href=\"https://twitter.com/sanofipolska?lang=en\"",
+          "checkedAt": "2026-11-09",
+          "activityStatus": "Nie ustalono — autentyczność potwierdzona odnośnikiem Sanofi Polska; bez czytelnej osi wpisów X.",
+          "lastActivityDate": null,
+          "sourceId": "CT046"
+        },
+        "facebook": {
+          "url": "https://www.facebook.com/Sanofi",
+          "label": "Sanofi — globalny profil grupy, nie odrębny profil Sanofi Polska",
+          "scope": "parent",
+          "sourceUrl": "https://www.sanofi.com/en",
+          "sourceTitle": "Sanofi — oficjalna strona globalna, odnośnik Facebook w HTML",
+          "evidence": "href=\"https://www.facebook.com/Sanofi\"",
+          "checkedAt": "2026-11-09",
+          "activityStatus": "Nie ustalono — oficjalny profil globalny wskazany przez grupę; Facebook wyświetlił ograniczenie dostępu.",
+          "lastActivityDate": null,
+          "sourceId": "CT047"
+        },
+        "additionalAddresses": [],
+        "missingNotes": [
+          "Nie potwierdzono odrębnego polskiego Facebooka Sanofi; jawnie oznaczono profil globalnej grupy."
+        ],
+        "attemptedSources": [
+          "https://www.sanofi.com/pl/polska",
+          "https://www.sanofi.com/assets/countries/poland/docs/Strategia-podatkowa-Sanofi-w-2023-r.pdf",
+          "https://www.sanofi.com/pl/warunki-korzystania",
+          "https://www.sanofi.com/pl/polska/polityka-prywatnosci",
+          "https://www.sanofi.com/en",
+          "https://x.com/sanofipolska",
+          "https://www.facebook.com/Sanofi"
+        ]
+      }
     },
     {
       "id": "R036",
@@ -1730,7 +2877,43 @@
       "estimatedNet2026": null,
       "estimateMethod": "Nie wyliczano bez indywidualnego mediaplanu, rabatów i okresu usług.",
       "ownerShort": "Danish Crown",
-      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców."
+      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców.",
+      "officialContacts": {
+        "checkedAt": "2026-11-09",
+        "address": {
+          "legalName": "Sokołów spółka akcyjna",
+          "value": "al. 550-lecia 1, 08-300 Sokołów Podlaski, Polska",
+          "country": "Polska",
+          "sourceUrl": "https://sokolow.pl/produkty/wedliny/sokoliki",
+          "sourceTitle": "Sokołów — Sokoliki, klauzula siedziby operatora",
+          "evidence": "Sokołów S.A. z siedzibą al. 550-lecia 1, 08-300 Sokołów Podlaski",
+          "checkedAt": "2026-11-09",
+          "notes": "Klauzula danych osobowych określa adres jako siedzibę spółki. To ten sam operator co dla marki Sokołów.",
+          "sourceId": "CT048"
+        },
+        "x": null,
+        "facebook": {
+          "url": "https://www.facebook.com/sokolowfanpage",
+          "label": "Sokołów — profil operatora Sokolików, nie odrębny profil Sokoliki",
+          "scope": "operator",
+          "sourceUrl": "https://sokolow.pl/produkty/wedliny/sokoliki",
+          "sourceTitle": "Oficjalna strona Sokolików — odnośnik Facebook operatora w HTML",
+          "evidence": "href=\"https://www.facebook.com/sokolowfanpage\"",
+          "checkedAt": "2026-11-09",
+          "activityStatus": "Nie ustalono — odnośnik oficjalnego operatora potwierdzony; Facebook ograniczył odczyt.",
+          "lastActivityDate": null,
+          "sourceId": "CT048"
+        },
+        "additionalAddresses": [],
+        "missingNotes": [
+          "Nie potwierdzono profilu X ani odrębnego Facebooka marki Sokoliki. Pokazano jawnie opisany profil jej operatora."
+        ],
+        "attemptedSources": [
+          "https://sokolow.pl/produkty/wedliny/sokoliki",
+          "https://sokolowsa.pl/firma",
+          "https://www.facebook.com/sokolowfanpage"
+        ]
+      }
     },
     {
       "id": "R035",
@@ -1784,7 +2967,43 @@
       "estimatedNet2026": null,
       "estimateMethod": "Nie wyliczano bez indywidualnego mediaplanu, rabatów i okresu usług.",
       "ownerShort": "Danish Crown",
-      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców."
+      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców.",
+      "officialContacts": {
+        "checkedAt": "2026-11-09",
+        "address": {
+          "legalName": "Sokołów spółka akcyjna",
+          "value": "al. 550-lecia 1, 08-300 Sokołów Podlaski, Polska",
+          "country": "Polska",
+          "sourceUrl": "https://sokolowsa.pl/firma",
+          "sourceTitle": "Sokołów S.A. — o firmie, klauzula siedziby spółki",
+          "evidence": "SOKOŁÓW” S.A. z siedzibą w Sokołowie Podlaskim, adres: 08-300 Sokołów Podlaski, Aleja 550-lecia 1",
+          "checkedAt": "2026-11-09",
+          "notes": "Adres wskazany jako siedziba w klauzuli przetwarzania danych na oficjalnej stronie spółki; nie jest to przypadkowy sklep ani oddział.",
+          "sourceId": "CT049"
+        },
+        "x": null,
+        "facebook": {
+          "url": "https://www.facebook.com/sokolowfanpage",
+          "label": "Sokołów — profil marki/operatora",
+          "scope": "brand",
+          "sourceUrl": "https://sokolowsa.pl/firma",
+          "sourceTitle": "Sokołów S.A. — oficjalny odnośnik Facebook w HTML",
+          "evidence": "href=\"https://www.facebook.com/sokolowfanpage\"",
+          "checkedAt": "2026-11-09",
+          "activityStatus": "Nie ustalono — odnośnik z oficjalnej strony potwierdzony; Facebook ograniczył odczyt.",
+          "lastActivityDate": null,
+          "sourceId": "CT049"
+        },
+        "additionalAddresses": [],
+        "missingNotes": [
+          "Nie znaleziono potwierdzonego profilu X marki ani operatora."
+        ],
+        "attemptedSources": [
+          "https://sokolowsa.pl/firma",
+          "https://sokolow.pl/",
+          "https://www.facebook.com/sokolowfanpage"
+        ]
+      }
     },
     {
       "id": "R042",
@@ -1835,7 +3054,20 @@
       "estimatedNet2026": null,
       "estimateMethod": "Nie wyliczano bez indywidualnego mediaplanu, rabatów i okresu usług.",
       "ownerShort": "Nieustalony",
-      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców."
+      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców.",
+      "officialContacts": {
+        "checkedAt": "2026-11-09",
+        "address": null,
+        "x": null,
+        "facebook": null,
+        "additionalAddresses": [],
+        "missingNotes": [
+          "Operator prawny projektu pozostaje nieustalony. Nie znaleziono dokumentu organizatora, jego siedziby ani potwierdzonych oficjalnych profili. Nazwa nie wystarcza do podstawienia adresu lub kont Gazety Polskiej, NWP, klubów GP albo fundacji."
+        ],
+        "attemptedSources": [
+          "Wyszukiwanie dokładnej nazwy Szkoła Gazety Polskiej z hasłami kontakt, Facebook i X nie wskazało identyfikowalnego oficjalnego operatora lub kont."
+        ]
+      }
     },
     {
       "id": "R001",
@@ -1890,7 +3122,45 @@
       "estimatedNet2026": null,
       "estimateMethod": "Nie wyliczano bez indywidualnego mediaplanu, rabatów i okresu usług.",
       "ownerShort": "Dariusz Dąbski — 100% udziałów",
-      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców."
+      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców.",
+      "officialContacts": {
+        "checkedAt": "2026-11-09",
+        "address": {
+          "legalName": "TELEWIZJA PULS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "value": "CHEŁMSKA 21/22, 00-724 WARSZAWA, Polska",
+          "country": "Polska",
+          "sourceUrl": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000081367?rejestr=P&format=json",
+          "sourceTitle": "Ministerstwo Sprawiedliwości — odpis aktualny KRS 0000081367",
+          "evidence": "CHEŁMSKA, 21, 22, 00-724, WARSZAWA",
+          "checkedAt": "2026-11-09",
+          "notes": "Aktualny odpis publicznego API KRS, Dział 1: siedziba i adres. Oficjalna strona spółki potwierdza ul. Chełmską 21, budynek 22; zapis 21/22 zachowano z rejestru.",
+          "registryId": "0000081367",
+          "sourceId": "CT050"
+        },
+        "x": null,
+        "facebook": {
+          "url": "https://www.facebook.com/tvpulspl",
+          "label": "TV Puls (Polska)",
+          "scope": "brand",
+          "sourceUrl": "https://tvpuls.pl/tvpuls/media-polityka",
+          "sourceTitle": "TV Puls — polityka prywatności mediów społecznościowych",
+          "evidence": "FACEBOOK: TV Puls; odnośnik do facebook.com/tvpulspl",
+          "checkedAt": "2026-11-09",
+          "activityStatus": "Nie ustalono",
+          "lastActivityDate": null,
+          "verificationMethod": "Odnośnik lub wskazanie profilu w oficjalnym źródle.",
+          "notes": "Potwierdzono powiązanie profilu z marką lub operatorem. Platforma nie udostępniła pełnego odczytu daty ostatniego wpisu; nie przypisano statusu aktywności.",
+          "sourceId": "CT051"
+        },
+        "additionalAddresses": [],
+        "missingNotes": [
+          "Nie potwierdzono aktualnego profilu X w oficjalnej polityce mediów społecznościowych. Sam historyczny wpis o telewizjapuls nie wystarcza."
+        ],
+        "attemptedSources": [
+          "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000081367?rejestr=P&format=json",
+          "https://tvpuls.pl/tvpuls/media-polityka"
+        ]
+      }
     },
     {
       "id": "R038",
@@ -1944,7 +3214,56 @@
       "estimatedNet2026": null,
       "estimateMethod": "Nie wyliczano bez indywidualnego mediaplanu, rabatów i okresu usług.",
       "ownerShort": "Wirtualna Polska Holding S.A.",
-      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców."
+      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców.",
+      "officialContacts": {
+        "checkedAt": "2026-11-09",
+        "address": {
+          "legalName": "WAKACJE.PL SPÓŁKA AKCYJNA",
+          "value": "ALEJA GRUNWALDZKA 413, 80-309 GDAŃSK, Polska",
+          "country": "Polska",
+          "sourceUrl": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000315229?rejestr=P&format=json",
+          "sourceTitle": "Ministerstwo Sprawiedliwości — odpis aktualny KRS 0000315229",
+          "evidence": "ALEJA GRUNWALDZKA, 413, 80-309, GDAŃSK",
+          "checkedAt": "2026-11-09",
+          "notes": "Aktualny odpis publicznego API KRS, Dział 1: siedziba i adres.",
+          "registryId": "0000315229",
+          "sourceId": "CT052"
+        },
+        "x": {
+          "url": "https://x.com/portalwakacjepl",
+          "label": "Wakacje.pl (Polska)",
+          "scope": "brand",
+          "sourceUrl": "https://www.wakacje.pl/ofirmie.html",
+          "sourceTitle": "Wakacje.pl — O firmie, odnośniki społecznościowe",
+          "evidence": "href=\"https://x.com/portalwakacjepl\"",
+          "checkedAt": "2026-11-09",
+          "activityStatus": "Nie ustalono",
+          "lastActivityDate": null,
+          "verificationMethod": "Odnośnik lub wskazanie profilu w oficjalnym źródle.",
+          "notes": "Potwierdzono powiązanie profilu z marką lub operatorem. Platforma nie udostępniła pełnego odczytu daty ostatniego wpisu; nie przypisano statusu aktywności.",
+          "sourceId": "CT053"
+        },
+        "facebook": {
+          "url": "https://www.facebook.com/wakacjepl/",
+          "label": "Wakacje.pl (Polska)",
+          "scope": "brand",
+          "sourceUrl": "https://www.wakacje.pl/ofirmie.html",
+          "sourceTitle": "Wakacje.pl — O firmie, odnośniki społecznościowe",
+          "evidence": "href=\"https://www.facebook.com/wakacjepl/\"",
+          "checkedAt": "2026-11-09",
+          "activityStatus": "Nie ustalono",
+          "lastActivityDate": null,
+          "verificationMethod": "Odnośnik lub wskazanie profilu w oficjalnym źródle.",
+          "notes": "Potwierdzono powiązanie profilu z marką lub operatorem. Platforma nie udostępniła pełnego odczytu daty ostatniego wpisu; nie przypisano statusu aktywności.",
+          "sourceId": "CT053"
+        },
+        "additionalAddresses": [],
+        "missingNotes": [],
+        "attemptedSources": [
+          "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000315229?rejestr=P&format=json",
+          "https://www.wakacje.pl/ofirmie.html"
+        ]
+      }
     },
     {
       "id": "R037",
@@ -1997,7 +3316,45 @@
       "estimatedNet2026": null,
       "estimateMethod": "Nie wyliczano bez indywidualnego mediaplanu, rabatów i okresu usług.",
       "ownerShort": "HEINEKEN",
-      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców."
+      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców.",
+      "officialContacts": {
+        "checkedAt": "2026-11-09",
+        "address": {
+          "legalName": "GRUPA ŻYWIEC SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "value": "UL. BROWARNA 88, 34-300 ŻYWIEC, Polska",
+          "country": "Polska",
+          "sourceUrl": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0001043826?rejestr=P&format=json",
+          "sourceTitle": "Ministerstwo Sprawiedliwości — odpis aktualny KRS 0001043826",
+          "evidence": "UL. BROWARNA, 88, 34-300, ŻYWIEC",
+          "checkedAt": "2026-11-09",
+          "notes": "Aktualny odpis publicznego API KRS, Dział 1: siedziba i adres. Nie zastąpiono siedziby w Żywcu warszawskim adresem biura.",
+          "registryId": "0001043826",
+          "sourceId": "CT054"
+        },
+        "x": null,
+        "facebook": {
+          "url": "https://www.facebook.com/Warka",
+          "label": "Warka (Polska)",
+          "scope": "brand",
+          "sourceUrl": "https://warka.com.pl/",
+          "sourceTitle": "Warka — oficjalna witryna",
+          "evidence": "href=\"https://www.facebook.com/Warka\"",
+          "checkedAt": "2026-11-09",
+          "activityStatus": "Nie ustalono",
+          "lastActivityDate": null,
+          "verificationMethod": "Odnośnik lub wskazanie profilu w oficjalnym źródle.",
+          "notes": "Potwierdzono powiązanie profilu z marką lub operatorem. Platforma nie udostępniła pełnego odczytu daty ostatniego wpisu; nie przypisano statusu aktywności.",
+          "sourceId": "CT055"
+        },
+        "additionalAddresses": [],
+        "missingNotes": [
+          "Brak potwierdzonego profilu X Warki lub jej operatora; profilu grupy HEINEKEN nie podstawiono za markę."
+        ],
+        "attemptedSources": [
+          "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0001043826?rejestr=P&format=json",
+          "https://warka.com.pl/"
+        ]
+      }
     },
     {
       "id": "R026",
@@ -2052,7 +3409,66 @@
       "estimatedNet2026": null,
       "estimateMethod": "Nie wyliczano bez indywidualnego mediaplanu, rabatów i okresu usług.",
       "ownerShort": "Whirlpool Corp. — właściciel marki",
-      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców."
+      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców.",
+      "officialContacts": {
+        "checkedAt": "2026-11-09",
+        "address": {
+          "legalName": "BEKO SPÓŁKA AKCYJNA",
+          "value": "UL. 1 SIERPNIA 6A, 02-134 WARSZAWA, Polska",
+          "country": "Polska",
+          "sourceUrl": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000078147?rejestr=P&format=json",
+          "sourceTitle": "Ministerstwo Sprawiedliwości — odpis aktualny KRS 0000078147",
+          "evidence": "UL. 1 SIERPNIA, 6A, 02-134, WARSZAWA",
+          "checkedAt": "2026-11-09",
+          "notes": "Aktualny odpis publicznego API KRS, Dział 1: siedziba i adres. Regulamin whirlpool.pl wskazuje Beko S.A. jako sprzedawcę i operatora sklepu. Nie jest to ustalenie płatnika reklamy w Republice. Zagraniczny adres właściciela marki pokazano osobno.",
+          "registryId": "0000078147",
+          "addressType": "Polski operator sklepu Whirlpool — odrębny podmiot od właściciela marki",
+          "contextSource": {
+            "url": "https://www.whirlpool.pl/regulamin-sklepu",
+            "title": "Whirlpool — regulamin sklepu, definicja sprzedawcy",
+            "evidence": "SPRZEDAWCA – Beko S.A., z siedzibą w Warszawie",
+            "checkedAt": "2026-11-09",
+            "sourceId": "CT057"
+          },
+          "sourceId": "CT056"
+        },
+        "x": null,
+        "facebook": {
+          "url": "https://www.facebook.com/WhirlpoolPL",
+          "label": "Whirlpool (Polska)",
+          "scope": "brand",
+          "sourceUrl": "https://www.whirlpool.pl/",
+          "sourceTitle": "Whirlpool Polska — oficjalna strona",
+          "evidence": "href=\"https://www.facebook.com/WhirlpoolPL\"",
+          "checkedAt": "2026-11-09",
+          "activityStatus": "Nie ustalono",
+          "lastActivityDate": null,
+          "verificationMethod": "Odnośnik lub wskazanie profilu w oficjalnym źródle.",
+          "notes": "Potwierdzono powiązanie profilu z marką lub operatorem. Platforma nie udostępniła pełnego odczytu daty ostatniego wpisu; nie przypisano statusu aktywności.",
+          "sourceId": "CT058"
+        },
+        "additionalAddresses": [
+          {
+            "legalName": "Whirlpool Corporation",
+            "value": "2000 North M-63, MD 3602, Benton Harbor, Michigan 49022-2692, Stany Zjednoczone",
+            "country": "Stany Zjednoczone",
+            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/106640/000010664026000077/whr-20260930.htm",
+            "sourceTitle": "SEC — Whirlpool Corporation, Form 10-Q za 30 września 2026",
+            "evidence": "2000 North M-63, MD 3602; Benton Harbor, Michigan; 49022-2692; Address of principal executive offices",
+            "checkedAt": "2026-11-09",
+            "notes": "Adres centrali właściciela marki wykazany w SEC jako principal executive offices. Spółka zarejestrowana w Delaware; nie jest to adres jej agenta rejestrowego. Nie podstawiono adresu Beko S.A., europejskiego operatora licencjonowanej marki.",
+            "addressType": "Centrala właściciela marki — principal executive offices (SEC)",
+            "sourceId": "CT059"
+          }
+        ],
+        "missingNotes": [
+          "Brak potwierdzonego profilu X polskiej marki lub jej operatora w odczytanych oficjalnych źródłach."
+        ],
+        "attemptedSources": [
+          "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000078147?rejestr=P&format=json",
+          "https://www.whirlpool.pl/"
+        ]
+      }
     },
     {
       "id": "R052",
@@ -2108,7 +3524,55 @@
       "estimatedNet2026": null,
       "estimateMethod": "Nie wyliczano bez indywidualnego mediaplanu, rabatów i okresu usług.",
       "ownerShort": "Jednostka samorządu terytorialnego",
-      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców."
+      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców.",
+      "officialContacts": {
+        "checkedAt": "2026-11-09",
+        "address": {
+          "legalName": "Województwo Lubelskie — Urząd Marszałkowski Województwa Lubelskiego w Lublinie",
+          "value": "ul. Artura Grottgera 4, 20-029 Lublin, Polska",
+          "country": "Polska",
+          "sourceUrl": "https://umwl.bip.lubelskie.pl/?id=6",
+          "sourceTitle": "BIP UMWL — informacje o instytucji",
+          "evidence": "ul. Artura Grottgera 4; 20-029 Lublin",
+          "checkedAt": "2026-11-09",
+          "notes": "Siedziba urzędu obsługującego Województwo Lubelskie; urząd nie jest odrębną osobą prawną.",
+          "sourceId": "CT060"
+        },
+        "x": {
+          "url": "https://x.com/UMWL_Lublin",
+          "label": "Urząd Marszałkowski Województwa Lubelskiego",
+          "scope": "operator",
+          "sourceUrl": "https://www.lubelskie.pl/kontakt/",
+          "sourceTitle": "UMWL — oficjalna strona kontaktowa",
+          "evidence": "href=\"https://x.com/UMWL_Lublin\"",
+          "checkedAt": "2026-11-09",
+          "activityStatus": "Nie ustalono",
+          "lastActivityDate": null,
+          "verificationMethod": "Odnośnik lub wskazanie profilu w oficjalnym źródle.",
+          "notes": "Potwierdzono powiązanie profilu z marką lub operatorem. Platforma nie udostępniła pełnego odczytu daty ostatniego wpisu; nie przypisano statusu aktywności.",
+          "sourceId": "CT061"
+        },
+        "facebook": {
+          "url": "https://www.facebook.com/urzadmarszalkowski.lubelskie",
+          "label": "Urząd Marszałkowski Województwa Lubelskiego",
+          "scope": "operator",
+          "sourceUrl": "https://www.lubelskie.pl/kontakt/",
+          "sourceTitle": "UMWL — oficjalna strona kontaktowa",
+          "evidence": "href=\"https://www.facebook.com/urzadmarszalkowski.lubelskie\"",
+          "checkedAt": "2026-11-09",
+          "activityStatus": "Nie ustalono",
+          "lastActivityDate": null,
+          "verificationMethod": "Odnośnik lub wskazanie profilu w oficjalnym źródle.",
+          "notes": "Potwierdzono powiązanie profilu z marką lub operatorem. Platforma nie udostępniła pełnego odczytu daty ostatniego wpisu; nie przypisano statusu aktywności.",
+          "sourceId": "CT061"
+        },
+        "additionalAddresses": [],
+        "missingNotes": [],
+        "attemptedSources": [
+          "https://umwl.bip.lubelskie.pl/?id=6",
+          "https://www.lubelskie.pl/kontakt/"
+        ]
+      }
     },
     {
       "id": "R053",
@@ -2159,7 +3623,55 @@
       "estimatedNet2026": null,
       "estimateMethod": "Nie wyliczano bez indywidualnego mediaplanu, rabatów i okresu usług.",
       "ownerShort": "Jednostka samorządu terytorialnego",
-      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców."
+      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców.",
+      "officialContacts": {
+        "checkedAt": "2026-11-09",
+        "address": {
+          "legalName": "Województwo Małopolskie — Urząd Marszałkowski Województwa Małopolskiego",
+          "value": "ul. Basztowa 22, 31-156 Kraków, Polska",
+          "country": "Polska",
+          "sourceUrl": "https://www.malopolska.pl/kontakt/urzad-marszalkowski",
+          "sourceTitle": "Małopolska — dane kontaktowe",
+          "evidence": "Adres siedziby: […] ul. Basztowa 22, 31-156 Kraków",
+          "checkedAt": "2026-11-09",
+          "notes": "Strona odróżnia siedzibę od korespondencyjnego adresu ul. Racławickiej 56.",
+          "sourceId": "CT062"
+        },
+        "x": {
+          "url": "https://x.com/malopolskaPL",
+          "label": "Małopolska — oficjalny profil samorządu",
+          "scope": "operator",
+          "sourceUrl": "https://www.malopolska.pl/kontakt",
+          "sourceTitle": "Małopolska — Kontakt, sekcja Social media",
+          "evidence": "href=\"https://x.com/malopolskaPL\"",
+          "checkedAt": "2026-11-09",
+          "activityStatus": "Nie ustalono",
+          "lastActivityDate": null,
+          "verificationMethod": "Odnośnik lub wskazanie profilu w oficjalnym źródle.",
+          "notes": "Potwierdzono powiązanie profilu z marką lub operatorem. Platforma nie udostępniła pełnego odczytu daty ostatniego wpisu; nie przypisano statusu aktywności.",
+          "sourceId": "CT063"
+        },
+        "facebook": {
+          "url": "https://www.facebook.com/lubiemalopolske",
+          "label": "Małopolska — oficjalny profil samorządu",
+          "scope": "operator",
+          "sourceUrl": "https://www.malopolska.pl/kontakt",
+          "sourceTitle": "Małopolska — Kontakt, sekcja Social media",
+          "evidence": "href=\"https://www.facebook.com/lubiemalopolske\"",
+          "checkedAt": "2026-11-09",
+          "activityStatus": "Nie ustalono",
+          "lastActivityDate": null,
+          "verificationMethod": "Odnośnik lub wskazanie profilu w oficjalnym źródle.",
+          "notes": "Potwierdzono powiązanie profilu z marką lub operatorem. Platforma nie udostępniła pełnego odczytu daty ostatniego wpisu; nie przypisano statusu aktywności.",
+          "sourceId": "CT063"
+        },
+        "additionalAddresses": [],
+        "missingNotes": [],
+        "attemptedSources": [
+          "https://www.malopolska.pl/kontakt/urzad-marszalkowski",
+          "https://www.malopolska.pl/kontakt"
+        ]
+      }
     },
     {
       "id": "R014",
@@ -2210,7 +3722,32 @@
       "estimatedNet2026": null,
       "estimateMethod": "Nie wyliczano bez indywidualnego mediaplanu, rabatów i okresu usług.",
       "ownerShort": "Jednostka samorządu terytorialnego",
-      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców."
+      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców.",
+      "officialContacts": {
+        "checkedAt": "2026-11-09",
+        "address": {
+          "legalName": "Województwo Świętokrzyskie — Urząd Marszałkowski Województwa Świętokrzyskiego",
+          "value": "al. IX Wieków Kielc 3, 25-516 Kielce, Polska",
+          "country": "Polska",
+          "sourceUrl": "https://www.gov.pl/web/bip/urzad-marszalkowski-wojewodztwa-swietokrzyskiego-swietokrzyskie-kielce-kielce",
+          "sourceTitle": "Gov.pl — urzędowa karta BIP UMWŚ",
+          "evidence": "al. IX Wieków Kielc 3; 25-516 Kielce",
+          "checkedAt": "2026-11-09",
+          "notes": "Siedziba urzędu obsługującego województwo; karta BIP aktualizowana 21 maja 2026.",
+          "sourceId": "CT064"
+        },
+        "x": null,
+        "facebook": null,
+        "additionalAddresses": [],
+        "missingNotes": [
+          "Nie uzyskano bezpośredniego odczytu aktualnych odnośników społecznościowych ze swietokrzyskie.pro (przekroczony czas dostępu). Govdirectory wymienia SwietokrzyskiUM i UrzadMarszalkowskiWojewodztwaSwietokrzyskiego, lecz bez odczytanego potwierdzenia pierwotnego nie dopisano kont. Historyczny raport z 2015 wskazuje inne konto KielceUmws i nie rozstrzyga aktualnego stanu."
+        ],
+        "attemptedSources": [
+          "https://www.gov.pl/web/bip/urzad-marszalkowski-wojewodztwa-swietokrzyskiego-swietokrzyskie-kielce-kielce",
+          "https://www.swietokrzyskie.pro/",
+          "https://www.govdirectory.org/poland/Q140439525/"
+        ]
+      }
     },
     {
       "id": "R030",
@@ -2270,7 +3807,56 @@
       "estimatedNet2026": null,
       "estimateMethod": "Nie wyliczano bez indywidualnego mediaplanu, rabatów i okresu usług.",
       "ownerShort": "XX ZW Investment Group S.A.",
-      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców."
+      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców.",
+      "officialContacts": {
+        "checkedAt": "2026-11-09",
+        "address": {
+          "legalName": "XTB SPÓŁKA AKCYJNA",
+          "value": "UL. PROSTA 67, 00-838 WARSZAWA, Polska",
+          "country": "Polska",
+          "sourceUrl": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000217580?rejestr=P&format=json",
+          "sourceTitle": "Ministerstwo Sprawiedliwości — odpis aktualny KRS 0000217580",
+          "evidence": "UL. PROSTA, 67, 00-838, WARSZAWA",
+          "checkedAt": "2026-11-09",
+          "notes": "Aktualny odpis publicznego API KRS, Dział 1: siedziba i adres.",
+          "registryId": "0000217580",
+          "sourceId": "CT065"
+        },
+        "x": {
+          "url": "https://x.com/xtbpl",
+          "label": "XTB (Polska)",
+          "scope": "brand",
+          "sourceUrl": "https://www.xtb.com/pl",
+          "sourceTitle": "XTB — oficjalna polska witryna",
+          "evidence": "href=\"https://x.com/xtbpl\" (po odkodowaniu encji HTML)",
+          "checkedAt": "2026-11-09",
+          "activityStatus": "Nie ustalono",
+          "lastActivityDate": null,
+          "verificationMethod": "Odnośnik lub wskazanie profilu w oficjalnym źródle.",
+          "notes": "Potwierdzono powiązanie profilu z marką lub operatorem. Platforma nie udostępniła pełnego odczytu daty ostatniego wpisu; nie przypisano statusu aktywności.",
+          "sourceId": "CT066"
+        },
+        "facebook": {
+          "url": "https://www.facebook.com/xtbpl",
+          "label": "XTB (Polska)",
+          "scope": "brand",
+          "sourceUrl": "https://www.xtb.com/pl",
+          "sourceTitle": "XTB — oficjalna polska witryna",
+          "evidence": "href=\"https://www.facebook.com/xtbpl\" (po odkodowaniu encji HTML)",
+          "checkedAt": "2026-11-09",
+          "activityStatus": "Nie ustalono",
+          "lastActivityDate": null,
+          "verificationMethod": "Odnośnik lub wskazanie profilu w oficjalnym źródle.",
+          "notes": "Potwierdzono powiązanie profilu z marką lub operatorem. Platforma nie udostępniła pełnego odczytu daty ostatniego wpisu; nie przypisano statusu aktywności.",
+          "sourceId": "CT066"
+        },
+        "additionalAddresses": [],
+        "missingNotes": [],
+        "attemptedSources": [
+          "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000217580?rejestr=P&format=json",
+          "https://www.xtb.com/pl"
+        ]
+      }
     },
     {
       "id": "R020",
@@ -2327,7 +3913,45 @@
       "estimatedNet2026": null,
       "estimateMethod": "Nie wyliczano bez indywidualnego mediaplanu, rabatów i okresu usług.",
       "ownerShort": "OROTAL Commodities Trading SA",
-      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców."
+      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców.",
+      "officialContacts": {
+        "checkedAt": "2026-11-09",
+        "address": {
+          "legalName": "GREEN REPUBLIC SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "value": "UL. MARCINA KASPRZAKA 31/119, 01-234 WARSZAWA, Polska",
+          "country": "Polska",
+          "sourceUrl": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0001195251?rejestr=P&format=json",
+          "sourceTitle": "Ministerstwo Sprawiedliwości — odpis aktualny KRS 0001195251",
+          "evidence": "UL. MARCINA KASPRZAKA, 31, 119, 01-234, WARSZAWA",
+          "checkedAt": "2026-11-09",
+          "notes": "Aktualny odpis publicznego API KRS, Dział 1: siedziba i adres. Adres polskiego sprzedawcy i licencjobiorcy; nie jest to siedziba szwajcarskiego właściciela marki OROTAL Commodities Trading SA.",
+          "registryId": "0001195251",
+          "sourceId": "CT067"
+        },
+        "x": null,
+        "facebook": {
+          "url": "https://www.facebook.com/YerbadorMate/",
+          "label": "Yerbador (Polska)",
+          "scope": "brand",
+          "sourceUrl": "https://yerbador.pl/dane-firmy-i-sklepu/",
+          "sourceTitle": "Yerbador — dane firmy i sklepu",
+          "evidence": "href=\"https://www.facebook.com/YerbadorMate/\"",
+          "checkedAt": "2026-11-09",
+          "activityStatus": "Nie ustalono",
+          "lastActivityDate": null,
+          "verificationMethod": "Odnośnik lub wskazanie profilu w oficjalnym źródle.",
+          "notes": "Potwierdzono powiązanie profilu z marką lub operatorem. Platforma nie udostępniła pełnego odczytu daty ostatniego wpisu; nie przypisano statusu aktywności.",
+          "sourceId": "CT068"
+        },
+        "additionalAddresses": [],
+        "missingNotes": [
+          "Nie potwierdzono profilu X w oficjalnej witrynie marki i danych sklepu."
+        ],
+        "attemptedSources": [
+          "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0001195251?rejestr=P&format=json",
+          "https://yerbador.pl/dane-firmy-i-sklepu/"
+        ]
+      }
     },
     {
       "id": "R018",
@@ -2509,7 +4133,55 @@
       "estimatedNet2026": null,
       "estimateMethod": "Nie wyliczano bez indywidualnego mediaplanu, rabatów i okresu usług.",
       "ownerShort": "Divisio Holding AG (operator)",
-      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców."
+      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców.",
+      "officialContacts": {
+        "checkedAt": "2026-11-09",
+        "address": {
+          "legalName": "BB Trade Estonia OÜ",
+          "value": "Harju maakond, Tallinn, Lasnamäe linnaosa, Tähesaju tee 9, 13917, Estonia",
+          "country": "Estonia",
+          "sourceUrl": "https://ariregister.rik.ee/eng/company/14814864/BB-Trade-Estonia-O%C3%9C",
+          "sourceTitle": "Estoński e-Business Register — BB Trade Estonia OÜ 14814864",
+          "evidence": "Harju maakond, Tallinn, Lasnamäe linnaosa, Tähesaju tee 9, 13917",
+          "checkedAt": "2026-11-09",
+          "notes": "Aktualny adres operatora platformy z urzędowego rejestru; status spółki: w upadłości. Nie zastąpiono adresem polskiej spółki ani odrębnego kontrahenta Expofer.",
+          "sourceId": "CT069"
+        },
+        "x": {
+          "url": "https://x.com/zondacryptopl",
+          "label": "zondacrypto Polska",
+          "scope": "brand",
+          "sourceUrl": "https://zondacrypto.com/pl/social-media",
+          "sourceTitle": "zondacrypto — oficjalny wykaz kanałów społecznościowych",
+          "evidence": "X (Twitter): Polska — https://x.com/zondacryptopl",
+          "checkedAt": "2026-11-09",
+          "activityStatus": "Nie ustalono",
+          "lastActivityDate": null,
+          "verificationMethod": "Odnośnik lub wskazanie profilu w oficjalnym źródle.",
+          "notes": "Odczytano oficjalny wykaz kanałów marki, w wersji dostępnej narzędziu wyszukiwarki. Odczyt samej platformy był ograniczony; nie ustalono daty ostatniego wpisu ani obecnego administratora konta po upadłości operatora.",
+          "sourceId": "CT070"
+        },
+        "facebook": {
+          "url": "https://www.facebook.com/zondacryptopolska",
+          "label": "zondacrypto Polska",
+          "scope": "brand",
+          "sourceUrl": "https://zondacrypto.com/pl/social-media",
+          "sourceTitle": "zondacrypto — oficjalny wykaz kanałów społecznościowych",
+          "evidence": "Facebook: Polska — https://www.facebook.com/zondacryptopolska",
+          "checkedAt": "2026-11-09",
+          "activityStatus": "Nie ustalono",
+          "lastActivityDate": null,
+          "verificationMethod": "Odnośnik lub wskazanie profilu w oficjalnym źródle.",
+          "notes": "Odczytano oficjalny wykaz kanałów marki, w wersji dostępnej narzędziu wyszukiwarki. Odczyt samej platformy był ograniczony; nie ustalono daty ostatniego wpisu ani obecnego administratora konta po upadłości operatora.",
+          "sourceId": "CT070"
+        },
+        "additionalAddresses": [],
+        "missingNotes": [],
+        "attemptedSources": [
+          "https://ariregister.rik.ee/eng/company/14814864/BB-Trade-Estonia-O%C3%9C",
+          "https://zondacrypto.com/pl/social-media"
+        ]
+      }
     },
     {
       "id": "R008",
@@ -2569,7 +4241,45 @@
       "estimatedNet2026": null,
       "estimateMethod": "Nie wyliczano bez indywidualnego mediaplanu, rabatów i okresu usług.",
       "ownerShort": "Asahi Europe & International",
-      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców."
+      "ownershipReview": "Sprawdzono zakres dokumentów; ograniczenia i data każdego źródła poniżej. Odczyt strony nie jest pełnym odpisem wszystkich udziałowców.",
+      "officialContacts": {
+        "checkedAt": "2026-11-09",
+        "address": {
+          "legalName": "KOMPANIA PIWOWARSKA SPÓŁKA AKCYJNA",
+          "value": "ul. Emilii Plater 53, 00-113 Warszawa, Polska",
+          "country": "Polska",
+          "sourceUrl": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000086269?rejestr=P&format=json",
+          "sourceTitle": "Ministerstwo Sprawiedliwości — odpis aktualny KRS 0000086269",
+          "evidence": "UL. EMILII PLATER, 53, 00-113, WARSZAWA",
+          "checkedAt": "2026-11-09",
+          "notes": "Odczytano bezpośrednio publiczne API KRS; Dział 1, siedziba i adres podmiotu. Aktualna siedziba jest w Warszawie. Poznań, ul. Szwajcarska 11, występuje w starszych dokumentach i jako adres korespondencyjny; nie zastępuje aktualnego adresu rejestrowego.",
+          "registryId": "0000086269",
+          "sourceId": "CT003"
+        },
+        "x": null,
+        "facebook": {
+          "url": "https://www.facebook.com/zubr",
+          "label": "Żubr (Polska)",
+          "scope": "brand",
+          "sourceUrl": "https://zubr.pl/zubr-wspiera/",
+          "sourceTitle": "Żubr — oficjalna witryna marki",
+          "evidence": "Żubr na Facebooku; odnośnik https://www.facebook.com/zubr",
+          "checkedAt": "2026-11-09",
+          "activityStatus": "Nie ustalono",
+          "lastActivityDate": null,
+          "verificationMethod": "Odnośnik lub wskazanie profilu w oficjalnym źródle.",
+          "notes": "Potwierdzono powiązanie profilu z marką lub operatorem. Platforma nie udostępniła pełnego odczytu daty ostatniego wpisu; nie przypisano statusu aktywności.",
+          "sourceId": "CT071"
+        },
+        "additionalAddresses": [],
+        "missingNotes": [
+          "Nie potwierdzono profilu X Żubra lub jego operatora w sprawdzonych oficjalnych witrynach."
+        ],
+        "attemptedSources": [
+          "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000086269?rejestr=P&format=json",
+          "https://zubr.pl/zubr-wspiera/"
+        ]
+      }
     }
   ],
   "contracts": [
@@ -10773,6 +12483,1518 @@
       "Z26_07",
       "Z26_08",
       "Z26_09"
+    ]
+  },
+  "contactSources": [
+    {
+      "id": "CT001",
+      "url": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0001083458?rejestr=P&format=json",
+      "title": "Ministerstwo Sprawiedliwości — odpis aktualny KRS 0001083458",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "AFG ELECTRIC MOTORS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ: ul. Ostrobramska 73, 04-175 Warszawa, Polska"
+      ],
+      "evidence": [
+        "OSTROBRAMSKA, 73, 04-175, WARSZAWA"
+      ],
+      "limitations": [
+        "Odczytano bezpośrednio publiczne API KRS; Dział 1, siedziba i adres podmiotu."
+      ]
+    },
+    {
+      "id": "CT002",
+      "url": "https://www.aflofarm.com.pl/pl/kontakt/",
+      "title": "Skontaktuj się z nami — Aflofarm",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "Aflofarm Farmacja Polska sp. z o.o.: ul. Partyzancka 133/151, 95-200 Pabianice, Polska",
+        "Aflofarm — Po Stronie Zdrowia: https://www.facebook.com/postroniezdrowia/"
+      ],
+      "evidence": [
+        "Siedziba firmy Aflofarm Farmacja Polska Sp. z o.o. — ul. Partyzancka 133/151, 95-200 Pabianice",
+        "href=\"https://www.facebook.com/postroniezdrowia/\""
+      ],
+      "limitations": [
+        "Oficjalna strona firmy wprost oznacza adres jako siedzibę; administrator danych w tej samej treści ma tę samą siedzibę.",
+        "Oficjalność potwierdzona wskazanym źródłem; nie uzyskano dostępnego odczytu daty ostatniego wpisu, więc nie przypisano statusu aktywności."
+      ]
+    },
+    {
+      "id": "CT003",
+      "url": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000086269?rejestr=P&format=json",
+      "title": "Ministerstwo Sprawiedliwości — odpis aktualny KRS 0000086269",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "KOMPANIA PIWOWARSKA SPÓŁKA AKCYJNA: ul. Emilii Plater 53, 00-113 Warszawa, Polska"
+      ],
+      "evidence": [
+        "UL. EMILII PLATER, 53, 00-113, WARSZAWA"
+      ],
+      "limitations": [
+        "Odczytano bezpośrednio publiczne API KRS; Dział 1, siedziba i adres podmiotu. Aktualna siedziba jest w Warszawie. Poznań, ul. Szwajcarska 11, występuje w starszych dokumentach i jako adres korespondencyjny; nie zastępuje aktualnego adresu rejestrowego."
+      ]
+    },
+    {
+      "id": "CT004",
+      "url": "https://kp.pl/nasze-piwa/captain-jack/",
+      "title": "Captain Jack — oficjalna karta marki Kompanii Piwowarskiej",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "Captain Jack — polska marka: https://www.facebook.com/CaptainJackbeer"
+      ],
+      "evidence": [
+        "Facebook: https://www.facebook.com/CaptainJackbeer"
+      ],
+      "limitations": [
+        "Oficjalność potwierdzona wskazanym źródłem; nie uzyskano dostępnego odczytu daty ostatniego wpisu, więc nie przypisano statusu aktywności."
+      ]
+    },
+    {
+      "id": "CT005",
+      "url": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0001126653?rejestr=P&format=json",
+      "title": "Ministerstwo Sprawiedliwości — odpis aktualny KRS 0001126653",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "NOX2 SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ: ul. Sarmacka 5G, 02-972 Warszawa, Polska"
+      ],
+      "evidence": [
+        "UL. SARMACKA, 5G, 02-972, WARSZAWA"
+      ],
+      "limitations": [
+        "Odczytano bezpośrednio publiczne API KRS; Dział 1, siedziba i adres podmiotu. KRS wskazuje kod 02-972; regulamin CarFix podaje 00-972. Rozstrzygnięto według aktualnego odpisu, bez kopiowania błędnego kodu z regulaminu."
+      ]
+    },
+    {
+      "id": "CT006",
+      "url": "https://carfix.ac/",
+      "title": "CarFix — oficjalna strona",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "CarFix: https://www.facebook.com/carfix.ac.eu/"
+      ],
+      "evidence": [
+        "href=\"https://www.facebook.com/carfix.ac.eu/\""
+      ],
+      "limitations": [
+        "Oficjalność potwierdzona wskazanym źródłem; nie uzyskano dostępnego odczytu daty ostatniego wpisu, więc nie przypisano statusu aktywności."
+      ]
+    },
+    {
+      "id": "CT007",
+      "url": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000024785?rejestr=P&format=json",
+      "title": "Ministerstwo Sprawiedliwości — odpis aktualny KRS 0000024785",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "CASTORAMA POLSKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ: ul. Krakowiaków 78, 02-255 Warszawa, Polska"
+      ],
+      "evidence": [
+        "KRAKOWIAKÓW, 78, 02-255, WARSZAWA"
+      ],
+      "limitations": [
+        "Odczytano bezpośrednio publiczne API KRS; Dział 1, siedziba i adres podmiotu."
+      ]
+    },
+    {
+      "id": "CT008",
+      "url": "https://media.castorama.pl/media/wysiwyg/regulaminy/Regulamin_konkursu-Kwiaty_za_elektrograty_FB_IG.pdf",
+      "title": "Regulamin konkursu Kwiaty za elektrograty — Castorama",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "Castorama Polska: https://www.facebook.com/CastoramaPolska"
+      ],
+      "evidence": [
+        "profilu Castorama Polska na portalu Facebook.com pod adresem: www.facebook.com/CastoramaPolska"
+      ],
+      "limitations": [
+        "Odczytano pierwszą stronę PDF na oficjalnej domenie. Dokument wskazuje nazwę i URL profilu marki, nie profil organizatora konkursu FAB Group. Aktualności profilu nie ustalono; Facebook ograniczył odczyt."
+      ]
+    },
+    {
+      "id": "CT009",
+      "url": "https://cam.pallotyni.pl/",
+      "title": "Pallotyńskie Centrum Animacji Misyjnej — oficjalna strona",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "Centrum Animacji Misyjnej — Konstancin-Jeziorna: https://www.facebook.com/CentrumAnimacjiMisyjnej"
+      ],
+      "evidence": [
+        "href=\"http://www.facebook.com/CentrumAnimacjiMisyjnej\""
+      ],
+      "limitations": [
+        "Oficjalność potwierdzona wskazanym źródłem; nie uzyskano dostępnego odczytu daty ostatniego wpisu, więc nie przypisano statusu aktywności."
+      ]
+    },
+    {
+      "id": "CT010",
+      "url": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0001273837?rejestr=P&format=json",
+      "title": "Ministerstwo Sprawiedliwości — odpis aktualny KRS 0001273837",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "COMARCH SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ: ul. prof. Michała Życzkowskiego 33, 31-864 Kraków, Polska"
+      ],
+      "evidence": [
+        "UL. PROF. MICHAŁA ŻYCZKOWSKIEGO, 33, 31-864, KRAKÓW"
+      ],
+      "limitations": [
+        "Odczytano bezpośrednio publiczne API KRS; Dział 1, siedziba i adres podmiotu. Odróżniono aktualną spółkę z o.o. KRS 0001273837 od historycznej S.A. KRS 0000057567 i jej dawnego adresu Jana Pawła II 39A. Oficjalna strona nowej spółki potwierdza ten adres."
+      ]
+    },
+    {
+      "id": "CT011",
+      "url": "https://www.comarch.pl/",
+      "title": "Comarch — oficjalna strona polska",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "Comarch — profil globalny operatora: https://x.com/comarchgroup",
+        "Comarch Polska — operator: https://pl-pl.facebook.com/pages/Comarch-Poland/137434822955198"
+      ],
+      "evidence": [
+        "href=\"https://twitter.com/comarchgroup\"",
+        "href=\"https://pl-pl.facebook.com/pages/Comarch-Poland/137434822955198\""
+      ],
+      "limitations": [
+        "Oficjalna witryna odsyła do konta comarchgroup w historycznej domenie twitter.com; URL publikacji używa równoważnej domeny x.com. Nie ustalono ostatniej aktywności; X nie udostępnił treści wpisów.",
+        "Oficjalność potwierdzona wskazanym źródłem; nie uzyskano dostępnego odczytu daty ostatniego wpisu, więc nie przypisano statusu aktywności."
+      ]
+    },
+    {
+      "id": "CT012",
+      "url": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000599856?rejestr=P&format=json",
+      "title": "Ministerstwo Sprawiedliwości — odpis aktualny KRS 0000599856",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "EKAMEDICA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SPÓŁKA KOMANDYTOWA: ul. Bielska 78A, 43-340 Kozy, Polska"
+      ],
+      "evidence": [
+        "UL. BIELSKA, 78A, 43-340, KOZY"
+      ],
+      "limitations": [
+        "Odczytano bezpośrednio publiczne API KRS; Dział 1, siedziba i adres podmiotu."
+      ]
+    },
+    {
+      "id": "CT013",
+      "url": "https://ekamedica24.pl/",
+      "title": "EkaMedica24 — oficjalny sklep wskazany przez EkaMedica",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "EkaMedica: https://www.facebook.com/EkaMedica/"
+      ],
+      "evidence": [
+        "href=\"https://www.facebook.com/EkaMedica/\""
+      ],
+      "limitations": [
+        "Oficjalna witryna ekamedica.pl/kontakt odsyła do sklepu ekamedica24.pl; w źródle HTML tego sklepu jest odnośnik do profilu EkaMedica. Facebook nie udostępnił aktualności."
+      ]
+    },
+    {
+      "id": "CT014",
+      "url": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000220368?rejestr=P&format=json",
+      "title": "Ministerstwo Sprawiedliwości — odpis aktualny KRS 0000220368",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "\"NIEZALEŻNE WYDAWNICTWO POLSKIE\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ: ul. Filtrowa 63/43, 02-056 Warszawa, Polska"
+      ],
+      "evidence": [
+        "FILTROWA, 63, 43, 02-056, WARSZAWA"
+      ],
+      "limitations": [
+        "Odczytano bezpośrednio publiczne API KRS; Dział 1, siedziba i adres podmiotu."
+      ]
+    },
+    {
+      "id": "CT015",
+      "url": "https://www.gazetapolska.pl/",
+      "title": "Gazeta Polska — oficjalny serwis tygodnika",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "Gazeta Polska — tygodnik: https://x.com/GPtygodnik",
+        "Gazeta Polska — tygodnik: https://www.facebook.com/GazetaPolskaPL"
+      ],
+      "evidence": [
+        "href=\"https://twitter.com/GPtygodnik\"",
+        "href=\"https://www.facebook.com/GazetaPolskaPL\""
+      ],
+      "limitations": [
+        "Oficjalny serwis odsyła do GPtygodnik w historycznej domenie Twitter; podano równoważny adres x.com. Nie utożsamiono tygodnika z Gazetą Polską Codziennie. Odczyt X:403, aktywności nie ustalono.",
+        "Oficjalność potwierdzona wskazanym źródłem; nie uzyskano dostępnego odczytu daty ostatniego wpisu, więc nie przypisano statusu aktywności."
+      ]
+    },
+    {
+      "id": "CT016",
+      "url": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000340368?rejestr=P&format=json",
+      "title": "Ministerstwo Sprawiedliwości — odpis aktualny KRS 0000340368",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "\"RESTAURANT PARTNER POLSKA\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ: ul. Gdańska 130/B7, 90-520 Łódź, Polska"
+      ],
+      "evidence": [
+        "UL. GDAŃSKA, 130, B7, 90-520, ŁÓDŹ"
+      ],
+      "limitations": [
+        "Odczytano bezpośrednio publiczne API KRS; Dział 1, siedziba i adres podmiotu. Firmowa polityka prywatności (marzec 2026) nadal wskazuje dawny adres Piotrkowska 276. Aktualny urzędowy odpis podaje Gdańska 130/B7. To adres polskiego operatora wymienionego w rejestrze publikacji, a nie zagranicznej spółki dominującej Glovo."
+      ]
+    },
+    {
+      "id": "CT017",
+      "url": "https://play.google.com/store/apps/details?hl=pl&id=com.glovo",
+      "title": "Glovo — polski opis aplikacji opublikowany przez dewelopera w Google Play",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "Glovo Polska: https://x.com/Glovo_PL",
+        "Glovo Polska: https://www.facebook.com/GlovoPolska"
+      ],
+      "evidence": [
+        "Twitter: https://twitter.com/Glovo_PL",
+        "Facebook: https://www.facebook.com/GlovoPolska"
+      ],
+      "limitations": [
+        "Opis aplikacji Glovoapp 23SL w polskiej wersji językowej, aktualizacja19.10.2026, wskazuje polskie konto. Profil globalny pracodawcy LifeAtGlovo pozostawiono poza tym polem. Odczyt X:403; daty ostatniego wpisu nie ustalono.",
+        "Oficjalność potwierdzona wskazanym źródłem; nie uzyskano dostępnego odczytu daty ostatniego wpisu, więc nie przypisano statusu aktywności."
+      ]
+    },
+    {
+      "id": "CT018",
+      "url": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0001199353?rejestr=P&format=json",
+      "title": "Ministerstwo Sprawiedliwości — odpis aktualny KRS 0001199353",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "GORYLA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ: ul. Filtrowa 63/43, 02-056 Warszawa, Polska"
+      ],
+      "evidence": [
+        "UL. FILTROWA, 63, 43, 02-056, WARSZAWA"
+      ],
+      "limitations": [
+        "Odczytano bezpośrednio publiczne API KRS; Dział 1, siedziba i adres podmiotu."
+      ]
+    },
+    {
+      "id": "CT019",
+      "url": "https://goryla.pl/",
+      "title": "Goryla.pl — oficjalny sklep",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "Goryla.pl: https://www.facebook.com/profile.php?id=61583333112933"
+      ],
+      "evidence": [
+        "href=\"https://www.facebook.com/profile.php?id=61583333112933\""
+      ],
+      "limitations": [
+        "Oficjalność potwierdzona wskazanym źródłem; nie uzyskano dostępnego odczytu daty ostatniego wpisu, więc nie przypisano statusu aktywności."
+      ]
+    },
+    {
+      "id": "CT020",
+      "url": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000043669?rejestr=P&format=json",
+      "title": "Ministerstwo Sprawiedliwości — odpis aktualny KRS 0000043669",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "Carlsberg Polska spółka z ograniczoną odpowiedzialnością: ul. Krakowiaków 34, 02-255 Warszawa, Polska"
+      ],
+      "evidence": [
+        "UL. KRAKOWIAKÓW; 34; 02-255; WARSZAWA",
+        "UL. KRAKOWIAKÓW; 34; WARSZAWA; 02-255"
+      ],
+      "limitations": [
+        "Siedziba prawna potwierdzona w dziale 1 odpisu aktualnego KRS; nie użyto samego opisu biura.",
+        "Wspólny odczyt urzędowy dla Carlsberg Polska został wykonany w kontroli Harnaś/Kasztelan; adres zgodny z bieżącą oficjalną stroną spółki. Nie jest to adres browaru ani Carlsberg Supply Company Polska S.A."
+      ]
+    },
+    {
+      "id": "CT021",
+      "url": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000997176?rejestr=P&format=json",
+      "title": "Ministerstwo Sprawiedliwości — odpis aktualny KRS 0000997176",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "Ikony Moto spółka z ograniczoną odpowiedzialnością: ul. Zielna 39, 00-108 Warszawa, Polska"
+      ],
+      "evidence": [
+        "UL. ZIELNA; 39; 00-108; WARSZAWA"
+      ],
+      "limitations": []
+    },
+    {
+      "id": "CT022",
+      "url": "https://ikonymotoryzacji.com/",
+      "title": "Ikony Motoryzacji — oficjalna strona wystawy",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "Ikony Motoryzacji — marka / wystawa: https://www.facebook.com/ikonymotoryzacji"
+      ],
+      "evidence": [
+        "href=\"https://www.facebook.com/ikonymotoryzacji\""
+      ],
+      "limitations": [
+        "Bezpośredni odnośnik w firmowym HTML. Odrzucono niepowiązane odnośniki szablonu AncoraThemes i themes_ancora. Nie ustalono daty ostatniego wpisu."
+      ]
+    },
+    {
+      "id": "CT023",
+      "url": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000018550?rejestr=P&format=json",
+      "title": "Ministerstwo Sprawiedliwości — odpis aktualny KRS 0000018550",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "Animex Foods spółka z ograniczoną odpowiedzialnością: ul. Tytusa Chałubińskiego 8, 00-613 Warszawa, Polska"
+      ],
+      "evidence": [
+        "TYTUSA CHAŁUBIŃSKIEGO; 8; 00-613; WARSZAWA"
+      ],
+      "limitations": [
+        "Podmiot grupy Animex prowadzącej portfolio wędliniarskiej marki Krakus. Aktualny KRS 0000018550; dział 6 potwierdza przejęcie wcześniejszej Animex Foods KRS 0000471961 i zmianę nazwy spółki przejmującej. Oficjalna strona lokalizacji zachowała stare NIP/REGON; nie wykorzystano ich do określenia aktualnej tożsamości. Nie ustala to strony umowy reklamy."
+      ]
+    },
+    {
+      "id": "CT024",
+      "url": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000970748?rejestr=P&format=json",
+      "title": "Ministerstwo Sprawiedliwości — odpis aktualny KRS 0000970748",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "Grupa Vikinga spółka z ograniczoną odpowiedzialnością: ul. Handlowa 5, 15-399 Białystok, Polska"
+      ],
+      "evidence": [
+        "UL. HANDLOWA; 5; 15-399; BIAŁYSTOK"
+      ],
+      "limitations": []
+    },
+    {
+      "id": "CT025",
+      "url": "https://kuchniavikinga.pl/",
+      "title": "Kuchnia Vikinga — oficjalna strona",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "Kuchnia Vikinga — polska marka: https://www.facebook.com/Kuchniavikinga"
+      ],
+      "evidence": [
+        "href=\"https://www.facebook.com/Kuchniavikinga\""
+      ],
+      "limitations": []
+    },
+    {
+      "id": "CT026",
+      "url": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000859915?rejestr=P&format=json",
+      "title": "Ministerstwo Sprawiedliwości — odpis aktualny KRS 0000859915",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "Opella Healthcare Poland spółka z ograniczoną odpowiedzialnością: ul. Marcina Kasprzaka 6, 01-211 Warszawa, Polska"
+      ],
+      "evidence": [
+        "UL. MARCINA KASPRZAKA; 6; 01-211; WARSZAWA"
+      ],
+      "limitations": []
+    },
+    {
+      "id": "CT027",
+      "url": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000508462?rejestr=P&format=json",
+      "title": "Ministerstwo Sprawiedliwości — odpis aktualny KRS 0000508462",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "TVO spółka z ograniczoną odpowiedzialnością: ul. Kielecka 2, 81-303 Gdynia, Polska"
+      ],
+      "evidence": [
+        "UL. KIELECKA; 2; 81-303; GDYNIA"
+      ],
+      "limitations": []
+    },
+    {
+      "id": "CT028",
+      "url": "https://www.mango.pl/",
+      "title": "Mango — oficjalny sklep",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "Mango — polska marka telezakupowa: https://www.facebook.com/MangoPolska"
+      ],
+      "evidence": [
+        "href=\"https://www.facebook.com/MangoPolska\""
+      ],
+      "limitations": [
+        "Odróżniono od odnośnika do innej marki operatora TV Okazje oraz od odzieżowej marki Mango."
+      ]
+    },
+    {
+      "id": "CT029",
+      "url": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000427063?rejestr=P&format=json",
+      "title": "Ministerstwo Sprawiedliwości — odpis aktualny KRS 0000427063",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "TERG spółka akcyjna: ul. Za Dworcem 1D, 77-400 Złotów, Polska"
+      ],
+      "evidence": [
+        "ZA DWORCEM; 1D; 77-400; ZŁOTÓW"
+      ],
+      "limitations": []
+    },
+    {
+      "id": "CT030",
+      "url": "https://demagog.org.pl/fake_news/media-expert-oferuje-laptopy-za-dziewiec-zlotych-proba-oszustwa/",
+      "title": "Demagog — Media Expert oferuje laptopy za dziewięć złotych? Próba oszustwa",
+      "checkedAt": "2026-11-09",
+      "documentDate": "2023-07-04",
+      "verification": [
+        "Media Expert — polska marka: https://www.facebook.com/Mediaexpert"
+      ],
+      "evidence": [
+        "oficjalnym facebookowym kontem […] sklepów Media Expert"
+      ],
+      "limitations": [
+        "Wiarygodna analiza fact-checkingowa z 4.07.2023, z odpowiedzią rzecznika firmy, bezpośrednio odsyła do tego profilu i identyfikuje go jako autentyczny. Odczyt profilu Facebook był ograniczony; aktywności na 9.11.2026 nie ustalono."
+      ]
+    },
+    {
+      "id": "CT031",
+      "url": "https://samorzad.gov.pl/web/miasto-chelm",
+      "title": "Miasto Chełm — oficjalny portal samorządowy",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "Miasto Chełm — Urząd Miasta Chełm: ul. Lubelska 65, 22-100 Chełm, Polska",
+        "Miasto Chełm — instytucja publiczna: https://x.com/MiastoChelm",
+        "Miasto Chełm — instytucja publiczna: https://www.facebook.com/chelmpl"
+      ],
+      "evidence": [
+        "Urząd Miasta Chełm […] ul. Lubelska 65 […] 22-100 Chełm",
+        "twitter.com/MiastoChelm",
+        "facebook.com/chelmpl"
+      ],
+      "limitations": [
+        "Adres urzędu obsługującego miejską JST. Nie jest to adres miejsca koncertu ani odrębnego Chełmskiego Domu Kultury.",
+        "Witryna miejska wskazuje Twitter/MiastoChelm; w rejestrze użyto aktualnej domeny x.com z tym samym identyfikatorem. To konto miasta, nie konto prezydenta.",
+        "Bezpośredni odnośnik w sekcji media społecznościowe urzędu; nie profil odrębnego RetroFestu."
+      ]
+    },
+    {
+      "id": "CT032",
+      "url": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0001061451?rejestr=P&format=json",
+      "title": "Ministerstwo Sprawiedliwości — odpis aktualny KRS 0001061451",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "Motolia spółka z ograniczoną odpowiedzialnością: ul. Alternatywy 7/135, 02-775 Warszawa, Polska"
+      ],
+      "evidence": [
+        "UL. ALTERNATYWY; 7; 135; 02-775; WARSZAWA"
+      ],
+      "limitations": [
+        "Potwierdzony adres rejestrowy. Oficjalna strona oddziela go od biura przy ul. Jagiellońskiej 88, którego nie użyto."
+      ]
+    },
+    {
+      "id": "CT033",
+      "url": "https://eli.gov.pl/api/acts/MP/2026/401/text.pdf",
+      "title": "Monitor Polski 2026 poz. 401 — uchwała nr 7/2026 Zarządu NBP",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "Narodowy Bank Polski: ul. Świętokrzyska 11/21, 00-919 Warszawa, Polska"
+      ],
+      "evidence": [
+        "Narodowy Bank Polski z siedzibą w Warszawie, ul. Świętokrzyska 11/21, 00-919 Warszawa"
+      ],
+      "limitations": [
+        "Urzędowy akt z 30.03.2026, ogłoszony 21.04.2026. Załącznik 1 s.5 i załącznik 2 s.8 określają siedzibę NBP; nie jest to adres oddziału."
+      ]
+    },
+    {
+      "id": "CT034",
+      "url": "https://proto.pl/aktualnosci/nbp-na-twitterze-ranking-prezesow-bankow-centralnych-profil-biura-prasowego/",
+      "title": "PRoto — Kontrowersje wokół komunikacji NBP na Twitterze. Profil biura prasowego ma bardziej ludzkie oblicze",
+      "checkedAt": "2026-11-09",
+      "documentDate": "2021-11-03",
+      "verification": [
+        "Narodowy Bank Polski — instytucja publiczna: https://x.com/nbppl"
+      ],
+      "evidence": [
+        "Do oficjalnej komunikacji banku pozostaje profil @nbppl"
+      ],
+      "limitations": [
+        "Odpowiedź Piotra Turka z NBP przytoczona przez PRoto 3.11.2021 rozróżnia @nbppl od @BiuroNbp. Artykuł odczytano bezpośrednio; dostęp do osi czasu X 9.11.2026 ograniczony. Nie przypisano aktualnej aktywności ani daty ostatniego wpisu."
+      ]
+    },
+    {
+      "id": "CT035",
+      "url": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0001206332?rejestr=P&format=json",
+      "title": "Ministerstwo Sprawiedliwości — odpis aktualny KRS 0001206332",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "NOWROCKY spółka z ograniczoną odpowiedzialnością: ul. Jana Heweliusza 11/811, 80-890 Gdańsk, Polska"
+      ],
+      "evidence": [
+        "UL. JANA HEWELIUSZA; 11; 811; GDAŃSK; 80-890"
+      ],
+      "limitations": [
+        "Odczyt publicznego API KRS, dział 1: siedziba i adres. Odpis z 9.11.2026, stan z 2.12.2025. Regulamin sklepu podaje ten sam adres, ale jego data aktualizacji poprzedza rejestrację spółki; dlatego podstawą jest KRS."
+      ]
+    },
+    {
+      "id": "CT036",
+      "url": "https://nowrocky.pl/",
+      "title": "NOWROCKY — oficjalny sklep, odnośnik społecznościowy w HTML",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "NOWROCKY — profil marki: https://www.facebook.com/people/Nowrocky/61583980511977/"
+      ],
+      "evidence": [
+        "href=\"https://www.facebook.com/people/Nowrocky/61583980511977/\""
+      ],
+      "limitations": []
+    },
+    {
+      "id": "CT037",
+      "url": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000475366?rejestr=P&format=json",
+      "title": "Ministerstwo Sprawiedliwości — odpis aktualny KRS 0000475366",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "„OLEOFARM” spółka z ograniczoną odpowiedzialnością: ul. Mokronoska 8, 52-407 Wrocław, Polska"
+      ],
+      "evidence": [
+        "MOKRONOSKA; 8; WROCŁAW; 52-407"
+      ],
+      "limitations": [
+        "Odpis z 9.11.2026, stan z 8.07.2026. Oficjalna strona kontaktowa również nazywa to siedzibą spółki; nie oparto ustalenia wyłącznie na znajdującym się pod tym adresem sklepie."
+      ]
+    },
+    {
+      "id": "CT038",
+      "url": "https://oleofarm.pl/kontakt/",
+      "title": "Oleofarm — dane firmy i odnośnik Facebook w HTML",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "Oleofarm — profil marki/operatora: https://www.facebook.com/Oleofarm24"
+      ],
+      "evidence": [
+        "href=\"https://www.facebook.com/Oleofarm24\""
+      ],
+      "limitations": []
+    },
+    {
+      "id": "CT039",
+      "url": "https://www.provident.pl/regulamin",
+      "title": "Provident Polska — regulamin świadczenia usług drogą elektroniczną",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "Provident Polska spółka akcyjna: ul. Inflancka 4A, 00-189 Warszawa, Polska"
+      ],
+      "evidence": [
+        "Provident Polska S.A. z siedzibą w Warszawie, ul. Inflancka 4A, 00-189 Warszawa"
+      ],
+      "limitations": [
+        "§1 wskazuje siedzibę oraz KRS 0000009389. Regulamin obowiązuje od 7.08.2025 i pozostaje dostępny jako aktualny dokument w witrynie spółki; ten sam adres podaje stopka biura prasowego."
+      ]
+    },
+    {
+      "id": "CT040",
+      "url": "https://media-provident.pl/file/2923682",
+      "title": "Biuro prasowe Provident Polska — oficjalne kanały w opisie materiału",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "Provident Polska — profil marki/operatora: https://x.com/Provident_PL",
+        "Provident Polska — profil marki/operatora: https://www.facebook.com/providentpolska"
+      ],
+      "evidence": [
+        "X ➛https://x.com/Provident_PL",
+        "Facebook ➛ https://www.facebook.com/providentpolska"
+      ],
+      "limitations": []
+    },
+    {
+      "id": "CT041",
+      "url": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0001229018?rejestr=P&format=json",
+      "title": "Ministerstwo Sprawiedliwości — odpis aktualny KRS 0001229018",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "Republika Energetyczna spółka z ograniczoną odpowiedzialnością: ul. Marszałkowska 115, 00-102 Warszawa, Polska"
+      ],
+      "evidence": [
+        "UL. MARSZAŁKOWSKA; 115; WARSZAWA; 00-102"
+      ],
+      "limitations": [
+        "Odpis z 9.11.2026, stan z 29.06.2026. Zgodność z regulaminem promocji i polityką prywatności operatora."
+      ]
+    },
+    {
+      "id": "CT042",
+      "url": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000482496?rejestr=P&format=json",
+      "title": "Ministerstwo Sprawiedliwości — odpis aktualny KRS 0000482496",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "Enter T&T spółka z ograniczoną odpowiedzialnością: ul. Grunwaldzka 104, 60-307 Poznań, Polska"
+      ],
+      "evidence": [
+        "UL. GRUNWALDZKA; 104; POZNAŃ; 60-307"
+      ],
+      "limitations": [
+        "Adres usługodawcy telekomunikacyjnego, zgodny ze stopką republikamobile.pl. Odpis z 9.11.2026, stan z 4.12.2025. Nie jest to siedziba podobnie nazwanej Republika Mobile sp. z o.o. z Gdyni."
+      ]
+    },
+    {
+      "id": "CT043",
+      "url": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000117710?rejestr=P&format=json",
+      "title": "Ministerstwo Sprawiedliwości — odpis aktualny KRS 0000117710",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "„EURO - NET” spółka z ograniczoną odpowiedzialnością: ul. Muszkieterów 15, 02-273 Warszawa, Polska"
+      ],
+      "evidence": [
+        "MUSZKIETERÓW; 15; WARSZAWA; 02-273"
+      ],
+      "limitations": [
+        "Odpis z 9.11.2026, stan z 13.07.2026. Regulamin euro.com.pl wskazuje tę samą siedzibę. Adres zwrotów w Pruszkowie i adres biura rekrutacji Krakowiaków 42 nie zostały użyte jako siedziba prawna."
+      ]
+    },
+    {
+      "id": "CT044",
+      "url": "https://www.euro.com.pl/cms/polityka-prywatnosci.bhtml?link=stopka",
+      "title": "RTV Euro AGD — polityka prywatności, sekcja Media społecznościowe",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "RTV Euro AGD — profil marki: https://x.com/EuroPromocje",
+        "RTV Euro AGD — profil marki: https://www.facebook.com/rtveuroagd/"
+      ],
+      "evidence": [
+        "X (Twitter): https://x.com/EuroPromocje",
+        "Facebook: https://www.facebook.com/rtveuroagd/?locale=pl_PL"
+      ],
+      "limitations": []
+    },
+    {
+      "id": "CT045",
+      "url": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000036286?rejestr=P&format=json",
+      "title": "Ministerstwo Sprawiedliwości — odpis aktualny KRS 0000036286",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "Sanofi spółka z ograniczoną odpowiedzialnością: ul. Marcina Kasprzaka 6, 01-211 Warszawa, Polska"
+      ],
+      "evidence": [
+        "UL. MARCINA KASPRZAKA; 6; WARSZAWA; 01-211"
+      ],
+      "limitations": [
+        "Odpis z 9.11.2026, stan z 17.09.2026. To prawna siedziba polskiego operatora wskazanego w dotychczasowym rekordzie, potwierdzona także w jego strategii podatkowej, a nie adres francuskiej grupy."
+      ]
+    },
+    {
+      "id": "CT046",
+      "url": "https://www.sanofi.com/pl/polska",
+      "title": "Sanofi Polska — oficjalny odnośnik Twitter/X w HTML",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "Sanofi Polska — profil operatora w Polsce: https://x.com/sanofipolska"
+      ],
+      "evidence": [
+        "href=\"https://twitter.com/sanofipolska?lang=en\""
+      ],
+      "limitations": []
+    },
+    {
+      "id": "CT047",
+      "url": "https://www.sanofi.com/en",
+      "title": "Sanofi — oficjalna strona globalna, odnośnik Facebook w HTML",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "Sanofi — globalny profil grupy, nie odrębny profil Sanofi Polska: https://www.facebook.com/Sanofi"
+      ],
+      "evidence": [
+        "href=\"https://www.facebook.com/Sanofi\""
+      ],
+      "limitations": []
+    },
+    {
+      "id": "CT048",
+      "url": "https://sokolow.pl/produkty/wedliny/sokoliki",
+      "title": "Sokołów — Sokoliki, klauzula siedziby operatora",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "Sokołów spółka akcyjna: al. 550-lecia 1, 08-300 Sokołów Podlaski, Polska",
+        "Sokołów — profil operatora Sokolików, nie odrębny profil Sokoliki: https://www.facebook.com/sokolowfanpage"
+      ],
+      "evidence": [
+        "Sokołów S.A. z siedzibą al. 550-lecia 1, 08-300 Sokołów Podlaski",
+        "href=\"https://www.facebook.com/sokolowfanpage\""
+      ],
+      "limitations": [
+        "Klauzula danych osobowych określa adres jako siedzibę spółki. To ten sam operator co dla marki Sokołów."
+      ]
+    },
+    {
+      "id": "CT049",
+      "url": "https://sokolowsa.pl/firma",
+      "title": "Sokołów S.A. — o firmie, klauzula siedziby spółki",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "Sokołów spółka akcyjna: al. 550-lecia 1, 08-300 Sokołów Podlaski, Polska",
+        "Sokołów — profil marki/operatora: https://www.facebook.com/sokolowfanpage"
+      ],
+      "evidence": [
+        "SOKOŁÓW” S.A. z siedzibą w Sokołowie Podlaskim, adres: 08-300 Sokołów Podlaski, Aleja 550-lecia 1",
+        "href=\"https://www.facebook.com/sokolowfanpage\""
+      ],
+      "limitations": [
+        "Adres wskazany jako siedziba w klauzuli przetwarzania danych na oficjalnej stronie spółki; nie jest to przypadkowy sklep ani oddział."
+      ]
+    },
+    {
+      "id": "CT050",
+      "url": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000081367?rejestr=P&format=json",
+      "title": "Ministerstwo Sprawiedliwości — odpis aktualny KRS 0000081367",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "TELEWIZJA PULS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ: CHEŁMSKA 21/22, 00-724 WARSZAWA, Polska"
+      ],
+      "evidence": [
+        "CHEŁMSKA, 21, 22, 00-724, WARSZAWA"
+      ],
+      "limitations": [
+        "Aktualny odpis publicznego API KRS, Dział 1: siedziba i adres. Oficjalna strona spółki potwierdza ul. Chełmską 21, budynek 22; zapis 21/22 zachowano z rejestru."
+      ]
+    },
+    {
+      "id": "CT051",
+      "url": "https://tvpuls.pl/tvpuls/media-polityka",
+      "title": "TV Puls — polityka prywatności mediów społecznościowych",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "TV Puls (Polska): https://www.facebook.com/tvpulspl"
+      ],
+      "evidence": [
+        "FACEBOOK: TV Puls; odnośnik do facebook.com/tvpulspl"
+      ],
+      "limitations": [
+        "Potwierdzono powiązanie profilu z marką lub operatorem. Platforma nie udostępniła pełnego odczytu daty ostatniego wpisu; nie przypisano statusu aktywności."
+      ]
+    },
+    {
+      "id": "CT052",
+      "url": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000315229?rejestr=P&format=json",
+      "title": "Ministerstwo Sprawiedliwości — odpis aktualny KRS 0000315229",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "WAKACJE.PL SPÓŁKA AKCYJNA: ALEJA GRUNWALDZKA 413, 80-309 GDAŃSK, Polska"
+      ],
+      "evidence": [
+        "ALEJA GRUNWALDZKA, 413, 80-309, GDAŃSK"
+      ],
+      "limitations": [
+        "Aktualny odpis publicznego API KRS, Dział 1: siedziba i adres."
+      ]
+    },
+    {
+      "id": "CT053",
+      "url": "https://www.wakacje.pl/ofirmie.html",
+      "title": "Wakacje.pl — O firmie, odnośniki społecznościowe",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "Wakacje.pl (Polska): https://x.com/portalwakacjepl",
+        "Wakacje.pl (Polska): https://www.facebook.com/wakacjepl/"
+      ],
+      "evidence": [
+        "href=\"https://x.com/portalwakacjepl\"",
+        "href=\"https://www.facebook.com/wakacjepl/\""
+      ],
+      "limitations": [
+        "Potwierdzono powiązanie profilu z marką lub operatorem. Platforma nie udostępniła pełnego odczytu daty ostatniego wpisu; nie przypisano statusu aktywności."
+      ]
+    },
+    {
+      "id": "CT054",
+      "url": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0001043826?rejestr=P&format=json",
+      "title": "Ministerstwo Sprawiedliwości — odpis aktualny KRS 0001043826",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "GRUPA ŻYWIEC SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ: UL. BROWARNA 88, 34-300 ŻYWIEC, Polska"
+      ],
+      "evidence": [
+        "UL. BROWARNA, 88, 34-300, ŻYWIEC"
+      ],
+      "limitations": [
+        "Aktualny odpis publicznego API KRS, Dział 1: siedziba i adres. Nie zastąpiono siedziby w Żywcu warszawskim adresem biura."
+      ]
+    },
+    {
+      "id": "CT055",
+      "url": "https://warka.com.pl/",
+      "title": "Warka — oficjalna witryna",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "Warka (Polska): https://www.facebook.com/Warka"
+      ],
+      "evidence": [
+        "href=\"https://www.facebook.com/Warka\""
+      ],
+      "limitations": [
+        "Potwierdzono powiązanie profilu z marką lub operatorem. Platforma nie udostępniła pełnego odczytu daty ostatniego wpisu; nie przypisano statusu aktywności."
+      ]
+    },
+    {
+      "id": "CT056",
+      "url": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000078147?rejestr=P&format=json",
+      "title": "Ministerstwo Sprawiedliwości — odpis aktualny KRS 0000078147",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "BEKO SPÓŁKA AKCYJNA: UL. 1 SIERPNIA 6A, 02-134 WARSZAWA, Polska"
+      ],
+      "evidence": [
+        "UL. 1 SIERPNIA, 6A, 02-134, WARSZAWA"
+      ],
+      "limitations": [
+        "Aktualny odpis publicznego API KRS, Dział 1: siedziba i adres. Regulamin whirlpool.pl wskazuje Beko S.A. jako sprzedawcę i operatora sklepu. Nie jest to ustalenie płatnika reklamy w Republice. Zagraniczny adres właściciela marki pokazano osobno."
+      ]
+    },
+    {
+      "id": "CT057",
+      "url": "https://www.whirlpool.pl/regulamin-sklepu",
+      "title": "Whirlpool — regulamin sklepu, definicja sprzedawcy",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "SPRZEDAWCA – Beko S.A., z siedzibą w Warszawie"
+      ],
+      "evidence": [],
+      "limitations": []
+    },
+    {
+      "id": "CT058",
+      "url": "https://www.whirlpool.pl/",
+      "title": "Whirlpool Polska — oficjalna strona",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "Whirlpool (Polska): https://www.facebook.com/WhirlpoolPL"
+      ],
+      "evidence": [
+        "href=\"https://www.facebook.com/WhirlpoolPL\""
+      ],
+      "limitations": [
+        "Potwierdzono powiązanie profilu z marką lub operatorem. Platforma nie udostępniła pełnego odczytu daty ostatniego wpisu; nie przypisano statusu aktywności."
+      ]
+    },
+    {
+      "id": "CT059",
+      "url": "https://www.sec.gov/Archives/edgar/data/106640/000010664026000077/whr-20260930.htm",
+      "title": "SEC — Whirlpool Corporation, Form 10-Q za 30 września 2026",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "Whirlpool Corporation: 2000 North M-63, MD 3602, Benton Harbor, Michigan 49022-2692, Stany Zjednoczone"
+      ],
+      "evidence": [
+        "2000 North M-63, MD 3602; Benton Harbor, Michigan; 49022-2692; Address of principal executive offices"
+      ],
+      "limitations": [
+        "Adres centrali właściciela marki wykazany w SEC jako principal executive offices. Spółka zarejestrowana w Delaware; nie jest to adres jej agenta rejestrowego. Nie podstawiono adresu Beko S.A., europejskiego operatora licencjonowanej marki."
+      ]
+    },
+    {
+      "id": "CT060",
+      "url": "https://umwl.bip.lubelskie.pl/?id=6",
+      "title": "BIP UMWL — informacje o instytucji",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "Województwo Lubelskie — Urząd Marszałkowski Województwa Lubelskiego w Lublinie: ul. Artura Grottgera 4, 20-029 Lublin, Polska"
+      ],
+      "evidence": [
+        "ul. Artura Grottgera 4; 20-029 Lublin"
+      ],
+      "limitations": [
+        "Siedziba urzędu obsługującego Województwo Lubelskie; urząd nie jest odrębną osobą prawną."
+      ]
+    },
+    {
+      "id": "CT061",
+      "url": "https://www.lubelskie.pl/kontakt/",
+      "title": "UMWL — oficjalna strona kontaktowa",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "Urząd Marszałkowski Województwa Lubelskiego: https://x.com/UMWL_Lublin",
+        "Urząd Marszałkowski Województwa Lubelskiego: https://www.facebook.com/urzadmarszalkowski.lubelskie"
+      ],
+      "evidence": [
+        "href=\"https://x.com/UMWL_Lublin\"",
+        "href=\"https://www.facebook.com/urzadmarszalkowski.lubelskie\""
+      ],
+      "limitations": [
+        "Potwierdzono powiązanie profilu z marką lub operatorem. Platforma nie udostępniła pełnego odczytu daty ostatniego wpisu; nie przypisano statusu aktywności."
+      ]
+    },
+    {
+      "id": "CT062",
+      "url": "https://www.malopolska.pl/kontakt/urzad-marszalkowski",
+      "title": "Małopolska — dane kontaktowe",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "Województwo Małopolskie — Urząd Marszałkowski Województwa Małopolskiego: ul. Basztowa 22, 31-156 Kraków, Polska"
+      ],
+      "evidence": [
+        "Adres siedziby: […] ul. Basztowa 22, 31-156 Kraków"
+      ],
+      "limitations": [
+        "Strona odróżnia siedzibę od korespondencyjnego adresu ul. Racławickiej 56."
+      ]
+    },
+    {
+      "id": "CT063",
+      "url": "https://www.malopolska.pl/kontakt",
+      "title": "Małopolska — Kontakt, sekcja Social media",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "Małopolska — oficjalny profil samorządu: https://x.com/malopolskaPL",
+        "Małopolska — oficjalny profil samorządu: https://www.facebook.com/lubiemalopolske"
+      ],
+      "evidence": [
+        "href=\"https://x.com/malopolskaPL\"",
+        "href=\"https://www.facebook.com/lubiemalopolske\""
+      ],
+      "limitations": [
+        "Potwierdzono powiązanie profilu z marką lub operatorem. Platforma nie udostępniła pełnego odczytu daty ostatniego wpisu; nie przypisano statusu aktywności."
+      ]
+    },
+    {
+      "id": "CT064",
+      "url": "https://www.gov.pl/web/bip/urzad-marszalkowski-wojewodztwa-swietokrzyskiego-swietokrzyskie-kielce-kielce",
+      "title": "Gov.pl — urzędowa karta BIP UMWŚ",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "Województwo Świętokrzyskie — Urząd Marszałkowski Województwa Świętokrzyskiego: al. IX Wieków Kielc 3, 25-516 Kielce, Polska"
+      ],
+      "evidence": [
+        "al. IX Wieków Kielc 3; 25-516 Kielce"
+      ],
+      "limitations": [
+        "Siedziba urzędu obsługującego województwo; karta BIP aktualizowana 21 maja 2026."
+      ]
+    },
+    {
+      "id": "CT065",
+      "url": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000217580?rejestr=P&format=json",
+      "title": "Ministerstwo Sprawiedliwości — odpis aktualny KRS 0000217580",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "XTB SPÓŁKA AKCYJNA: UL. PROSTA 67, 00-838 WARSZAWA, Polska"
+      ],
+      "evidence": [
+        "UL. PROSTA, 67, 00-838, WARSZAWA"
+      ],
+      "limitations": [
+        "Aktualny odpis publicznego API KRS, Dział 1: siedziba i adres."
+      ]
+    },
+    {
+      "id": "CT066",
+      "url": "https://www.xtb.com/pl",
+      "title": "XTB — oficjalna polska witryna",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "XTB (Polska): https://x.com/xtbpl",
+        "XTB (Polska): https://www.facebook.com/xtbpl"
+      ],
+      "evidence": [
+        "href=\"https://x.com/xtbpl\" (po odkodowaniu encji HTML)",
+        "href=\"https://www.facebook.com/xtbpl\" (po odkodowaniu encji HTML)"
+      ],
+      "limitations": [
+        "Potwierdzono powiązanie profilu z marką lub operatorem. Platforma nie udostępniła pełnego odczytu daty ostatniego wpisu; nie przypisano statusu aktywności."
+      ]
+    },
+    {
+      "id": "CT067",
+      "url": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0001195251?rejestr=P&format=json",
+      "title": "Ministerstwo Sprawiedliwości — odpis aktualny KRS 0001195251",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "GREEN REPUBLIC SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ: UL. MARCINA KASPRZAKA 31/119, 01-234 WARSZAWA, Polska"
+      ],
+      "evidence": [
+        "UL. MARCINA KASPRZAKA, 31, 119, 01-234, WARSZAWA"
+      ],
+      "limitations": [
+        "Aktualny odpis publicznego API KRS, Dział 1: siedziba i adres. Adres polskiego sprzedawcy i licencjobiorcy; nie jest to siedziba szwajcarskiego właściciela marki OROTAL Commodities Trading SA."
+      ]
+    },
+    {
+      "id": "CT068",
+      "url": "https://yerbador.pl/dane-firmy-i-sklepu/",
+      "title": "Yerbador — dane firmy i sklepu",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "Yerbador (Polska): https://www.facebook.com/YerbadorMate/"
+      ],
+      "evidence": [
+        "href=\"https://www.facebook.com/YerbadorMate/\""
+      ],
+      "limitations": [
+        "Potwierdzono powiązanie profilu z marką lub operatorem. Platforma nie udostępniła pełnego odczytu daty ostatniego wpisu; nie przypisano statusu aktywności."
+      ]
+    },
+    {
+      "id": "CT069",
+      "url": "https://ariregister.rik.ee/eng/company/14814864/BB-Trade-Estonia-O%C3%9C",
+      "title": "Estoński e-Business Register — BB Trade Estonia OÜ 14814864",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "BB Trade Estonia OÜ: Harju maakond, Tallinn, Lasnamäe linnaosa, Tähesaju tee 9, 13917, Estonia"
+      ],
+      "evidence": [
+        "Harju maakond, Tallinn, Lasnamäe linnaosa, Tähesaju tee 9, 13917"
+      ],
+      "limitations": [
+        "Aktualny adres operatora platformy z urzędowego rejestru; status spółki: w upadłości. Nie zastąpiono adresem polskiej spółki ani odrębnego kontrahenta Expofer."
+      ]
+    },
+    {
+      "id": "CT070",
+      "url": "https://zondacrypto.com/pl/social-media",
+      "title": "zondacrypto — oficjalny wykaz kanałów społecznościowych",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "zondacrypto Polska: https://x.com/zondacryptopl",
+        "zondacrypto Polska: https://www.facebook.com/zondacryptopolska"
+      ],
+      "evidence": [
+        "X (Twitter): Polska — https://x.com/zondacryptopl",
+        "Facebook: Polska — https://www.facebook.com/zondacryptopolska"
+      ],
+      "limitations": [
+        "Odczytano oficjalny wykaz kanałów marki, w wersji dostępnej narzędziu wyszukiwarki. Odczyt samej platformy był ograniczony; nie ustalono daty ostatniego wpisu ani obecnego administratora konta po upadłości operatora."
+      ]
+    },
+    {
+      "id": "CT071",
+      "url": "https://zubr.pl/zubr-wspiera/",
+      "title": "Żubr — oficjalna witryna marki",
+      "checkedAt": "2026-11-09",
+      "documentDate": null,
+      "verification": [
+        "Żubr (Polska): https://www.facebook.com/zubr"
+      ],
+      "evidence": [
+        "Żubr na Facebooku; odnośnik https://www.facebook.com/zubr"
+      ],
+      "limitations": [
+        "Potwierdzono powiązanie profilu z marką lub operatorem. Platforma nie udostępniła pełnego odczytu daty ostatniego wpisu; nie przypisano statusu aktywności."
+      ]
+    }
+  ],
+  "contactsReview": {
+    "checkedAt": "2026-11-09",
+    "status": "Aktualizacja zatwierdzona do wdrożenia 9 listopada 2026",
+    "scope": "Dane adresowe i oficjalne profile; ustalenia reklamowe pozostają według stanu na 2026-11-08.",
+    "publicUrl": "https://mariuszm22.github.io/publikacje/tv-republika-2026/",
+    "repository": "mariuszm22/publikacje",
+    "directory": "tv-republika-2026",
+    "baselineCommit": "0bced62cba030c6a8f326e346aaa84e73d4830dd",
+    "counts": {
+      "records": 44,
+      "recordsWithAddress": 42,
+      "uniqueOperatorAddresses": 36,
+      "additionalOwnerAddresses": 1,
+      "recordsWithX": 13,
+      "uniqueX": 13,
+      "recordsWithFacebook": 32,
+      "uniqueFacebook": 31,
+      "parentFacebook": 1
+    },
+    "method": "Siedziby sprawdzono w aktualnych odpisach KRS, rejestrze estońskim oraz dokumentach instytucji i firm. Profile potwierdzono odnośnikami własnych witryn, dokumentami operatorów lub wyraźną odpowiedzią firmy opisaną w wiarygodnym źródle. Brak wartości zapisano jako null i ukryto w szczegółach. Nie ustalono aktywności ani dat ostatnich wpisów, gdy platformy ograniczały odczyt.",
+    "missing": [
+      {
+        "id": "R028",
+        "brand": "AFG Electric Motors",
+        "fields": [
+          "x",
+          "facebook"
+        ],
+        "notes": [
+          "Nie potwierdzono profilu X ani Facebook AFG Electric Motors. Wzmianki o profilu importowanej marki Dongfeng Polska nie są automatycznie profilem samej spółki AFG."
+        ]
+      },
+      {
+        "id": "R007",
+        "brand": "Aflofarm",
+        "fields": [
+          "x"
+        ],
+        "notes": [
+          "Brak potwierdzonego profilu X w sprawdzonych źródłach; nie jest to dowód nieistnienia konta."
+        ]
+      },
+      {
+        "id": "R039",
+        "brand": "Captain Jack",
+        "fields": [
+          "x"
+        ],
+        "notes": [
+          "Brak potwierdzonego profilu X w sprawdzonych źródłach; nie jest to dowód nieistnienia konta."
+        ]
+      },
+      {
+        "id": "R022",
+        "brand": "CarFix",
+        "fields": [
+          "x"
+        ],
+        "notes": [
+          "Brak potwierdzonego profilu X w sprawdzonych źródłach; nie jest to dowód nieistnienia konta."
+        ]
+      },
+      {
+        "id": "R003",
+        "brand": "Castorama",
+        "fields": [
+          "x"
+        ],
+        "notes": [
+          "Brak potwierdzonego profilu X w sprawdzonych źródłach; nie jest to dowód nieistnienia konta."
+        ]
+      },
+      {
+        "id": "R025",
+        "brand": "Centrum Animacji Misyjnej",
+        "fields": [
+          "address",
+          "x"
+        ],
+        "notes": [
+          "Adres siedziby prawnej pozostawiono nieustalony: oficjalne strony CAM i archidiecezji potwierdzają lokalizację centrum ul. Leśna15/17,05-510Konstancin-Jeziorna, ale nie rozstrzygają pełnej cywilnoprawnej nazwy osoby prawnej i jej adresu rejestrowego. NGO.pl oznacza tę lokalizację jako adres rejestrowy Domu zakonnego Stowarzyszenia Apostolstwa Katolickiego (Pallotyni) Centrum Animacji Misyjnej w Konstancinie-Jeziornie, NIP1230879290, REGON040001215; nie uzyskano bezpośredniego odpisu urzędowego, więc nie zamieniono adresu ośrodka na pewny adres siedziby prawnej.",
+          "Brak potwierdzonego profilu X w sprawdzonych źródłach; nie jest to dowód nieistnienia konta."
+        ]
+      },
+      {
+        "id": "R016",
+        "brand": "EkaMedica",
+        "fields": [
+          "x"
+        ],
+        "notes": [
+          "Brak potwierdzonego profilu X w sprawdzonych źródłach; nie jest to dowód nieistnienia konta."
+        ]
+      },
+      {
+        "id": "R011",
+        "brand": "Goryla.pl",
+        "fields": [
+          "x"
+        ],
+        "notes": [
+          "Kandydata X @gorylprzyjaciol znaleziono w oznaczonym jako reklama poście Michała Rachonia przytoczonym przez Niezalezna.pl28.05.2026, lecz nie znaleziono aktualnego odnośnika właścicielskiego z goryla.pl ani dostępnego profilu rozstrzygającego oficjalność. Nie dopisano konta na podstawie wzmianki i podobieństwa nazwy."
+        ]
+      },
+      {
+        "id": "R033",
+        "brand": "Harnaś",
+        "fields": [
+          "x",
+          "facebook"
+        ],
+        "notes": [
+          "X: nie uzyskano potwierdzonego profilu marki ani operatora.",
+          "Facebook: nie uzyskano dostatecznego potwierdzenia aktualnego profilu marki ani operatora; konto CarlsbergPL promuje inną markę piwa i nie zostało podstawione."
+        ]
+      },
+      {
+        "id": "R027",
+        "brand": "Ikony Motoryzacji",
+        "fields": [
+          "x"
+        ],
+        "notes": [
+          "X: odnośnik twitter.com/themes_ancora w HTML dotyczy autora szablonu strony, nie wystawy; nie użyto go. Nie potwierdzono innego konta."
+        ]
+      },
+      {
+        "id": "R040",
+        "brand": "Kasztelan",
+        "fields": [
+          "x",
+          "facebook"
+        ],
+        "notes": [
+          "X: nie uzyskano potwierdzonego profilu marki ani operatora.",
+          "Facebook: nie uzyskano dostatecznego potwierdzenia aktualnego profilu marki ani operatora; witryna marki zwracała 503, wskazany historyczny regulamin operatora 404. Nie podstawiono konta CarlsbergPL."
+        ]
+      },
+      {
+        "id": "R034",
+        "brand": "Krakus",
+        "fields": [
+          "x",
+          "facebook"
+        ],
+        "notes": [
+          "X: nie potwierdzono profilu wędliniarskiej marki Krakus ani operatora.",
+          "Facebook: nie potwierdzono profilu wędliniarskiej marki Krakus ani operatora. Witryna krakus.pl dotyczy innej kategorii produktów (zupy, koncentraty); nie przeniesiono jej profili."
+        ]
+      },
+      {
+        "id": "R005",
+        "brand": "Kuchnia Vikinga",
+        "fields": [
+          "x"
+        ],
+        "notes": [
+          "X: nie uzyskano potwierdzonego profilu marki ani operatora."
+        ]
+      },
+      {
+        "id": "R041",
+        "brand": "Magne B6",
+        "fields": [
+          "x",
+          "facebook"
+        ],
+        "notes": [
+          "X: nie potwierdzono konta polskiej marki Magne B6 ani polskiego operatora. Globalnego konta grupy Opella nie podstawiono pod polską markę.",
+          "Facebook: nie potwierdzono konta polskiej marki Magne B6 ani polskiego operatora. Globalnego konta grupy Opella nie podstawiono pod polską markę."
+        ]
+      },
+      {
+        "id": "R006",
+        "brand": "Mango",
+        "fields": [
+          "x"
+        ],
+        "notes": [
+          "X: nie potwierdzono konta marki Mango / TVO. Nie podstawiono konta odzieżowej marki MANGO."
+        ]
+      },
+      {
+        "id": "R002",
+        "brand": "Media Expert",
+        "fields": [
+          "x"
+        ],
+        "notes": [
+          "X: znaleziono MediaExpert_PL z deklaracją oficjalności, ale nie uzyskano dostatecznego bezpośredniego potwierdzenia firmowego. Nie podano tego konta w danych."
+        ]
+      },
+      {
+        "id": "R023",
+        "brand": "Motolia",
+        "fields": [
+          "x",
+          "facebook"
+        ],
+        "notes": [
+          "X: nie uzyskano potwierdzonego profilu marki ani operatora.",
+          "Facebook: nie uzyskano potwierdzonego profilu marki ani operatora."
+        ]
+      },
+      {
+        "id": "R017",
+        "brand": "NBP / Narodowy Bank Polski",
+        "fields": [
+          "facebook"
+        ],
+        "notes": [
+          "Facebook: nie uzyskano bieżącego odczytu oficjalnej strony ani dokumentu potwierdzającego profil; historyczne ulotki wskazane przez wyszukiwarkę były niedostępne. Nie wpisano konta na podstawie samej nazwy."
+        ]
+      },
+      {
+        "id": "R056",
+        "brand": "NOWROCKY / President 1",
+        "fields": [
+          "x"
+        ],
+        "notes": [
+          "Nie znaleziono potwierdzonego profilu X marki ani operatora."
+        ]
+      },
+      {
+        "id": "R021",
+        "brand": "Okocim",
+        "fields": [
+          "x",
+          "facebook"
+        ],
+        "notes": [
+          "Nie potwierdzono aktualnego profilu X Okocimia ani operatora.",
+          "OkocimPL występuje we wtórnych katalogach, ale oficjalna witryna okocim.pl ma błąd wygasłego certyfikatu. Nie obchodzono zabezpieczenia.",
+          "W indeksie oficjalnej domeny znaleziono regulamin z 2025 wskazujący facebook.com/CarlsbergPolska, lecz bezpośredni odczyt tego dokumentu zwraca 404. Nie użyto go jako aktualnego potwierdzenia. facebook.com/CarlsbergPL z głównej strony firmy dotyczy innej marki piwa i nie został automatycznie przypisany Okocimiowi."
+        ]
+      },
+      {
+        "id": "R024",
+        "brand": "Oleofarm",
+        "fields": [
+          "x"
+        ],
+        "notes": [
+          "Nie znaleziono potwierdzonego profilu X marki ani operatora."
+        ]
+      },
+      {
+        "id": "R012",
+        "brand": "Republika Energetyczna",
+        "fields": [
+          "x",
+          "facebook"
+        ],
+        "notes": [
+          "Nie potwierdzono bezpośrednich adresów X i Facebook marki/operatora. Polityka deklaruje prowadzenie profili, lecz nie podaje nazw użytkowników. W odczytanym HTML i publicznym pliku aplikacji nie znaleziono bezpośrednich adresów tych profili. Nie podstawiono kont Telewizji Republika."
+        ]
+      },
+      {
+        "id": "R013",
+        "brand": "Republika Mobile",
+        "fields": [
+          "x",
+          "facebook"
+        ],
+        "notes": [
+          "Nie potwierdzono odrębnych oficjalnych kont X i Facebook projektu ani usługodawcy Enter T&T. Nie zastąpiono ich kontami nadawcy lub Orange."
+        ]
+      },
+      {
+        "id": "R036",
+        "brand": "Sokoliki",
+        "fields": [
+          "x"
+        ],
+        "notes": [
+          "Nie potwierdzono profilu X ani odrębnego Facebooka marki Sokoliki. Pokazano jawnie opisany profil jej operatora."
+        ]
+      },
+      {
+        "id": "R035",
+        "brand": "Sokołów",
+        "fields": [
+          "x"
+        ],
+        "notes": [
+          "Nie znaleziono potwierdzonego profilu X marki ani operatora."
+        ]
+      },
+      {
+        "id": "R042",
+        "brand": "Szkoła Gazety Polskiej",
+        "fields": [
+          "address",
+          "x",
+          "facebook"
+        ],
+        "notes": [
+          "Operator prawny projektu pozostaje nieustalony. Nie znaleziono dokumentu organizatora, jego siedziby ani potwierdzonych oficjalnych profili. Nazwa nie wystarcza do podstawienia adresu lub kont Gazety Polskiej, NWP, klubów GP albo fundacji."
+        ]
+      },
+      {
+        "id": "R001",
+        "brand": "TV Puls",
+        "fields": [
+          "x"
+        ],
+        "notes": [
+          "Nie potwierdzono aktualnego profilu X w oficjalnej polityce mediów społecznościowych. Sam historyczny wpis o telewizjapuls nie wystarcza."
+        ]
+      },
+      {
+        "id": "R037",
+        "brand": "Warka",
+        "fields": [
+          "x"
+        ],
+        "notes": [
+          "Brak potwierdzonego profilu X Warki lub jej operatora; profilu grupy HEINEKEN nie podstawiono za markę."
+        ]
+      },
+      {
+        "id": "R026",
+        "brand": "Whirlpool",
+        "fields": [
+          "x"
+        ],
+        "notes": [
+          "Brak potwierdzonego profilu X polskiej marki lub jej operatora w odczytanych oficjalnych źródłach."
+        ]
+      },
+      {
+        "id": "R014",
+        "brand": "Województwo Świętokrzyskie",
+        "fields": [
+          "x",
+          "facebook"
+        ],
+        "notes": [
+          "Nie uzyskano bezpośredniego odczytu aktualnych odnośników społecznościowych ze swietokrzyskie.pro (przekroczony czas dostępu). Govdirectory wymienia SwietokrzyskiUM i UrzadMarszalkowskiWojewodztwaSwietokrzyskiego, lecz bez odczytanego potwierdzenia pierwotnego nie dopisano kont. Historyczny raport z 2015 wskazuje inne konto KielceUmws i nie rozstrzyga aktualnego stanu."
+        ]
+      },
+      {
+        "id": "R020",
+        "brand": "Yerbador",
+        "fields": [
+          "x"
+        ],
+        "notes": [
+          "Nie potwierdzono profilu X w oficjalnej witrynie marki i danych sklepu."
+        ]
+      },
+      {
+        "id": "R008",
+        "brand": "Żubr",
+        "fields": [
+          "x"
+        ],
+        "notes": [
+          "Nie potwierdzono profilu X Żubra lub jego operatora w sprawdzonych oficjalnych witrynach."
+        ]
+      }
     ]
   }
 }

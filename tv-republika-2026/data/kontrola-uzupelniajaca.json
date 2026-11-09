@@ -1,0 +1,801 @@
+{
+  "asOf": "2026-11-08",
+  "scope": {
+    "from": "2026-01-01",
+    "to": "2026-11-08"
+  },
+  "status": "Kontrola uzupełniająca z 8 listopada 2026; publikacja zatwierdzona do wdrożenia 9 listopada 2026",
+  "baseline": {
+    "url": "https://mariuszm22.github.io/publikacje/tv-republika-2026/",
+    "commit": "0bced62cba030c6a8f326e346aaa84e73d4830dd",
+    "records": 44
+  },
+  "result": {
+    "checkedItems": 26,
+    "existingVerifiedRecords": 20,
+    "notAdded": 5,
+    "operatorAlias": 1,
+    "addedRecords": [],
+    "correctedSubstantiveRecords": [],
+    "mainRecordsUnchanged": true
+  },
+  "rows": [
+    {
+      "brand": "Van Pur / Łomża",
+      "owner": "Van Pur S.A. / Grupa Van Pur; pełny aktualny akcjonariat nieustalony",
+      "ownerIds": [
+        "O01",
+        "O02"
+      ],
+      "evidenceIds": [
+        "E10",
+        "E11"
+      ],
+      "reason": "Nie znaleziono dowodu Republika2026. Artykuł Republiki z2026 opisuje grudzień2025; licznik Łomży w innym artykule dotyczy Zero TV.",
+      "period": "Nieustalony dla TV Republika w2026",
+      "baseId": null,
+      "confirmed2026": false,
+      "decision": "Nie dopisywać do głównej tabeli",
+      "route": "Nieustalona dla Republiki w2026",
+      "verification": "Wyszukiwanie i kontrola wskazanych dokumentów; brak dowodu nie oznacza dowodu nieobecności"
+    },
+    {
+      "brand": "SkyShowtime",
+      "owner": "SkyShowtime Limited; joint venture Comcast i Paramount, a Skydance Corporation",
+      "ownerIds": [
+        "O03",
+        "O04"
+      ],
+      "evidenceIds": [
+        "E09"
+      ],
+      "reason": "Znaleziono historyczny opis zakończenia kampanii w styczniu2024. Nie znaleziono udokumentowanego powrotu do Republiki w2026.",
+      "period": "Potwierdzenie historyczne: styczeń2024; brak okresu Republika2026",
+      "baseId": null,
+      "confirmed2026": false,
+      "decision": "Nie dopisywać do głównej tabeli",
+      "route": "Nieustalona dla Republiki w2026",
+      "verification": "Wyszukiwanie i kontrola wskazanych dokumentów; brak dowodu nie oznacza dowodu nieobecności"
+    },
+    {
+      "brand": "Nurofen",
+      "owner": "Grupa Reckitt; operator serwisu wskazany jako Reckitt Benkiser (Poland) S.A. w regulaminie2018",
+      "ownerIds": [
+        "O05",
+        "O06"
+      ],
+      "evidenceIds": [
+        "E09"
+      ],
+      "reason": "Odczytany wykaz dotyczy stycznia2024. Nie znaleziono dowodu emisji w Republice w2026. Nazwa grupy nie dowodzi emisji wszystkich jej marek.",
+      "period": "Potwierdzenie historyczne: styczeń2024; brak okresu Republika2026",
+      "baseId": null,
+      "confirmed2026": false,
+      "decision": "Nie dopisywać do głównej tabeli",
+      "route": "Nieustalona dla Republiki w2026",
+      "verification": "Wyszukiwanie i kontrola wskazanych dokumentów; brak dowodu nie oznacza dowodu nieobecności"
+    },
+    {
+      "brand": "Biovital",
+      "owner": "EGIS Pharmaceuticals PLC / Grupa Servier; polski przedstawiciel EGIS Polska sp. z o.o.",
+      "ownerIds": [
+        "O07",
+        "O08"
+      ],
+      "evidenceIds": [
+        "E09"
+      ],
+      "reason": "Odczytany wykaz dotyczy stycznia2024. Nie znaleziono dowodu Republika2026. Nie przypisano marki do Bayer na podstawie dawnego właściciela.",
+      "period": "Potwierdzenie historyczne: styczeń2024; brak okresu Republika2026",
+      "baseId": null,
+      "confirmed2026": false,
+      "decision": "Nie dopisywać do głównej tabeli",
+      "route": "Nieustalona dla Republiki w2026",
+      "verification": "Wyszukiwanie i kontrola wskazanych dokumentów; brak dowodu nie oznacza dowodu nieobecności"
+    },
+    {
+      "brand": "Aspirin / Aspirin C",
+      "owner": "Bayer; podmiot odpowiedzialny Aspirin C: Bayer sp. z o.o.",
+      "ownerIds": [
+        "O09",
+        "O10"
+      ],
+      "evidenceIds": [
+        "E09"
+      ],
+      "reason": "Wykaz z2024 wymienia Aspirin C. Nie znaleziono dowodu Republika2026 ani podstawy do przeniesienia tej emisji na wszystkie warianty Aspirin.",
+      "period": "Potwierdzenie historyczne: styczeń2024; brak okresu Republika2026",
+      "baseId": null,
+      "confirmed2026": false,
+      "decision": "Nie dopisywać do głównej tabeli",
+      "route": "Nieustalona dla Republiki w2026",
+      "verification": "Wyszukiwanie i kontrola wskazanych dokumentów; brak dowodu nie oznacza dowodu nieobecności"
+    },
+    {
+      "brand": "Carlsberg / Okocim",
+      "baseId": "R021",
+      "confirmed2026": true,
+      "period": "sierpień 2026; także marzec",
+      "owner": "Carlsberg Polska sp. z o.o.; Grupa: Carlsberg A/S",
+      "decision": "Zachować istniejący rekord bez zmian",
+      "reason": "Zapis Carlsberg/Okocim jest kategorią w zestawieniu; nie dowodzi dwóch odrębnych kampanii. Nie tworzono drugiego rekordu Carlsberg.",
+      "route": "Sposób zakupu nieustalony",
+      "evidenceIds": [
+        "E01",
+        "E02"
+      ],
+      "ownerIds": [
+        "O11",
+        "O12"
+      ],
+      "previousOwnerSources": [
+        "OP05",
+        "OP06"
+      ],
+      "verification": "Ponownie sprawdzono wskazane źródła i mapowanie marek"
+    },
+    {
+      "brand": "Harnaś",
+      "baseId": "R033",
+      "confirmed2026": true,
+      "period": "styczeń–luty 2026",
+      "owner": "Carlsberg Polska sp. z o.o.; Grupa: Carlsberg A/S",
+      "decision": "Zachować istniejący rekord bez zmian",
+      "reason": "Carlsberg wyjaśniał użycie pakietu w kampanii edukacyjnej o systemie kaucyjnym. Nie określał tego jako pomyłki.",
+      "route": "Pakiet / oferta brokera",
+      "evidenceIds": [
+        "E04"
+      ],
+      "ownerIds": [
+        "O11",
+        "O12"
+      ],
+      "previousOwnerSources": [
+        "OP05",
+        "OP06",
+        "OA04"
+      ],
+      "verification": "Ponownie sprawdzono wskazane źródła i mapowanie marek"
+    },
+    {
+      "brand": "Warka",
+      "baseId": "R037",
+      "confirmed2026": true,
+      "period": "styczeń–luty 2026",
+      "owner": "Grupa Żywiec sp. z o.o.; Grupa: HEINEKEN",
+      "decision": "Zachować istniejący rekord bez zmian",
+      "reason": "Źródła potwierdzają obecność reklamową, lecz nie ujawniają instrukcji wyboru stacji ani umowy.",
+      "route": "Sposób zakupu nieustalony",
+      "evidenceIds": [
+        "E04"
+      ],
+      "ownerIds": [
+        "O13"
+      ],
+      "previousOwnerSources": [
+        "OP31"
+      ],
+      "verification": "Ponownie sprawdzono wskazane źródła i mapowanie marek"
+    },
+    {
+      "brand": "Castorama Polska",
+      "baseId": "R003",
+      "confirmed2026": true,
+      "period": "styczeń–luty 2026",
+      "owner": "Castorama Polska sp. z o.o.; Grupa kapitałowa: Kingfisher plc",
+      "decision": "Zachować istniejący rekord bez zmian",
+      "reason": "Marka tłumaczyła emisję składem pakietu, bez osobnej kampanii dedykowanej Republice.",
+      "route": "Pakiet / oferta brokera",
+      "evidenceIds": [
+        "E04"
+      ],
+      "ownerIds": [],
+      "previousOwnerSources": [
+        "OC06",
+        "OC07",
+        "OC08"
+      ],
+      "verification": "Porównanie z istniejącym zweryfikowanym rekordem; wykorzystano zachowane odczyty zamiast ponownego badania"
+    },
+    {
+      "brand": "Media Expert",
+      "baseId": "R002",
+      "confirmed2026": true,
+      "period": "styczeń–luty 2026",
+      "owner": "TERG S.A.; Kontrola rodzinna: Rodzina Grzebitów — relacja XYZ z 7.12.2025; brak aktualnej tabeli udziałów",
+      "decision": "Zachować istniejący rekord bez zmian",
+      "reason": "Potwierdzona obecność marki. Wypowiedzi o pakiecie z 2024 nie opisują automatycznie zakupu w 2026.",
+      "route": "Sposób zakupu nieustalony",
+      "evidenceIds": [
+        "E04"
+      ],
+      "ownerIds": [],
+      "previousOwnerSources": [
+        "OC02",
+        "OC03",
+        "OC04",
+        "OC05"
+      ],
+      "verification": "Porównanie z istniejącym zweryfikowanym rekordem; wykorzystano zachowane odczyty zamiast ponownego badania"
+    },
+    {
+      "brand": "Euro RTV AGD",
+      "baseId": "R031",
+      "confirmed2026": true,
+      "period": "styczeń–luty 2026",
+      "owner": "EURO-net sp. z o.o.; Ujawnieni wspólnicy: Iwona Małgorzata Kuk, Waldemar Stanisław Kuk i Robert Wiesław Kuczyński",
+      "decision": "Zachować istniejący rekord bez zmian",
+      "reason": "Źródła potwierdzają obecność reklamową, lecz nie ujawniają instrukcji wyboru stacji ani umowy.",
+      "route": "Sposób zakupu nieustalony",
+      "evidenceIds": [
+        "E04"
+      ],
+      "ownerIds": [],
+      "previousOwnerSources": [
+        "OP24",
+        "OP42"
+      ],
+      "verification": "Porównanie z istniejącym zweryfikowanym rekordem; wykorzystano zachowane odczyty zamiast ponownego badania"
+    },
+    {
+      "brand": "Glovo",
+      "baseId": "R029",
+      "confirmed2026": true,
+      "period": "styczeń–luty 2026",
+      "owner": "Restaurant Partner Polska sp. z o.o. — polski operator; Grupa: Glovo / Delivery Hero SE",
+      "decision": "Zachować istniejący rekord bez zmian",
+      "reason": "Źródła potwierdzają obecność reklamową, lecz nie ujawniają instrukcji wyboru stacji ani umowy.",
+      "route": "Sposób zakupu nieustalony",
+      "evidenceIds": [
+        "E04"
+      ],
+      "ownerIds": [],
+      "previousOwnerSources": [
+        "OP20",
+        "OP21",
+        "OP22"
+      ],
+      "verification": "Porównanie z istniejącym zweryfikowanym rekordem; wykorzystano zachowane odczyty zamiast ponownego badania"
+    },
+    {
+      "brand": "Wakacje.pl",
+      "baseId": "R038",
+      "confirmed2026": true,
+      "period": "styczeń–luty 2026",
+      "owner": "Wakacje.pl S.A.; Grupa: Wirtualna Polska Holding S.A.",
+      "decision": "Zachować istniejący rekord bez zmian",
+      "reason": "Źródła potwierdzają obecność reklamową, lecz nie ujawniają instrukcji wyboru stacji ani umowy.",
+      "route": "Sposób zakupu nieustalony",
+      "evidenceIds": [
+        "E04"
+      ],
+      "ownerIds": [],
+      "previousOwnerSources": [
+        "OP32",
+        "OP33"
+      ],
+      "verification": "Porównanie z istniejącym zweryfikowanym rekordem; wykorzystano zachowane odczyty zamiast ponownego badania"
+    },
+    {
+      "brand": "Krakus",
+      "baseId": "R034",
+      "confirmed2026": true,
+      "period": "styczeń–luty 2026",
+      "owner": "Animex — portfolio marki; Grupa pośrednia — raport za 2025: Morliny Foods Holding Ltd.; Grupa nadrzędna — ten sam raport: WH Group",
+      "decision": "Zachować istniejący rekord bez zmian",
+      "reason": "Źródła potwierdzają obecność reklamową, lecz nie ujawniają instrukcji wyboru stacji ani umowy.",
+      "route": "Sposób zakupu nieustalony",
+      "evidenceIds": [
+        "E04"
+      ],
+      "ownerIds": [],
+      "previousOwnerSources": [
+        "OP27",
+        "OP28"
+      ],
+      "verification": "Porównanie z istniejącym zweryfikowanym rekordem; wykorzystano zachowane odczyty zamiast ponownego badania"
+    },
+    {
+      "brand": "Sokołów",
+      "baseId": "R035",
+      "confirmed2026": true,
+      "period": "styczeń–luty 2026",
+      "owner": "Sokołów S.A.; Udziałowiec / grupa: Grupa Danish Crown — według oficjalnej strony Sokołowa, bez odtworzenia prawnej spółki pośredniej",
+      "decision": "Zachować istniejący rekord bez zmian",
+      "reason": "Źródła potwierdzają obecność reklamową, lecz nie ujawniają instrukcji wyboru stacji ani umowy.",
+      "route": "Sposób zakupu nieustalony",
+      "evidenceIds": [
+        "E04"
+      ],
+      "ownerIds": [],
+      "previousOwnerSources": [
+        "OP29",
+        "OP30"
+      ],
+      "verification": "Porównanie z istniejącym zweryfikowanym rekordem; wykorzystano zachowane odczyty zamiast ponownego badania"
+    },
+    {
+      "brand": "Provident Polska",
+      "baseId": "R004",
+      "confirmed2026": true,
+      "period": "styczeń–luty 2026",
+      "owner": "Provident Polska S.A.; Grupa: International Personal Finance — IPF; Właściciel grupy: BasePoint",
+      "decision": "Zachować istniejący rekord bez zmian",
+      "reason": "Firma potwierdziła biznesową decyzję o powrocie opartą na rekomendacji domu mediowego.",
+      "route": "Wybór stacji potwierdzony; formalna droga zakupu nieujawniona",
+      "evidenceIds": [
+        "E04"
+      ],
+      "ownerIds": [],
+      "previousOwnerSources": [
+        "OC09",
+        "OC10",
+        "OC11"
+      ],
+      "verification": "Porównanie z istniejącym zweryfikowanym rekordem; wykorzystano zachowane odczyty zamiast ponownego badania"
+    },
+    {
+      "brand": "XTB Polska",
+      "baseId": "R030",
+      "confirmed2026": true,
+      "period": "styczeń–luty 2026",
+      "owner": "XTB S.A.; Największy akcjonariusz: XX ZW Investment Group S.A.; Właściciel większościowy XX ZW: Jakub Zabłocki",
+      "decision": "Zachować istniejący rekord bez zmian",
+      "reason": "XTB potwierdziło obecność w ofercie Polsat Media; nie opublikowało umowy ani instrukcji wyboru stacji.",
+      "route": "Pakiet / oferta brokera",
+      "evidenceIds": [
+        "E04"
+      ],
+      "ownerIds": [],
+      "previousOwnerSources": [
+        "OP23"
+      ],
+      "verification": "Porównanie z istniejącym zweryfikowanym rekordem; wykorzystano zachowane odczyty zamiast ponownego badania"
+    },
+    {
+      "brand": "Comarch",
+      "baseId": "R032",
+      "confirmed2026": true,
+      "period": "styczeń–luty 2026",
+      "owner": "Comarch sp. z o.o.; Bieżąca przynależność portfelowa: CVC Capital Partners",
+      "decision": "Zachować istniejący rekord bez zmian",
+      "reason": "Źródła potwierdzają obecność reklamową, lecz nie ujawniają instrukcji wyboru stacji ani umowy.",
+      "route": "Sposób zakupu nieustalony",
+      "evidenceIds": [
+        "E04"
+      ],
+      "ownerIds": [],
+      "previousOwnerSources": [
+        "OA02",
+        "OA03",
+        "OP25",
+        "OP26"
+      ],
+      "verification": "Porównanie z istniejącym zweryfikowanym rekordem; wykorzystano zachowane odczyty zamiast ponownego badania"
+    },
+    {
+      "brand": "Whirlpool",
+      "baseId": "R026",
+      "confirmed2026": true,
+      "period": "styczeń–luty 2026",
+      "owner": "Whirlpool Corporation — właściciel marki; Biznes europejski / licencja: Beko Europe / Arçelik",
+      "decision": "Zachować istniejący rekord bez zmian",
+      "reason": "Źródła potwierdzają obecność reklamową, lecz nie ujawniają instrukcji wyboru stacji ani umowy.",
+      "route": "Sposób zakupu nieustalony",
+      "evidenceIds": [
+        "E04"
+      ],
+      "ownerIds": [],
+      "previousOwnerSources": [
+        "OP15",
+        "OP16"
+      ],
+      "verification": "Porównanie z istniejącym zweryfikowanym rekordem; wykorzystano zachowane odczyty zamiast ponownego badania"
+    },
+    {
+      "brand": "Zondacrypto",
+      "baseId": "R018",
+      "confirmed2026": true,
+      "period": "styczeń 2026; dokładnych dni nie ustalono",
+      "owner": "BB Trade Estonia OÜ — operator platformy; Bezpośredni właściciel operatora: DIVISIO HOLDING AG — 100% (estoński rejestr); Beneficjent wskazany informacyjnie: Przemysław Janusz Kral — pośrednia własność, bez ustalonego udziału w holdingu; Kontrahent faktur — odrębna spółka: EXPOFÉR SERVIS HOUSE s.r.o.",
+      "decision": "Zachować istniejący rekord bez zmian",
+      "reason": "Dwie faktury wystawione w styczniu na około 89,9 tys. EUR są według nadawcy nieopłacone. Nie odczytano obu faktur, VAT ani okresu usług; kwoty nie przypisano do wykonania w 2026. Historycznych 1 529 428,81 EUR nie włączono do żadnej sumy 2026.",
+      "route": "Sposób zakupu nieustalony",
+      "evidenceIds": [
+        "E07"
+      ],
+      "ownerIds": [],
+      "previousOwnerSources": [
+        "Z26_05",
+        "Z26_06",
+        "Z26_07",
+        "Z26_08"
+      ],
+      "verification": "Porównanie z istniejącym zweryfikowanym rekordem; wykorzystano zachowane odczyty zamiast ponownego badania"
+    },
+    {
+      "brand": "Sanofi Aventis Polska",
+      "baseId": "R009",
+      "confirmed2026": true,
+      "period": "wrzesień 2026; wybrane wcześniejsze miesiące od lutego",
+      "owner": "Sanofi sp. z o.o.; Grupa: Sanofi",
+      "decision": "Zachować istniejący rekord bez zmian",
+      "reason": "Źródła potwierdzają obecność reklamową, lecz nie ujawniają instrukcji wyboru stacji ani umowy.",
+      "route": "Sposób zakupu nieustalony",
+      "evidenceIds": [
+        "E03"
+      ],
+      "ownerIds": [],
+      "previousOwnerSources": [
+        "OC24",
+        "OC25",
+        "OC26"
+      ],
+      "verification": "Porównanie z istniejącym zweryfikowanym rekordem; wykorzystano zachowane odczyty zamiast ponownego badania"
+    },
+    {
+      "brand": "Oleofarm",
+      "baseId": "R024",
+      "confirmed2026": true,
+      "period": "marzec 2026; także styczeń i luty",
+      "owner": "Oleofarm sp. z o.o.; Ujawnieni wspólnicy: Marek Robert Chrzanowski i Leszek Krzysztof Stanecki — po 50%",
+      "decision": "Zachować istniejący rekord bez zmian",
+      "reason": "Źródła potwierdzają obecność reklamową, lecz nie ujawniają instrukcji wyboru stacji ani umowy.",
+      "route": "Sposób zakupu nieustalony",
+      "evidenceIds": [
+        "E01"
+      ],
+      "ownerIds": [],
+      "previousOwnerSources": [
+        "OP10",
+        "OP11",
+        "OP12",
+        "OP13",
+        "OP14",
+        "OP41"
+      ],
+      "verification": "Porównanie z istniejącym zweryfikowanym rekordem; wykorzystano zachowane odczyty zamiast ponownego badania"
+    },
+    {
+      "brand": "EkaMedica",
+      "baseId": "R016",
+      "confirmed2026": true,
+      "period": "maj 2026; wcześniejsze potwierdzenia od stycznia",
+      "owner": "EkaMedica sp. z o.o. sp.k.; Komplementariusz: EkaMedica sp. z o.o.; Komandytariusze: Jarosław Rozmus i Emilia Rozmus; Wspólnicy komplementariusza: Jarosław Rozmus i Emilia Rozmus po 50% według jawnych pól wpisu 26od 18.06.2026",
+      "decision": "Zachować istniejący rekord bez zmian",
+      "reason": "Źródła potwierdzają obecność reklamową, lecz nie ujawniają instrukcji wyboru stacji ani umowy.",
+      "route": "Sposób zakupu nieustalony",
+      "evidenceIds": [
+        "E06"
+      ],
+      "ownerIds": [],
+      "previousOwnerSources": [
+        "OP01",
+        "OP39",
+        "OP40"
+      ],
+      "verification": "Porównanie z istniejącym zweryfikowanym rekordem; wykorzystano zachowane odczyty zamiast ponownego badania"
+    },
+    {
+      "brand": "TV Puls",
+      "baseId": "R001",
+      "confirmed2026": true,
+      "period": "listopad 2026 — opis 5 listopada, bez dziennika emisji",
+      "owner": "Telewizja Puls sp. z o.o.; Właściciel: Dariusz Dąbski — 100% udziałów",
+      "decision": "Zachować istniejący rekord bez zmian",
+      "reason": "Obie stacje potwierdziły zakup reklamy. Nie ujawniono umowy ani pośrednika.",
+      "route": "Wybór stacji potwierdzony; formalna droga zakupu nieujawniona",
+      "evidenceIds": [
+        "E05"
+      ],
+      "ownerIds": [],
+      "previousOwnerSources": [
+        "OC01"
+      ],
+      "verification": "Porównanie z istniejącym zweryfikowanym rekordem; wykorzystano zachowane odczyty zamiast ponownego badania"
+    },
+    {
+      "brand": "Narodowy Bank Polski",
+      "baseId": "R017",
+      "confirmed2026": true,
+      "period": "1 stycznia–10 maja 2026",
+      "owner": "Narodowy Bank Polski; Status publiczny: Bank centralny RP",
+      "decision": "Zachować istniejący rekord bez zmian",
+      "reason": "Nie zakładać zamówienia bezpośredniego. NBP jest odrębną kategorią publiczną; nie stosować do niego nadzoru właścicielskiego nad SSP.",
+      "route": "Sposób zakupu nieustalony",
+      "evidenceIds": [
+        "E08"
+      ],
+      "ownerIds": [],
+      "previousOwnerSources": [
+        "P26_05",
+        "P26_06",
+        "P26_07"
+      ],
+      "verification": "Porównanie z istniejącym zweryfikowanym rekordem; wykorzystano zachowane odczyty zamiast ponownego badania"
+    },
+    {
+      "brand": "Grupa Żywiec",
+      "baseId": "R037",
+      "confirmed2026": null,
+      "period": "Nie osobna kampania — dowód Warki: styczeń–luty 2026",
+      "owner": "Grupa Żywiec sp. z o.o. → HEINEKEN",
+      "decision": "Nie tworzyć nowego rekordu marki",
+      "reason": "To operator Warki. Dowód Warki nie dowodzi emisji wszystkich marek Grupy Żywiec. Harnaś i Okocim mają innego operatora: Carlsberg Polska.",
+      "route": "Według rekordu Warki: sposób zakupu nieustalony",
+      "evidenceIds": [
+        "E04"
+      ],
+      "ownerIds": [
+        "O13"
+      ],
+      "verification": "Ponownie sprawdzono oficjalny podmiot i portfolio"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "E01",
+      "title": "Press: Republice i wPolsce24 przybyło reklamodawców",
+      "url": "https://www.press.pl/tresc/92604,republice-i-wpolsce24-przybylo-reklamodawcow",
+      "date": "2026-04-16",
+      "author": "Michał Niedbalski / Press",
+      "note": "Akapit dotyczący Republiki opisuje marzec 2026. Wcześniejszy akapit dotyczy wPolsce24. Nazwy Carlsberg/Okocim nie rozdzielono na dwa osobne dowody kampanii piwnych. Wspólny dostawca pomiaru: Nielsen Media.",
+      "checked": "2026-11-08",
+      "mode": "Odczyt bezpośredni w kontroli uzupełniającej",
+      "excerptLocation": "kontrola-uzupelniajaca.html#E01"
+    },
+    {
+      "id": "E02",
+      "title": "Press: Republika ma więcej reklamodawców niż wPolsce24",
+      "url": "https://www.press.pl/tresc/95006,republika-ma-wiecej-reklamodawcow-niz-wpolsce24",
+      "date": "2026-09-11",
+      "author": "Michał Niedbalski / Press",
+      "note": "Dotyczy sierpnia 2026. Kolejny akapit zawiera odrębną listę wPolsce24. Brak dziennika emisji i nazw konkretnych kreacji. Ten sam dostawca Nielsen, a nie drugie niezależne badanie.",
+      "checked": "2026-11-08",
+      "mode": "Odczyt bezpośredni w kontroli uzupełniającej",
+      "excerptLocation": "kontrola-uzupelniajaca.html#E02"
+    },
+    {
+      "id": "E03",
+      "title": "Press: Republice i wPolsce24 we wrześniu przybyło reklamodawców",
+      "url": "https://www.press.pl/tresc/95465,republice-i-wpolsce24-we-wrzesniu-przybylo-reklamodawcow",
+      "date": "2026-10-13",
+      "author": "Michał Niedbalski / Press",
+      "note": "Dotyczy września 2026. Media Expert i Polkomtel/Plus w późniejszym akapicie dotyczą wPolsce24. Ich wystąpienia nie przeniesiono na Republikę ani na nowy miesiąc.",
+      "checked": "2026-11-08",
+      "mode": "Odczyt bezpośredni w kontroli uzupełniającej",
+      "excerptLocation": "kontrola-uzupelniajaca.html#E03"
+    },
+    {
+      "id": "E04",
+      "title": "Wirtualne Media: Reklamowy bojkot Republiki pęka. Tyle zostało z dawnych deklaracji marketerów",
+      "url": "https://www.wirtualnemedia.pl/reklamowy-bojkot-republiki-peka-tyle-zostalo-z-dawnych-deklaracji-marketerow,7261415221090496a",
+      "date": "2026-03-11",
+      "author": "Beata Goczał, współpraca Dominik Senkowski / Wirtualne Media",
+      "note": "Fragment A: akapit o powrotach. Fragment B: następny akapit o obecności w Republice. Fragment C: wypowiedź Agaty Koppy, Carlsberg Polska, o Harnasiu. Znak […] oznacza pominięcie słów bez zmiany sensu. Analiza na początku tej części obejmuje styczeń i luty 2026. Brak dokładnych dat spotów. Carlsberg opisuje pakiet i kanał uzupełniający; nie opisuje tego jako pomyłki.",
+      "checked": "2026-11-08",
+      "mode": "Odczyt bezpośredni w kontroli uzupełniającej",
+      "excerptLocation": "kontrola-uzupelniajaca.html#E04"
+    },
+    {
+      "id": "E05",
+      "title": "Wirtualne Media: To dlatego w Republice są reklamy innej stacji komercyjnej. Nadawca tłumaczy",
+      "url": "https://www.wirtualnemedia.pl/telewizja-republika-tomasz-sakiewicz-reklama-tv-puls-reklamodawca-oferta,7347436732725696a",
+      "date": "2026-11-05",
+      "author": "Dominik Senkowski / Wirtualne Media",
+      "note": "Potwierdzenie TV Puls i nadawcy. Późniejsze wzmianki o powrotach innych marek odsyłają do wcześniejszej analizy, więc nie przesuwają ich emisji na listopad.",
+      "checked": "2026-11-08",
+      "mode": "Wykorzystano zachowany bezpośredni odczyt z zakończonej kontroli 8.11.2026; bez ponawiania badania",
+      "excerptLocation": "kontrola-uzupelniajaca.html#E05"
+    },
+    {
+      "id": "E06",
+      "title": "Press: Republice i wPolsce24 w maju ubyło reklamodawców",
+      "url": "https://www.press.pl/tresc/93515,republice-i-wpolsce24-w-maju-ubylo-reklamodawcow",
+      "date": "2026-06-11",
+      "author": "Michał Niedbalski / Press",
+      "note": "Akapit dotyczący Republiki opisuje maj 2026, nie czerwiec jako miesiąc emisji.",
+      "checked": "2026-11-08",
+      "mode": "Wykorzystano zachowany bezpośredni odczyt z zakończonej kontroli 8.11.2026",
+      "excerptLocation": "kontrola-uzupelniajaca.html#E06"
+    },
+    {
+      "id": "E07",
+      "title": "Press: Stacja wPolsce24 straciła więcej reklamodawców niż Republika",
+      "url": "https://www.press.pl/tresc/91523,stacja-wpolsce24-stracila-wiecej-reklamodawcow-niz-republika",
+      "date": "2026-02-06",
+      "author": "Michał Niedbalski / Press",
+      "note": "Dotyczy stycznia 2026. To dowód obecności kategorii Zondacrypto, nie samodzielny dowód praw do znaku, strony umowy lub płatności. Rozdzielenie operatora BB Trade i kontrahenta Expofer pozostaje jak w zatwierdzonej publikacji.",
+      "checked": "2026-11-08",
+      "mode": "Wykorzystano zachowany bezpośredni odczyt z zakończonej kontroli 8.11.2026",
+      "excerptLocation": "kontrola-uzupelniajaca.html#E07"
+    },
+    {
+      "id": "E08",
+      "title": "IMM: Gdzie NBP reklamuje rezerwy złota?",
+      "url": "https://www.imm.com.pl/baza-wiedzy/aktualnosci/gdzie-nbp-reklamuje-rezerwy-zlota/",
+      "date": "2026-05-12",
+      "author": "Instytut Monitorowania Mediów",
+      "note": "Dokument podaje 553 spoty do 10 maja. Użyte przez autora słowo budżet nie zmienia charakteru kwot: metodologia mówi o wycenie cennikowej netto, bez rabatów. Nie potwierdza zapłaty.",
+      "checked": "2026-11-08",
+      "mode": "Wykorzystano zachowany bezpośredni odczyt z zakończonej kontroli 8.11.2026",
+      "excerptLocation": "kontrola-uzupelniajaca.html#E08"
+    },
+    {
+      "id": "E09",
+      "title": "Wirtualne Media: TV Republika traci kolejnych reklamodawców. Sakiewicz: lepiej mieć wyższe ceny niż dużo reklam",
+      "url": "https://www.wirtualnemedia.pl/tv-republika-reklamy-brak-emisja,7169445585446529a",
+      "date": "2024-01-17",
+      "author": "Tomasz Wojtas / Wirtualne Media",
+      "note": "Są to wzmianki o styczniu 2024. Nie dowodzą ani obecności, ani nieobecności tych marek w 2026. Nie wykorzystano dat aktualnych polecanych artykułów ani daty indeksowania jako daty badania.",
+      "checked": "2026-11-08",
+      "mode": "Odczyt bezpośredni w kontroli uzupełniającej",
+      "excerptLocation": "kontrola-uzupelniajaca.html#E09"
+    },
+    {
+      "id": "E10",
+      "title": "Republika: Burza wokół reklamy z Karolakiem. Prokuratura podjęła decyzję!",
+      "url": "https://tvrepublika.pl/Rozrywka/Burza-wokol-reklamy-z-Karolakiem/206658",
+      "date": "2026-01-28",
+      "author": "Republika / Natalia Janikowska",
+      "note": "Artykuł nadawcy opisuje inną datę zdarzenia niż data publikacji. Nie identyfikuje emisji Łomży w Republice w 2026. Obecność filmu lub ilustracji w artykule redakcyjnym nie dowodzi odpłatnej kampanii.",
+      "checked": "2026-11-08",
+      "mode": "Odczyt bezpośredni w kontroli uzupełniającej",
+      "excerptLocation": "kontrola-uzupelniajaca.html#E10"
+    },
+    {
+      "id": "E11",
+      "title": "Wirtualne Media: Tyle firm rekamuje się w Kanale Zero TV. Więcej spotów niż w Republice",
+      "url": "https://www.wirtualnemedia.pl/tyle-firm-rekamuje-sie-w-kanale-zero-tv-wiecej-reklam-niz-w-republice,7295741393242144a",
+      "date": "2026-06-12",
+      "author": "Beata Goczał / Wirtualne Media",
+      "note": "Wzmianka o Łomży dotyczy Zero TV. Nie wolno przenieść tej marki do listy Republiki tylko dlatego, że oba kanały są w tytule.",
+      "checked": "2026-11-08",
+      "mode": "Wykorzystano zachowany bezpośredni odczyt z zakończonej kontroli 8.11.2026",
+      "excerptLocation": "kontrola-uzupelniajaca.html#E11"
+    },
+    {
+      "id": "O01",
+      "title": "Van Pur: Łomża",
+      "url": "https://vanpur.com.pl/pl/nasze-marki/lomza/40.html",
+      "date": "bez daty publikacji",
+      "author": "Van Pur S.A.",
+      "note": "Marka w oficjalnym portfolio, stopka identyfikuje Van Pur S.A., KRS0000231094. Nie ustala wszystkich aktualnych akcjonariuszy Van Pur ani płatnika reklamy.",
+      "checked": "2026-11-08",
+      "mode": "Odczyt bezpośredni w kontroli uzupełniającej",
+      "excerptLocation": "kontrola-uzupelniajaca.html#O01"
+    },
+    {
+      "id": "O02",
+      "title": "Van Pur: O nas",
+      "url": "https://vanpur.com.pl/pl/o-nas.html",
+      "date": "bez daty publikacji",
+      "author": "Van Pur S.A.",
+      "note": "Oficjalna deklaracja portfolio. Nie jest dowodem emisji w Republice.",
+      "checked": "2026-11-08",
+      "mode": "Odczyt bezpośredni w kontroli uzupełniającej",
+      "excerptLocation": "kontrola-uzupelniajaca.html#O02"
+    },
+    {
+      "id": "O03",
+      "title": "SkyShowtime Limited: Terms",
+      "url": "https://corporate.skyshowtime.com/pages/terms/",
+      "date": "bez daty aktualizacji",
+      "author": "SkyShowtime",
+      "note": "Warunki zakupowe grupy identyfikują spółkę angielską. Nie ujawniają umowy kampanii w Republice ani polskiego kontrahenta reklamowego.",
+      "checked": "2026-11-08",
+      "mode": "Odczyt bezpośredni w kontroli uzupełniającej",
+      "excerptLocation": "kontrola-uzupelniajaca.html#O03"
+    },
+    {
+      "id": "O04",
+      "title": "About SkyShowtime",
+      "url": "https://corporate.skyshowtime.com/about/",
+      "date": "bez daty aktualizacji",
+      "author": "SkyShowtime",
+      "note": "Oficjalny opis właścicieli joint venture; nie odtworzono pośrednich udziałów i procentów. Nowości z listopada2026 nie są datą aktualizacji samego opisu właścicielskiego.",
+      "checked": "2026-11-08",
+      "mode": "Odczyt bezpośredni w kontroli uzupełniającej",
+      "excerptLocation": "kontrola-uzupelniajaca.html#O04"
+    },
+    {
+      "id": "O05",
+      "title": "Nurofen: Regulamin",
+      "url": "https://www.nurofen.pl/regulamin/",
+      "date": "2018-07-25 — data aktualizacji dokumentu",
+      "author": "Reckitt / serwis Nurofen",
+      "note": "Taką pisownię podaje regulamin (KRS0000093441). Dokument identyfikuje operatora serwisu; nie pozwala automatycznie przypisać mu każdej kampanii i każdego wariantu leku w2026.",
+      "checked": "2026-11-08",
+      "mode": "Odczyt bezpośredni w kontroli uzupełniającej",
+      "excerptLocation": "kontrola-uzupelniajaca.html#O05"
+    },
+    {
+      "id": "O06",
+      "title": "Reckitt: Our Brands",
+      "url": "https://www.reckitt.com/brands/",
+      "date": "bez daty aktualizacji",
+      "author": "Reckitt",
+      "note": "Nurofen jest w oficjalnym portfolio grupy Reckitt. Nie jest to dowód reklamy w Republice ani ustalenie podmiotu faktury.",
+      "checked": "2026-11-08",
+      "mode": "Odczyt bezpośredni w kontroli uzupełniającej",
+      "excerptLocation": "kontrola-uzupelniajaca.html#O06"
+    },
+    {
+      "id": "O07",
+      "title": "Egis: Historia firmy",
+      "url": "https://pl.egis.health/rx/historia-firmy",
+      "date": "historia: przejęcie Egis2013, zakup praw Biovital2015; brak daty aktualizacji strony",
+      "author": "Egis",
+      "note": "Prawa do Biovital wskazano przy roku2015; grupę Servier przy2013. Nie przenosimy dawnego właściciela Bayer na obecny opis Biovital. To historia grupy, nie nowy urzędowy odpis akcjonariatu.",
+      "checked": "2026-11-08",
+      "mode": "Odczyt bezpośredni w kontroli uzupełniającej",
+      "excerptLocation": "kontrola-uzupelniajaca.html#O07"
+    },
+    {
+      "id": "O08",
+      "title": "Egis: Kontakt",
+      "url": "https://pl.egis.health/kontakt",
+      "date": "bez daty aktualizacji",
+      "author": "EGIS Polska sp. z o.o.",
+      "note": "Oficjalna strona identyfikuje przedstawicielstwo, KRS0000242368. Biovital nie jest utożsamiany z podobnie nazwaną firmą Biovitalium. Nie ustalono strony hipotetycznej kampanii2026.",
+      "checked": "2026-11-08",
+      "mode": "Odczyt bezpośredni w kontroli uzupełniającej",
+      "excerptLocation": "kontrola-uzupelniajaca.html#O08"
+    },
+    {
+      "id": "O09",
+      "title": "Aspirin: marka Bayer",
+      "url": "https://www.aspirin.pl/",
+      "date": "bez daty aktualizacji",
+      "author": "Bayer",
+      "note": "Na stronie indeks ® występuje typograficznie przy nazwie. Potwierdza rodzinę marki Bayer, nie kampanię w Republice.",
+      "checked": "2026-11-08",
+      "mode": "Odczyt bezpośredni w kontroli uzupełniającej",
+      "excerptLocation": "kontrola-uzupelniajaca.html#O09"
+    },
+    {
+      "id": "O10",
+      "title": "Aspirin C: podmiot odpowiedzialny",
+      "url": "https://www.aspirin.pl/produkty/aspirin-c",
+      "date": "oznaczenie V7/31.07.2025/MJ",
+      "author": "Bayer",
+      "note": "Dotyczy Aspirin C; dla innych wariantów należy sprawdzać właściwą dokumentację. Nie dowodzi umowy reklamowej ani płatności.",
+      "checked": "2026-11-08",
+      "mode": "Odczyt bezpośredni w kontroli uzupełniającej",
+      "excerptLocation": "kontrola-uzupelniajaca.html#O10"
+    },
+    {
+      "id": "O11",
+      "title": "Carlsberg Polska sp. z o.o. — oficjalna strona",
+      "url": "https://www.carlsbergpolska.pl/o-nas/carlsberg-polska/carlsberg-polska-sp-z-oo/",
+      "date": "bez daty aktualizacji",
+      "author": "Carlsberg Polska sp. z o.o.",
+      "note": "Potwierdza firmę (KRS0000043669) i Harnasia w opisie portfolio. Dane o kierownictwie nie ustalają osoby decydującej o reklamie.",
+      "checked": "2026-11-08",
+      "mode": "Odczyt bezpośredni w kontroli uzupełniającej",
+      "excerptLocation": "kontrola-uzupelniajaca.html#O11"
+    },
+    {
+      "id": "O12",
+      "title": "Carlsberg Polska: informacja o strategii podatkowej za2023",
+      "url": "https://www.carlsbergpolska.pl/media/q2kj0wxt/2023_strategia-podatkowa-cp-sp-z-oo_20241205_final.pdf",
+      "date": "2023 — okres dokumentu",
+      "author": "Carlsberg Polska sp. z o.o.",
+      "note": "Zachowano wcześniejszy odczyt: rola sprzedażowa i marketingowa wobec Okocimia i Harnasia. Dokument historyczny nie jest aktualnym odpisem udziałów. Uzupełnieniem jest własne stanowisko Carlsberg z marca2026 w E04.",
+      "checked": "2026-11-08",
+      "mode": "Wykorzystano zakończoną kontrolę źródła OP05; bez ponawiania",
+      "excerptLocation": "kontrola-uzupelniajaca.html#O12"
+    },
+    {
+      "id": "O13",
+      "title": "Grupa Żywiec: O nas",
+      "url": "https://grupazywiec.pl/o-nas/",
+      "date": "bez daty aktualizacji",
+      "author": "Grupa Żywiec sp. z o.o.",
+      "note": "Oficjalna lista portfolio, deklaracja grupy i stopka KRS0001043826. Zachowano obecną firmę sp. z o.o.; nie przenosimy historycznej S.A. Nie potwierdza reklam innych marek tego operatora.",
+      "checked": "2026-11-08",
+      "mode": "Odczyt bezpośredni w kontroli uzupełniającej",
+      "excerptLocation": "kontrola-uzupelniajaca.html#O13"
+    }
+  ]
+}
