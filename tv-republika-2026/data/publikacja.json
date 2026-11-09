@@ -151,23 +151,11 @@
           "sourceId": "CT002"
         },
         "x": null,
-        "facebook": {
-          "url": "https://www.facebook.com/postroniezdrowia/",
-          "label": "Aflofarm — Po Stronie Zdrowia",
-          "scope": "operator",
-          "sourceUrl": "https://www.aflofarm.com.pl/pl/kontakt/",
-          "sourceTitle": "Aflofarm — Kontakt i odnośnik społecznościowy",
-          "evidence": "href=\"https://www.facebook.com/postroniezdrowia/\"",
-          "checkedAt": "2026-11-09",
-          "activityStatus": "Nie ustalono",
-          "lastActivityDate": null,
-          "notes": "Oficjalność potwierdzona wskazanym źródłem; nie uzyskano dostępnego odczytu daty ostatniego wpisu, więc nie przypisano statusu aktywności.",
-          "verificationMethod": "Odnośnik opublikowany przez właściciela oficjalnej witryny lub aplikacji.",
-          "sourceId": "CT002"
-        },
+        "facebook": null,
         "additionalAddresses": [],
         "missingNotes": [
-          "Brak potwierdzonego profilu X w sprawdzonych źródłach; nie jest to dowód nieistnienia konta."
+          "Brak potwierdzonego profilu X w sprawdzonych źródłach; nie jest to dowód nieistnienia konta.",
+          "Facebook: odnośnik usunięto 9 listopada 2026 po bezpośrednim sprawdzeniu w przeglądarce. Platforma wyświetliła komunikat „Te materiały nie są teraz dostępne”. Komunikat nie rozstrzyga, czy stronę usunięto trwale, czy ograniczono jej dostępność."
         ],
         "attemptedSources": [
           "https://www.aflofarm.com.pl/pl/kontakt/",
@@ -246,23 +234,11 @@
           "sourceId": "CT003"
         },
         "x": null,
-        "facebook": {
-          "url": "https://www.facebook.com/CaptainJackbeer",
-          "label": "Captain Jack — polska marka",
-          "scope": "brand",
-          "sourceUrl": "https://kp.pl/nasze-piwa/captain-jack/",
-          "sourceTitle": "Captain Jack — oficjalna karta marki Kompanii Piwowarskiej",
-          "evidence": "Facebook: https://www.facebook.com/CaptainJackbeer",
-          "checkedAt": "2026-11-09",
-          "activityStatus": "Nie ustalono",
-          "lastActivityDate": null,
-          "notes": "Oficjalność potwierdzona wskazanym źródłem; nie uzyskano dostępnego odczytu daty ostatniego wpisu, więc nie przypisano statusu aktywności.",
-          "verificationMethod": "Odnośnik opublikowany przez właściciela oficjalnej witryny lub aplikacji.",
-          "sourceId": "CT004"
-        },
+        "facebook": null,
         "additionalAddresses": [],
         "missingNotes": [
-          "Brak potwierdzonego profilu X w sprawdzonych źródłach; nie jest to dowód nieistnienia konta."
+          "Brak potwierdzonego profilu X w sprawdzonych źródłach; nie jest to dowód nieistnienia konta.",
+          "Facebook: odnośnik usunięto 9 listopada 2026 po bezpośrednim sprawdzeniu w przeglądarce. Platforma wyświetliła komunikat „Te materiały nie są teraz dostępne”. Komunikat nie rozstrzyga, czy stronę usunięto trwale, czy ograniczono jej dostępność."
         ],
         "attemptedSources": [
           "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000086269?rejestr=P&format=json",
@@ -934,20 +910,7 @@
           "registryId": "0000340368",
           "sourceId": "CT016"
         },
-        "x": {
-          "url": "https://x.com/Glovo_PL",
-          "label": "Glovo Polska",
-          "scope": "brand",
-          "sourceUrl": "https://play.google.com/store/apps/details?hl=pl&id=com.glovo",
-          "sourceTitle": "Glovo — polski opis aplikacji opublikowany przez dewelopera w Google Play",
-          "evidence": "Twitter: https://twitter.com/Glovo_PL",
-          "checkedAt": "2026-11-09",
-          "activityStatus": "Nie ustalono",
-          "lastActivityDate": null,
-          "notes": "Opis aplikacji Glovoapp 23SL w polskiej wersji językowej, aktualizacja19.10.2026, wskazuje polskie konto. Profil globalny pracodawcy LifeAtGlovo pozostawiono poza tym polem. Odczyt X:403; daty ostatniego wpisu nie ustalono.",
-          "verificationMethod": "Odnośnik opublikowany przez właściciela oficjalnej witryny lub aplikacji.",
-          "sourceId": "CT017"
-        },
+        "x": null,
         "facebook": {
           "url": "https://www.facebook.com/GlovoPolska",
           "label": "Glovo Polska",
@@ -963,7 +926,9 @@
           "sourceId": "CT017"
         },
         "additionalAddresses": [],
-        "missingNotes": [],
+        "missingNotes": [
+          "X: odnośnik usunięto 9 listopada 2026 po bezpośrednim sprawdzeniu w przeglądarce. Platforma wyświetliła komunikat „To konto nie istnieje”."
+        ],
         "attemptedSources": [
           "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000340368?rejestr=P&format=json",
           "https://play.google.com/store/apps/details?hl=pl&id=com.glovo",
@@ -3538,20 +3503,7 @@
           "notes": "Siedziba urzędu obsługującego Województwo Lubelskie; urząd nie jest odrębną osobą prawną.",
           "sourceId": "CT060"
         },
-        "x": {
-          "url": "https://x.com/UMWL_Lublin",
-          "label": "Urząd Marszałkowski Województwa Lubelskiego",
-          "scope": "operator",
-          "sourceUrl": "https://www.lubelskie.pl/kontakt/",
-          "sourceTitle": "UMWL — oficjalna strona kontaktowa",
-          "evidence": "href=\"https://x.com/UMWL_Lublin\"",
-          "checkedAt": "2026-11-09",
-          "activityStatus": "Nie ustalono",
-          "lastActivityDate": null,
-          "verificationMethod": "Odnośnik lub wskazanie profilu w oficjalnym źródle.",
-          "notes": "Potwierdzono powiązanie profilu z marką lub operatorem. Platforma nie udostępniła pełnego odczytu daty ostatniego wpisu; nie przypisano statusu aktywności.",
-          "sourceId": "CT061"
-        },
+        "x": null,
         "facebook": {
           "url": "https://www.facebook.com/urzadmarszalkowski.lubelskie",
           "label": "Urząd Marszałkowski Województwa Lubelskiego",
@@ -3567,7 +3519,9 @@
           "sourceId": "CT061"
         },
         "additionalAddresses": [],
-        "missingNotes": [],
+        "missingNotes": [
+          "X: odnośnik usunięto 9 listopada 2026 po bezpośrednim sprawdzeniu w przeglądarce. Platforma wyświetliła komunikat „To konto nie istnieje”."
+        ],
         "attemptedSources": [
           "https://umwl.bip.lubelskie.pl/?id=6",
           "https://www.lubelskie.pl/kontakt/"
@@ -13646,13 +13600,13 @@
       "recordsWithAddress": 42,
       "uniqueOperatorAddresses": 36,
       "additionalOwnerAddresses": 1,
-      "recordsWithX": 13,
-      "uniqueX": 13,
-      "recordsWithFacebook": 32,
-      "uniqueFacebook": 31,
+      "recordsWithX": 11,
+      "uniqueX": 11,
+      "recordsWithFacebook": 30,
+      "uniqueFacebook": 29,
       "parentFacebook": 1
     },
-    "method": "Siedziby sprawdzono w aktualnych odpisach KRS, rejestrze estońskim oraz dokumentach instytucji i firm. Profile potwierdzono odnośnikami własnych witryn, dokumentami operatorów lub wyraźną odpowiedzią firmy opisaną w wiarygodnym źródle. Brak wartości zapisano jako null i ukryto w szczegółach. Nie ustalono aktywności ani dat ostatnich wpisów, gdy platformy ograniczały odczyt.",
+    "method": "Siedziby sprawdzono w aktualnych odpisach KRS, rejestrze estońskim oraz dokumentach instytucji i firm. Profile potwierdzono odnośnikami własnych witryn, dokumentami operatorów lub wyraźną odpowiedzią firmy opisaną w wiarygodnym źródle. Brak wartości zapisano jako null i ukryto w szczegółach. Nie ustalono aktywności ani dat ostatnich wpisów, gdy platformy ograniczały odczyt. 9 listopada 2026 otwarto w przeglądarce wszystkie 44 różne dotychczasowe odnośniki X i Facebook. Usunięto cztery niedostępne odnośniki. Pozostałe 40 otwierało strony profili. Dostępność odnośnika nie potwierdza regularnego publikowania wpisów.",
     "missing": [
       {
         "id": "R028",
@@ -13669,20 +13623,24 @@
         "id": "R007",
         "brand": "Aflofarm",
         "fields": [
-          "x"
+          "x",
+          "facebook"
         ],
         "notes": [
-          "Brak potwierdzonego profilu X w sprawdzonych źródłach; nie jest to dowód nieistnienia konta."
+          "Brak potwierdzonego profilu X w sprawdzonych źródłach; nie jest to dowód nieistnienia konta.",
+          "Facebook: odnośnik usunięto 9 listopada 2026 po bezpośrednim sprawdzeniu w przeglądarce. Platforma wyświetliła komunikat „Te materiały nie są teraz dostępne”. Komunikat nie rozstrzyga, czy stronę usunięto trwale, czy ograniczono jej dostępność."
         ]
       },
       {
         "id": "R039",
         "brand": "Captain Jack",
         "fields": [
-          "x"
+          "x",
+          "facebook"
         ],
         "notes": [
-          "Brak potwierdzonego profilu X w sprawdzonych źródłach; nie jest to dowód nieistnienia konta."
+          "Brak potwierdzonego profilu X w sprawdzonych źródłach; nie jest to dowód nieistnienia konta.",
+          "Facebook: odnośnik usunięto 9 listopada 2026 po bezpośrednim sprawdzeniu w przeglądarce. Platforma wyświetliła komunikat „Te materiały nie są teraz dostępne”. Komunikat nie rozstrzyga, czy stronę usunięto trwale, czy ograniczono jej dostępność."
         ]
       },
       {
@@ -13725,6 +13683,16 @@
         ],
         "notes": [
           "Brak potwierdzonego profilu X w sprawdzonych źródłach; nie jest to dowód nieistnienia konta."
+        ]
+      },
+      {
+        "id": "R029",
+        "brand": "Glovo",
+        "fields": [
+          "x"
+        ],
+        "notes": [
+          "X: odnośnik usunięto 9 listopada 2026 po bezpośrednim sprawdzeniu w przeglądarce. Platforma wyświetliła komunikat „To konto nie istnieje”."
         ]
       },
       {
@@ -13965,6 +13933,16 @@
         ]
       },
       {
+        "id": "R052",
+        "brand": "Województwo Lubelskie",
+        "fields": [
+          "x"
+        ],
+        "notes": [
+          "X: odnośnik usunięto 9 listopada 2026 po bezpośrednim sprawdzeniu w przeglądarce. Platforma wyświetliła komunikat „To konto nie istnieje”."
+        ]
+      },
+      {
         "id": "R014",
         "brand": "Województwo Świętokrzyskie",
         "fields": [
@@ -13994,6 +13972,636 @@
         "notes": [
           "Nie potwierdzono profilu X Żubra lub jego operatora w sprawdzonych oficjalnych witrynach."
         ]
+      }
+    ]
+  },
+  "socialLinkAvailability": {
+    "checkedAt": "2026-11-09",
+    "method": "Bezpośrednie otwarcie wszystkich różnych adresów X i Facebook w przeglądarce, w dostępnej zalogowanej sesji. Oceniano treść strony, nie sam kod HTTP. Kontrola obejmuje dostępność, nie częstotliwość publikowania wpisów ani gwarancję dostępności we wszystkich regionach.",
+    "baselineCommit": "2f44929df41ef8ae26c3984b0e3bcafeab209b14",
+    "counts": {
+      "uniqueUrlsChecked": 44,
+      "uniqueUrlsAvailable": 40,
+      "removedLinks": 4,
+      "displayedXLinks": 11,
+      "displayedFacebookLinks": 30
+    },
+    "checks": [
+      {
+        "url": "https://www.facebook.com/postroniezdrowia/",
+        "platform": "facebook",
+        "records": [
+          {
+            "id": "R007",
+            "brand": "Aflofarm"
+          }
+        ],
+        "checkedAt": "2026-11-09",
+        "result": "unavailable_content",
+        "observedMessage": "Te materiały nie są teraz dostępne"
+      },
+      {
+        "url": "https://www.facebook.com/CaptainJackbeer",
+        "platform": "facebook",
+        "records": [
+          {
+            "id": "R039",
+            "brand": "Captain Jack"
+          }
+        ],
+        "checkedAt": "2026-11-09",
+        "result": "unavailable_content",
+        "observedMessage": "Te materiały nie są teraz dostępne"
+      },
+      {
+        "url": "https://www.facebook.com/carfix.ac.eu/",
+        "platform": "facebook",
+        "records": [
+          {
+            "id": "R022",
+            "brand": "CarFix"
+          }
+        ],
+        "checkedAt": "2026-11-09",
+        "result": "profile_available",
+        "observation": "Otwarto stronę profilu w przeglądarce; nie wyświetlono komunikatu o nieistniejącym koncie lub niedostępnej zawartości."
+      },
+      {
+        "url": "https://www.facebook.com/CastoramaPolska",
+        "platform": "facebook",
+        "records": [
+          {
+            "id": "R003",
+            "brand": "Castorama"
+          }
+        ],
+        "checkedAt": "2026-11-09",
+        "result": "profile_available",
+        "observation": "Otwarto stronę profilu w przeglądarce; nie wyświetlono komunikatu o nieistniejącym koncie lub niedostępnej zawartości."
+      },
+      {
+        "url": "https://www.facebook.com/CentrumAnimacjiMisyjnej",
+        "platform": "facebook",
+        "records": [
+          {
+            "id": "R025",
+            "brand": "Centrum Animacji Misyjnej"
+          }
+        ],
+        "checkedAt": "2026-11-09",
+        "result": "profile_available",
+        "observation": "Otwarto stronę profilu w przeglądarce; nie wyświetlono komunikatu o nieistniejącym koncie lub niedostępnej zawartości."
+      },
+      {
+        "url": "https://pl-pl.facebook.com/pages/Comarch-Poland/137434822955198",
+        "platform": "facebook",
+        "records": [
+          {
+            "id": "R032",
+            "brand": "Comarch"
+          }
+        ],
+        "checkedAt": "2026-11-09",
+        "result": "profile_available",
+        "observation": "Otwarto stronę profilu w przeglądarce; nie wyświetlono komunikatu o nieistniejącym koncie lub niedostępnej zawartości.",
+        "redirectedTo": "https://www.facebook.com/comarchpl/#",
+        "note": "Zachowano oryginalny działający odnośnik. Przekierowanie może zależeć od regionu lub ustawień platformy."
+      },
+      {
+        "url": "https://x.com/comarchgroup",
+        "platform": "x",
+        "records": [
+          {
+            "id": "R032",
+            "brand": "Comarch"
+          }
+        ],
+        "checkedAt": "2026-11-09",
+        "result": "profile_available",
+        "observation": "Otwarto stronę profilu w przeglądarce; nie wyświetlono komunikatu o nieistniejącym koncie lub niedostępnej zawartości."
+      },
+      {
+        "url": "https://www.facebook.com/EkaMedica/",
+        "platform": "facebook",
+        "records": [
+          {
+            "id": "R016",
+            "brand": "EkaMedica"
+          }
+        ],
+        "checkedAt": "2026-11-09",
+        "result": "profile_available",
+        "observation": "Otwarto stronę profilu w przeglądarce; nie wyświetlono komunikatu o nieistniejącym koncie lub niedostępnej zawartości."
+      },
+      {
+        "url": "https://www.facebook.com/GazetaPolskaPL",
+        "platform": "facebook",
+        "records": [
+          {
+            "id": "R010",
+            "brand": "Gazeta Polska"
+          }
+        ],
+        "checkedAt": "2026-11-09",
+        "result": "profile_available",
+        "observation": "Otwarto stronę profilu w przeglądarce; nie wyświetlono komunikatu o nieistniejącym koncie lub niedostępnej zawartości."
+      },
+      {
+        "url": "https://x.com/GPtygodnik",
+        "platform": "x",
+        "records": [
+          {
+            "id": "R010",
+            "brand": "Gazeta Polska"
+          }
+        ],
+        "checkedAt": "2026-11-09",
+        "result": "profile_available",
+        "observation": "Otwarto stronę profilu w przeglądarce; nie wyświetlono komunikatu o nieistniejącym koncie lub niedostępnej zawartości."
+      },
+      {
+        "url": "https://www.facebook.com/GlovoPolska",
+        "platform": "facebook",
+        "records": [
+          {
+            "id": "R029",
+            "brand": "Glovo"
+          }
+        ],
+        "checkedAt": "2026-11-09",
+        "result": "profile_available",
+        "observation": "Otwarto stronę profilu w przeglądarce; nie wyświetlono komunikatu o nieistniejącym koncie lub niedostępnej zawartości."
+      },
+      {
+        "url": "https://x.com/Glovo_PL",
+        "platform": "x",
+        "records": [
+          {
+            "id": "R029",
+            "brand": "Glovo"
+          }
+        ],
+        "checkedAt": "2026-11-09",
+        "result": "account_not_found",
+        "observedMessage": "To konto nie istnieje"
+      },
+      {
+        "url": "https://www.facebook.com/profile.php?id=61583333112933",
+        "platform": "facebook",
+        "records": [
+          {
+            "id": "R011",
+            "brand": "Goryla.pl"
+          }
+        ],
+        "checkedAt": "2026-11-09",
+        "result": "profile_available",
+        "observation": "Otwarto stronę profilu w przeglądarce; nie wyświetlono komunikatu o nieistniejącym koncie lub niedostępnej zawartości."
+      },
+      {
+        "url": "https://www.facebook.com/ikonymotoryzacji",
+        "platform": "facebook",
+        "records": [
+          {
+            "id": "R027",
+            "brand": "Ikony Motoryzacji"
+          }
+        ],
+        "checkedAt": "2026-11-09",
+        "result": "profile_available",
+        "observation": "Otwarto stronę profilu w przeglądarce; nie wyświetlono komunikatu o nieistniejącym koncie lub niedostępnej zawartości."
+      },
+      {
+        "url": "https://www.facebook.com/Kuchniavikinga",
+        "platform": "facebook",
+        "records": [
+          {
+            "id": "R005",
+            "brand": "Kuchnia Vikinga"
+          }
+        ],
+        "checkedAt": "2026-11-09",
+        "result": "profile_available",
+        "observation": "Otwarto stronę profilu w przeglądarce; nie wyświetlono komunikatu o nieistniejącym koncie lub niedostępnej zawartości."
+      },
+      {
+        "url": "https://www.facebook.com/MangoPolska",
+        "platform": "facebook",
+        "records": [
+          {
+            "id": "R006",
+            "brand": "Mango"
+          }
+        ],
+        "checkedAt": "2026-11-09",
+        "result": "profile_available",
+        "observation": "Otwarto stronę profilu w przeglądarce; nie wyświetlono komunikatu o nieistniejącym koncie lub niedostępnej zawartości."
+      },
+      {
+        "url": "https://www.facebook.com/Mediaexpert",
+        "platform": "facebook",
+        "records": [
+          {
+            "id": "R002",
+            "brand": "Media Expert"
+          }
+        ],
+        "checkedAt": "2026-11-09",
+        "result": "profile_available",
+        "observation": "Otwarto stronę profilu w przeglądarce; nie wyświetlono komunikatu o nieistniejącym koncie lub niedostępnej zawartości."
+      },
+      {
+        "url": "https://www.facebook.com/chelmpl",
+        "platform": "facebook",
+        "records": [
+          {
+            "id": "R054",
+            "brand": "Miasto Chełm / RetroFest"
+          }
+        ],
+        "checkedAt": "2026-11-09",
+        "result": "profile_available",
+        "observation": "Otwarto stronę profilu w przeglądarce; nie wyświetlono komunikatu o nieistniejącym koncie lub niedostępnej zawartości."
+      },
+      {
+        "url": "https://x.com/MiastoChelm",
+        "platform": "x",
+        "records": [
+          {
+            "id": "R054",
+            "brand": "Miasto Chełm / RetroFest"
+          }
+        ],
+        "checkedAt": "2026-11-09",
+        "result": "profile_available",
+        "observation": "Otwarto stronę profilu w przeglądarce; nie wyświetlono komunikatu o nieistniejącym koncie lub niedostępnej zawartości."
+      },
+      {
+        "url": "https://x.com/nbppl",
+        "platform": "x",
+        "records": [
+          {
+            "id": "R017",
+            "brand": "NBP / Narodowy Bank Polski"
+          }
+        ],
+        "checkedAt": "2026-11-09",
+        "result": "profile_available",
+        "observation": "Otwarto stronę profilu w przeglądarce; nie wyświetlono komunikatu o nieistniejącym koncie lub niedostępnej zawartości."
+      },
+      {
+        "url": "https://www.facebook.com/people/Nowrocky/61583980511977/",
+        "platform": "facebook",
+        "records": [
+          {
+            "id": "R056",
+            "brand": "NOWROCKY / President 1"
+          }
+        ],
+        "checkedAt": "2026-11-09",
+        "result": "profile_available",
+        "observation": "Otwarto stronę profilu w przeglądarce; nie wyświetlono komunikatu o nieistniejącym koncie lub niedostępnej zawartości.",
+        "redirectedTo": "https://www.facebook.com/Nowrocky25/",
+        "note": "Zachowano oryginalny działający odnośnik. Przekierowanie może zależeć od regionu lub ustawień platformy."
+      },
+      {
+        "url": "https://www.facebook.com/Oleofarm24",
+        "platform": "facebook",
+        "records": [
+          {
+            "id": "R024",
+            "brand": "Oleofarm"
+          }
+        ],
+        "checkedAt": "2026-11-09",
+        "result": "profile_available",
+        "observation": "Otwarto stronę profilu w przeglądarce; nie wyświetlono komunikatu o nieistniejącym koncie lub niedostępnej zawartości."
+      },
+      {
+        "url": "https://www.facebook.com/providentpolska",
+        "platform": "facebook",
+        "records": [
+          {
+            "id": "R004",
+            "brand": "Provident"
+          }
+        ],
+        "checkedAt": "2026-11-09",
+        "result": "profile_available",
+        "observation": "Otwarto stronę profilu w przeglądarce; nie wyświetlono komunikatu o nieistniejącym koncie lub niedostępnej zawartości."
+      },
+      {
+        "url": "https://x.com/Provident_PL",
+        "platform": "x",
+        "records": [
+          {
+            "id": "R004",
+            "brand": "Provident"
+          }
+        ],
+        "checkedAt": "2026-11-09",
+        "result": "profile_available",
+        "observation": "Otwarto stronę profilu w przeglądarce; nie wyświetlono komunikatu o nieistniejącym koncie lub niedostępnej zawartości."
+      },
+      {
+        "url": "https://www.facebook.com/rtveuroagd/",
+        "platform": "facebook",
+        "records": [
+          {
+            "id": "R031",
+            "brand": "RTV Euro AGD"
+          }
+        ],
+        "checkedAt": "2026-11-09",
+        "result": "profile_available",
+        "observation": "Otwarto stronę profilu w przeglądarce; nie wyświetlono komunikatu o nieistniejącym koncie lub niedostępnej zawartości."
+      },
+      {
+        "url": "https://x.com/EuroPromocje",
+        "platform": "x",
+        "records": [
+          {
+            "id": "R031",
+            "brand": "RTV Euro AGD"
+          }
+        ],
+        "checkedAt": "2026-11-09",
+        "result": "profile_available",
+        "observation": "Otwarto stronę profilu w przeglądarce; nie wyświetlono komunikatu o nieistniejącym koncie lub niedostępnej zawartości."
+      },
+      {
+        "url": "https://www.facebook.com/Sanofi",
+        "platform": "facebook",
+        "records": [
+          {
+            "id": "R009",
+            "brand": "Sanofi"
+          }
+        ],
+        "checkedAt": "2026-11-09",
+        "result": "profile_available",
+        "observation": "Otwarto stronę profilu w przeglądarce; nie wyświetlono komunikatu o nieistniejącym koncie lub niedostępnej zawartości."
+      },
+      {
+        "url": "https://x.com/sanofipolska",
+        "platform": "x",
+        "records": [
+          {
+            "id": "R009",
+            "brand": "Sanofi"
+          }
+        ],
+        "checkedAt": "2026-11-09",
+        "result": "profile_available",
+        "observation": "Otwarto stronę profilu w przeglądarce; nie wyświetlono komunikatu o nieistniejącym koncie lub niedostępnej zawartości."
+      },
+      {
+        "url": "https://www.facebook.com/sokolowfanpage",
+        "platform": "facebook",
+        "records": [
+          {
+            "id": "R036",
+            "brand": "Sokoliki"
+          },
+          {
+            "id": "R035",
+            "brand": "Sokołów"
+          }
+        ],
+        "checkedAt": "2026-11-09",
+        "result": "profile_available",
+        "observation": "Otwarto stronę profilu w przeglądarce; nie wyświetlono komunikatu o nieistniejącym koncie lub niedostępnej zawartości."
+      },
+      {
+        "url": "https://www.facebook.com/tvpulspl",
+        "platform": "facebook",
+        "records": [
+          {
+            "id": "R001",
+            "brand": "TV Puls"
+          }
+        ],
+        "checkedAt": "2026-11-09",
+        "result": "profile_available",
+        "observation": "Otwarto stronę profilu w przeglądarce; nie wyświetlono komunikatu o nieistniejącym koncie lub niedostępnej zawartości."
+      },
+      {
+        "url": "https://www.facebook.com/wakacjepl/",
+        "platform": "facebook",
+        "records": [
+          {
+            "id": "R038",
+            "brand": "Wakacje.pl"
+          }
+        ],
+        "checkedAt": "2026-11-09",
+        "result": "profile_available",
+        "observation": "Otwarto stronę profilu w przeglądarce; nie wyświetlono komunikatu o nieistniejącym koncie lub niedostępnej zawartości."
+      },
+      {
+        "url": "https://x.com/portalwakacjepl",
+        "platform": "x",
+        "records": [
+          {
+            "id": "R038",
+            "brand": "Wakacje.pl"
+          }
+        ],
+        "checkedAt": "2026-11-09",
+        "result": "profile_available",
+        "observation": "Otwarto stronę profilu w przeglądarce; nie wyświetlono komunikatu o nieistniejącym koncie lub niedostępnej zawartości."
+      },
+      {
+        "url": "https://www.facebook.com/Warka",
+        "platform": "facebook",
+        "records": [
+          {
+            "id": "R037",
+            "brand": "Warka"
+          }
+        ],
+        "checkedAt": "2026-11-09",
+        "result": "profile_available",
+        "observation": "Otwarto stronę profilu w przeglądarce; nie wyświetlono komunikatu o nieistniejącym koncie lub niedostępnej zawartości."
+      },
+      {
+        "url": "https://www.facebook.com/WhirlpoolPL",
+        "platform": "facebook",
+        "records": [
+          {
+            "id": "R026",
+            "brand": "Whirlpool"
+          }
+        ],
+        "checkedAt": "2026-11-09",
+        "result": "profile_available",
+        "observation": "Otwarto stronę profilu w przeglądarce; nie wyświetlono komunikatu o nieistniejącym koncie lub niedostępnej zawartości.",
+        "redirectedTo": "https://www.facebook.com/whirlpoolbelux/?brand_redir=1057914424275657#",
+        "note": "Zachowano oryginalny działający odnośnik. Przekierowanie może zależeć od regionu lub ustawień platformy."
+      },
+      {
+        "url": "https://www.facebook.com/urzadmarszalkowski.lubelskie",
+        "platform": "facebook",
+        "records": [
+          {
+            "id": "R052",
+            "brand": "Województwo Lubelskie"
+          }
+        ],
+        "checkedAt": "2026-11-09",
+        "result": "profile_available",
+        "observation": "Otwarto stronę profilu w przeglądarce; nie wyświetlono komunikatu o nieistniejącym koncie lub niedostępnej zawartości."
+      },
+      {
+        "url": "https://x.com/UMWL_Lublin",
+        "platform": "x",
+        "records": [
+          {
+            "id": "R052",
+            "brand": "Województwo Lubelskie"
+          }
+        ],
+        "checkedAt": "2026-11-09",
+        "result": "account_not_found",
+        "observedMessage": "To konto nie istnieje"
+      },
+      {
+        "url": "https://www.facebook.com/lubiemalopolske",
+        "platform": "facebook",
+        "records": [
+          {
+            "id": "R053",
+            "brand": "Województwo Małopolskie"
+          }
+        ],
+        "checkedAt": "2026-11-09",
+        "result": "profile_available",
+        "observation": "Otwarto stronę profilu w przeglądarce; nie wyświetlono komunikatu o nieistniejącym koncie lub niedostępnej zawartości."
+      },
+      {
+        "url": "https://x.com/malopolskaPL",
+        "platform": "x",
+        "records": [
+          {
+            "id": "R053",
+            "brand": "Województwo Małopolskie"
+          }
+        ],
+        "checkedAt": "2026-11-09",
+        "result": "profile_available",
+        "observation": "Otwarto stronę profilu w przeglądarce; nie wyświetlono komunikatu o nieistniejącym koncie lub niedostępnej zawartości."
+      },
+      {
+        "url": "https://www.facebook.com/xtbpl",
+        "platform": "facebook",
+        "records": [
+          {
+            "id": "R030",
+            "brand": "XTB"
+          }
+        ],
+        "checkedAt": "2026-11-09",
+        "result": "profile_available",
+        "observation": "Otwarto stronę profilu w przeglądarce; nie wyświetlono komunikatu o nieistniejącym koncie lub niedostępnej zawartości.",
+        "redirectedTo": "https://www.facebook.com/xtbfr/?brand_redir=155747967133#",
+        "note": "Zachowano oryginalny działający odnośnik. Przekierowanie może zależeć od regionu lub ustawień platformy."
+      },
+      {
+        "url": "https://x.com/xtbpl",
+        "platform": "x",
+        "records": [
+          {
+            "id": "R030",
+            "brand": "XTB"
+          }
+        ],
+        "checkedAt": "2026-11-09",
+        "result": "profile_available",
+        "observation": "Otwarto stronę profilu w przeglądarce; nie wyświetlono komunikatu o nieistniejącym koncie lub niedostępnej zawartości."
+      },
+      {
+        "url": "https://www.facebook.com/YerbadorMate/",
+        "platform": "facebook",
+        "records": [
+          {
+            "id": "R020",
+            "brand": "Yerbador"
+          }
+        ],
+        "checkedAt": "2026-11-09",
+        "result": "profile_available",
+        "observation": "Otwarto stronę profilu w przeglądarce; nie wyświetlono komunikatu o nieistniejącym koncie lub niedostępnej zawartości.",
+        "redirectedTo": "https://www.facebook.com/profile.php?id=61556124706139&brand_redir=629148620491637#",
+        "note": "Zachowano oryginalny działający odnośnik. Przekierowanie może zależeć od regionu lub ustawień platformy."
+      },
+      {
+        "url": "https://www.facebook.com/zondacryptopolska",
+        "platform": "facebook",
+        "records": [
+          {
+            "id": "R018",
+            "brand": "Zondacrypto"
+          }
+        ],
+        "checkedAt": "2026-11-09",
+        "result": "profile_available",
+        "observation": "Otwarto stronę profilu w przeglądarce; nie wyświetlono komunikatu o nieistniejącym koncie lub niedostępnej zawartości."
+      },
+      {
+        "url": "https://x.com/zondacryptopl",
+        "platform": "x",
+        "records": [
+          {
+            "id": "R018",
+            "brand": "Zondacrypto"
+          }
+        ],
+        "checkedAt": "2026-11-09",
+        "result": "profile_available",
+        "observation": "Otwarto stronę profilu w przeglądarce; nie wyświetlono komunikatu o nieistniejącym koncie lub niedostępnej zawartości."
+      },
+      {
+        "url": "https://www.facebook.com/zubr",
+        "platform": "facebook",
+        "records": [
+          {
+            "id": "R008",
+            "brand": "Żubr"
+          }
+        ],
+        "checkedAt": "2026-11-09",
+        "result": "profile_available",
+        "observation": "Otwarto stronę profilu w przeglądarce; nie wyświetlono komunikatu o nieistniejącym koncie lub niedostępnej zawartości."
+      }
+    ],
+    "removed": [
+      {
+        "id": "R007",
+        "brand": "Aflofarm",
+        "platform": "facebook",
+        "url": "https://www.facebook.com/postroniezdrowia/",
+        "reason": "Facebook: odnośnik usunięto 9 listopada 2026 po bezpośrednim sprawdzeniu w przeglądarce. Platforma wyświetliła komunikat „Te materiały nie są teraz dostępne”. Komunikat nie rozstrzyga, czy stronę usunięto trwale, czy ograniczono jej dostępność."
+      },
+      {
+        "id": "R039",
+        "brand": "Captain Jack",
+        "platform": "facebook",
+        "url": "https://www.facebook.com/CaptainJackbeer",
+        "reason": "Facebook: odnośnik usunięto 9 listopada 2026 po bezpośrednim sprawdzeniu w przeglądarce. Platforma wyświetliła komunikat „Te materiały nie są teraz dostępne”. Komunikat nie rozstrzyga, czy stronę usunięto trwale, czy ograniczono jej dostępność."
+      },
+      {
+        "id": "R029",
+        "brand": "Glovo",
+        "platform": "x",
+        "url": "https://x.com/Glovo_PL",
+        "reason": "X: odnośnik usunięto 9 listopada 2026 po bezpośrednim sprawdzeniu w przeglądarce. Platforma wyświetliła komunikat „To konto nie istnieje”."
+      },
+      {
+        "id": "R052",
+        "brand": "Województwo Lubelskie",
+        "platform": "x",
+        "url": "https://x.com/UMWL_Lublin",
+        "reason": "X: odnośnik usunięto 9 listopada 2026 po bezpośrednim sprawdzeniu w przeglądarce. Platforma wyświetliła komunikat „To konto nie istnieje”."
       }
     ]
   }

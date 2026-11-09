@@ -1,3 +1,8 @@
+KONTROLA ODNOŚNIKÓW — 9 LISTOPADA 2026
+Sprawdzono bezpośrednio w przeglądarce 44 różne adresy X i Facebook. Cztery niedostępne odnośniki usunięto z tabeli, szczegółów oraz aktywnych pól JSON i CSV: Facebook Aflofarm i Captain Jack oraz X Glovo_PL i UMWL_Lublin. Pozostałe 40 otwierało strony profili; dostępność nie oznacza potwierdzenia częstotliwości wpisów. Wyniki, komunikaty i przekierowania: socialLinkAvailability w data/publikacja.json. Nie dodano nowych profili.
+Usunięto publiczny blok porównujący robocze liczby 58 → 49 → 44 wraz z odsyłaczem; zachowano dane źródłowe.
+Kopia sprzed tej korekty: TV_Republika_2026_kopia_przed_korekta_linkow_2026-11-09.zip; commit: 2f44929df41ef8ae26c3984b0e3bcafeab209b14. Przywracać wyłącznie tv-republika-2026/.
+
 ADRESY I PROFILE — AKTUALIZACJA 9 LISTOPADA 2026
 Sprawdzono: 9 listopada 2026. Zatwierdzono wdrożenie do istniejącej publikacji GitHub Pages.
 Oryginalny publiczny URL: https://mariuszm22.github.io/publikacje/tv-republika-2026/
@@ -6,16 +11,16 @@ Kopia wersji publicznej sprzed zmian: TV_Republika_2026_kopia_przed_adresami_202
 
 WYNIK
 42/44 zweryfikowanych siedzib operatorów (36 różnych adresów), dodatkowo 1 adres centrali zagranicznego właściciela Whirlpool.
-X: 13 kont. Facebook: 32 pozycji, 31 różnych stron, w tym 1 globalny profil grupy.
+X: 11 kont. Facebook: 30 pozycji, 29 różnych stron, w tym 1 globalny profil grupy.
 Nieustalone adresy: Centrum Animacji Misyjnej, Szkoła Gazety Polskiej.
-Braki X: AFG Electric Motors, Aflofarm, Captain Jack, CarFix, Castorama, Centrum Animacji Misyjnej, EkaMedica, Goryla.pl, Harnaś, Ikony Motoryzacji, Kasztelan, Krakus, Kuchnia Vikinga, Magne B6, Mango, Media Expert, Motolia, NOWROCKY / President 1, Okocim, Oleofarm, Republika Energetyczna, Republika Mobile, Sokoliki, Sokołów, Szkoła Gazety Polskiej, TV Puls, Warka, Whirlpool, Województwo Świętokrzyskie, Yerbador, Żubr.
-Braki Facebook: AFG Electric Motors, Harnaś, Kasztelan, Krakus, Magne B6, Motolia, NBP / Narodowy Bank Polski, Okocim, Republika Energetyczna, Republika Mobile, Szkoła Gazety Polskiej, Województwo Świętokrzyskie.
+Braki X: AFG Electric Motors, Aflofarm, Captain Jack, CarFix, Castorama, Centrum Animacji Misyjnej, EkaMedica, Glovo, Goryla.pl, Harnaś, Ikony Motoryzacji, Kasztelan, Krakus, Kuchnia Vikinga, Magne B6, Mango, Media Expert, Motolia, NOWROCKY / President 1, Okocim, Oleofarm, Republika Energetyczna, Republika Mobile, Sokoliki, Sokołów, Szkoła Gazety Polskiej, TV Puls, Warka, Whirlpool, Województwo Lubelskie, Województwo Świętokrzyskie, Yerbador, Żubr.
+Braki Facebook: AFG Electric Motors, Aflofarm, Captain Jack, Harnaś, Kasztelan, Krakus, Magne B6, Motolia, NBP / Narodowy Bank Polski, Okocim, Republika Energetyczna, Republika Mobile, Szkoła Gazety Polskiej, Województwo Świętokrzyskie.
 
 DANE I METODA
 Każdy rekord JSON ma officialContacts: checkedAt, address, x, facebook, additionalAddresses, missingNotes i attemptedSources. Braki to null, nie domniemane konta. Elementy zawierają bezpośredni URL źródła i sourceId do contactSources; kontekst prawnej roli podmiotu może mieć osobne źródło contextSource. contactSources nie zmienia wcześniejszej listy sources. contactsReview zawiera liczniki i listę braków. CSV katalogu ma zachowane dotychczasowe kolumny i dopisane pola adresowe, role, źródła, daty i zastrzeżenia. CSV umów pozostał bez zmian.
 
 UI
-Pełna sekcja „Adres i profile oficjalne” pozostaje w szczegółach istniejących wierszy. Brakujące pola są niewidoczne. Nie dodano kolumn. Pod nazwami pokazano 13 linków X i 32 linki FB z istniejącej zweryfikowanej bazy. Linki otwierają profile w nowej karcie, a nie szczegóły wiersza; ich nazwy dostępne dla czytników ekranu rozróżniają markę, operatora i grupę. Dotychczasowe sortowanie, wyszukiwanie, filtry i odnośniki zachowano. Dane reklamowe nadal według stanu 8 listopada, dane adresowe i profile sprawdzone 9 listopada.
+Pełna sekcja „Adres i profile oficjalne” pozostaje w szczegółach istniejących wierszy. Brakujące pola są niewidoczne. Nie dodano kolumn. Pod nazwami pokazano 11 linków X i 30 linków FB z istniejącej zweryfikowanej bazy. Linki otwierają profile w nowej karcie, a nie szczegóły wiersza; ich nazwy dostępne dla czytników ekranu rozróżniają markę, operatora i grupę. Dotychczasowe sortowanie, wyszukiwanie, filtry i odnośniki zachowano. Dane reklamowe nadal według stanu 8 listopada, dane adresowe i profile sprawdzone 9 listopada.
 
 ŹRÓDŁA I OGRANICZENIA
 Aktualny KRS ma pierwszeństwo wobec starszych firmowych polityk i adresów korespondencyjnych. Weryfikacja kont wynika z linków oficjalnych witryn/aplikacji i dokumentów albo jednoznacznej odpowiedzi firmy w prasie. NBP X: PRoto z 3.11.2021; Media Expert FB: Demagog z 4.07.2023. Nie potwierdzono aktywności i dat ostatnich wpisów na platformach. Przy Sanofi globalny Facebook grupy jest wyraźnie oznaczony jako parent; przy Sokolikach pokazano Facebook operatora, nie osobne konto marki. Identyfikacja kontaktu nie potwierdza zlecenia ani zapłaty za reklamę.
@@ -33,7 +38,7 @@ Otwórz index.html. Strona działa jako pliki lokalne i przez HTTP. Względne od
 ZAWARTOŚĆ
 index.html — 44 pozycje zakresu 2026: 39 marek/projektów i 5 instytucji.
 pieniadze-publiczne.html — 8 umów; wartości, wykonanie i zapłata oddzielone; NBP i CSK opisane osobno.
-weryfikacja.html — 20 wskazanych podmiotów, każda różnica58→49→44, 16 tematów niewiadomych i140 istotnych twierdzeń.
+weryfikacja.html — 20 wskazanych podmiotów, 16 tematów niewiadomych i140 istotnych twierdzeń oraz kontrola danych kontaktowych.
 zrodla.html — każdy adres: autor/wydawca, data, pochodzenie, odczytana treść, ograniczenia, zależność. Powtarzające się adresy mają aliasy.
 jak-czytac.html — zakres i metoda, własność i sposób zakupu.
 wnioski-informacja-publiczna.txt — osiem niewysłanych projektów wniosków.
